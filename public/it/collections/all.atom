@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="it" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>https://luri.gold/it/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://luri.gold/collections/all"/>
+  <link rel="alternate" type="text/html" href="/asset/luri.gold/collections/all"/>
   <link rel="self" type="application/atom+xml" href="https://luri.gold/it/collections/all.atom"/>
   <title>LURI jewels</title>
   <updated>2026-02-10T12:32:25+01:00</updated>
@@ -19,7 +19,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/granulated-gold-ring-blue-topaz.jpg?v=1770722562"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/granulated-gold-ring-blue-topaz.jpg__q_v_1770722562"></td>
     <td valign="bottom">
       <p>
 
@@ -57,7 +57,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/ring-gold-tourmaline.jpg?v=1770720947"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/ring-gold-tourmaline.jpg__q_v_1770720947"></td>
     <td valign="bottom">
       <p>
 
@@ -95,7 +95,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2388_3103e6cc-b3a9-4e61-9cc8-86ed09b0ad15.jpg?v=1739528595"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2388_3103e6cc-b3a9-4e61-9cc8-86ed09b0ad15.jpg__q_v_1739528595"></td>
     <td valign="bottom">
       <p>
 
@@ -272,14 +272,14 @@
     <id>https://luri.gold/it/products/10037817311578</id>
     <published>2025-02-13T19:22:18+01:00</published>
     <updated>2025-02-13T19:22:18+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/fede"/>
+    <link rel="alternate" type="text/html" href="/asset/luri.gold/it/products/fede"/>
     <title>Fede</title>
     <s:type></s:type>
     <s:vendor>LURI jewels</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2288.jpg?v=1739470855"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2288.jpg__q_v_1739470855"></td>
     <td valign="bottom">
       <p>
 
@@ -287,7 +287,7 @@
         <strong>Tipo: </strong><br>
         <strong>Prezzo: </strong>
             800.00 - 1000.00
-            <a href="https://luri.gold/it/products/fede">(88 variants)</a>
+            <a href="/asset/luri.gold/it/products/fede">(88 variants)</a>
       </p>
     </td>
   </tr>
@@ -926,7 +926,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2181.jpg?v=1739465705"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2181.jpg__q_v_1739465705"></td>
     <td valign="bottom">
       <p>
 
@@ -1110,7 +1110,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2252_cdb04633-be32-4caf-b798-45308d9b7124.jpg?v=1739553191"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2252_cdb04633-be32-4caf-b798-45308d9b7124.jpg__q_v_1739553191"></td>
     <td valign="bottom">
       <p>
 
@@ -1147,7 +1147,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1204.jpg?v=1754656389"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1204.jpg__q_v_1754656389"></td>
     <td valign="bottom">
       <p>
 
@@ -1290,7 +1290,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1399.jpg?v=1731600231"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1399.jpg__q_v_1731600231"></td>
     <td valign="bottom">
       <p>
 
@@ -1319,14 +1319,14 @@
     <id>https://luri.gold/it/products/9899526553946</id>
     <published>2024-11-14T13:24:16+01:00</published>
     <updated>2024-11-14T13:24:16+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/chain-earrings-with-imperial-topaz"/>
+    <link rel="alternate" type="text/html" href="/asset/luri.gold/it/products/chain-earrings-with-imperial-topaz"/>
     <title>Orecchini a catena con topazio imperiale</title>
     <s:type></s:type>
     <s:vendor>LURI jewels</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1304.jpg?v=1731585956"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1304.jpg__q_v_1731585956"></td>
     <td valign="bottom">
       <p>
 
@@ -1363,7 +1363,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1393.jpg?v=1731583933"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1393.jpg__q_v_1731583933"></td>
     <td valign="bottom">
       <p>
 
@@ -1400,7 +1400,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1525.jpg?v=1731576311"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1525.jpg__q_v_1731576311"></td>
     <td valign="bottom">
       <p>
 
@@ -1437,7 +1437,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1093.jpg?v=1731497638"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1093.jpg__q_v_1731497638"></td>
     <td valign="bottom">
       <p>
 
@@ -1467,14 +1467,14 @@
     <id>https://luri.gold/it/products/9896555577690</id>
     <published>2024-11-12T19:50:50+01:00</published>
     <updated>2024-11-12T19:50:50+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/helios-ring"/>
+    <link rel="alternate" type="text/html" href="/asset/luri.gold/it/products/helios-ring"/>
     <title>Anello Helios</title>
     <s:type></s:type>
     <s:vendor>Schuberthan Gold</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC_0430.jpg?v=1731437218"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC_0430.jpg__q_v_1731437218"></td>
     <td valign="bottom">
       <p>
 
@@ -1664,7 +1664,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1676.jpg?v=1731433154"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1676.jpg__q_v_1731433154"></td>
     <td valign="bottom">
       <p>
 
@@ -1708,7 +1708,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1906.jpg?v=1731423344"></td>
+    <td width="200"><img width="200" src="/asset/cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1906.jpg__q_v_1731423344"></td>
     <td valign="bottom">
       <p>
 
@@ -1820,7 +1820,7 @@
     <id>https://luri.gold/it/products/9824483213658</id>
     <published>2024-10-01T19:15:18+02:00</published>
     <updated>2024-10-01T19:15:18+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/gemini-charm"/>
+    <link rel="alternate" type="text/html" href="/asset/luri.gold/it/products/gemini-charm"/>
     <title>Pendente Gemelli</title>
     <s:type></s:type>
     <s:vendor>My Store</s:vendor>
@@ -1943,7 +1943,7 @@
     <id>https://luri.gold/it/products/9823915016538</id>
     <published>2024-10-01T12:02:13+02:00</published>
     <updated>2024-10-01T12:02:13+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/aries-charm"/>
+    <link rel="alternate" type="text/html" href="/asset/luri.gold/it/products/aries-charm"/>
     <title>Pendente Ariete</title>
     <s:type></s:type>
     <s:vendor>My Store</s:vendor>
@@ -2066,7 +2066,7 @@
     <id>https://luri.gold/it/products/9823826936154</id>
     <published>2024-10-01T11:02:46+02:00</published>
     <updated>2024-10-01T11:02:46+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/libra-charm"/>
+    <link rel="alternate" type="text/html" href="/asset/luri.gold/it/products/libra-charm"/>
     <title>Pendente Bilancia</title>
     <s:type></s:type>
     <s:vendor>My Store</s:vendor>
