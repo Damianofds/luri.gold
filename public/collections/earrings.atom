@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://luri.gold/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://luri.gold/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://luri.gold/collections/earrings.atom"/>
+  <title>LURI jewels</title>
+  <updated>2025-02-06T11:25:56+01:00</updated>
+  <author>
+    <name>LURI jewels</name>
+  </author>
+  <entry>
+    <id>https://luri.gold/products/10022607552858</id>
+    <published>2025-02-06T11:25:56+01:00</published>
+    <updated>2025-02-06T11:25:56+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/granulated-emerald-studs"/>
+    <title>Granulated Emerald Studs</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2252_cdb04633-be32-4caf-b798-45308d9b7124.jpg?v=1739553191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LURI jewels<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The intense green of these Brazilian emeralds is a perfect combination with the warm colour of the gold 900. Emerald is the birthstone of May and the inclusions in the gems are called <em>jardin</em> - garden, reminding of the green leaves that spring brings back. </p>
+<p>The studs are available also with your personal favourite gem, please <a rel="noopener" href="https://luri.gold/pages/contact" target="_blank">contact</a> me for any customisation. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/products/10022607552858</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9899881726298</id>
+    <published>2024-11-14T17:44:23+01:00</published>
+    <updated>2024-11-14T17:44:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/granulated-studs"/>
+    <title>Granulated Studs</title>
+    <s:type></s:type>
+    <s:vendor>Schuberthan Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1399.jpg?v=1731600231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schuberthan Gold<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A rising sun for your ear stack, these studs are handmade in gold 900. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/products/9899881726298</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9899526553946</id>
+    <published>2024-11-14T13:24:16+01:00</published>
+    <updated>2024-11-14T13:24:16+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/chain-earrings-with-imperial-topaz"/>
+    <title>Chain Earrings with Imperial Topaz</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1304.jpg?v=1731585956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LURI jewels<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dangling on a handwoven Roman loop-in-loop chain, these drops of golden topaz reflect the light in a subtle way. </p>
+<p><meta charset="utf-8"><span>Would you like to choose your own favourite gems for a custom design? Please </span><a rel="noopener" href="https://luri.gold/pages/contact" target="_blank">contact</a><span> me, together we will find the perfect fit. </span><meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/products/9899526553946</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9896398094682</id>
+    <published>2024-11-12T16:46:51+01:00</published>
+    <updated>2024-11-12T16:46:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/tourmaline-and-pearl-earrings"/>
+    <title>Tourmaline and Pearl Earrings</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1906.jpg?v=1731423344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LURI jewels<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1050.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img><img><img><img>The colour of these tourmalines changes with the light between a mysterious grey and a celestial blue. Combined with the soft shimmer of white pearls and the warm glow of gold 900 - a festive dream! </p>
+<p>They can be made with other precious gems and pearls, too. Please <a href="https://luri.gold/pages/contact">contact</a> me, together we will create your personal favourite combination. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/products/9896398094682</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9742288322906</id>
+    <published>2024-08-26T15:40:11+02:00</published>
+    <updated>2024-08-26T15:40:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/pyramid-studs"/>
+    <title>Pyramid studs</title>
+    <s:type></s:type>
+    <s:vendor>Schuberthan Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1404.jpg?v=1724678137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schuberthan Gold<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Granules form distinct geometric shapes naturally and can be found like these as granulation decoration on antique jewellery throughout different cultures, from the Etruscans to the Assyrians. The pyramid of four spheres is one of them.</p>
+<p>As all LURI pieces, these studs are crafted entirely by hand with responsibly sourced <a rel="noopener" href="https://luri.gold/pages/about" target="_blank">materials</a>. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/products/9742288322906</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

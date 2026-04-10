@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://luri.gold/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://luri.gold/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://luri.gold/collections/bracelets.atom"/>
+  <title>LURI jewels</title>
+  <updated>2024-08-13T17:11:35+02:00</updated>
+  <author>
+    <name>LURI jewels</name>
+  </author>
+  <entry>
+    <id>https://luri.gold/products/9712676208986</id>
+    <published>2024-08-13T17:11:35+02:00</published>
+    <updated>2024-08-13T17:11:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/handwoven-chain-bracelet"/>
+    <title>Handwoven Chain Bracelet</title>
+    <s:type></s:type>
+    <s:vendor>Schuberthan Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1535_646330a2-3e8f-453f-af7c-d0e5d22eb2e3.jpg?v=1723562559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schuberthan Gold<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is an essential piece to adorn you day by day, on its own or combined with <a href="https://luri.gold/collections/pendants" title="charms" rel="noopener" target="_blank">charms</a>.</p>
+<p>The bracelet is made in 900 gold <meta charset="utf-8">(21.6 karat), whose exceptional characteristics allow the metal wire to be bend and woven almost like fabric. It <meta charset="utf-8">is crafted in the same, meditative technique used for thousands of years. The loop in loop chain may well be the oldest form of a chain and ancient peoples' goldsmiths, such as the Greek and Etruscans, produced intricate works with several strands and pendants with it.</p>
+<p>This bracelet measures 18 cm in length, but can be made in any length, even as a necklace. Please <a href="https://luri.gold/pages/contact" rel="noopener" target="_blank">contact</a> me for any adjustments, together we will find your perfect fit.</p>
+<p><meta charset="utf-8">As all LURI pieces, it is crafted entirely by hand.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/products/9712676208986</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+</feed>

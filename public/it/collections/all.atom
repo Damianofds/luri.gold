@@ -1,0 +1,2147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="it" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://luri.gold/it/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://luri.gold/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://luri.gold/it/collections/all.atom"/>
+  <title>LURI jewels</title>
+  <updated>2026-02-10T12:32:25+01:00</updated>
+  <author>
+    <name>LURI jewels</name>
+  </author>
+  <entry>
+    <id>https://luri.gold/it/products/10731404099930</id>
+    <published>2026-02-10T12:32:25+01:00</published>
+    <updated>2026-02-10T12:32:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/granulated-ring"/>
+    <title>Anello Granulato</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/granulated-gold-ring-blue-topaz.jpg?v=1770722562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>LURI jewels<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            1700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Realizzato in oro 900 e granulato secondo l'antica tecnica utilizzata già migliaia di anni fa, questo anello con topazio blu è un inno all'artigianato e alla bellezza dell'imperfezione.</p>
+<p>È realizzato su ordinazione ed è disponibile con la pietra preziosa dei tuoi sogni.</p>
+<p>Per ulteriori dettagli, <a href="https://luri.gold/it/pages/contact">contattami</a> .</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/10731404099930</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1700.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/10473097757018</id>
+    <published>2026-02-10T11:07:54+01:00</published>
+    <updated>2026-02-10T11:07:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/anello-omega"/>
+    <title>Anello Omega</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/ring-gold-tourmaline.jpg?v=1770720947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>LURI jewels<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Un omaggio al colore, l'anello Omega mette al centro dell'attenzione una gemma taglio cabochon. Grazie alla natura unica delle gemme, ogni pezzo è unico nel suo genere. Realizzato in oro 900. Nuove gemme saranno presto disponibili online!</p>
+<p>Hai una pietra preziosa preferita? <a href="https://luri.gold/pages/contact">Contattami</a> per ricevere la tua versione personalizzata.</p>
+<p>Il prezzo può variare a seconda della pietra preziosa scelta.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/10473097757018</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1400.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/10038945546586</id>
+    <published>2025-02-14T15:12:15+01:00</published>
+    <updated>2025-02-14T15:12:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/colonna-ring"/>
+    <title>Anello Colonna</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2388_3103e6cc-b3a9-4e61-9cc8-86ed09b0ad15.jpg?v=1739528595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>LURI jewels<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            1100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ispirato dalle colonne antiche questo anello simbolizza solidità e longevità. Un simbolo perfetto, quindi, per l'amore e per l'amicizia. Ma anche una promemoria giornaliera a se stessi della propria forza interiore che ci sorregge, sempre.</p>
+<p>Questo anello è alto 5 mm e realizzato in oro 900.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>48</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>50</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>51</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>49</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>52</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>53</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>54</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>55</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>56</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>57</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>58</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>59</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>60</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>61</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>62</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>63</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>64</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>65</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>66</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>67</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>68</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10038945546586</id>
+      <title>69</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/10037817311578</id>
+    <published>2025-02-13T19:22:18+01:00</published>
+    <updated>2025-02-13T19:22:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/fede"/>
+    <title>Fede</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2288.jpg?v=1739470855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>LURI jewels<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            800.00 - 1000.00
+            <a href="https://luri.gold/it/products/fede">(88 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Un classico! Ma ancora più prezioso perché realizzato in oro 900. La superficie setosa si lucida con il tempo tramite gli oli della tua pelle.&nbsp;Disponibile anche lucidato a specchio. La vita ci lascerà i suoi segni, ricordi del tempo passato insieme.</p>
+<p>L'altezza tradizionale è di 3 mm, ma può essere realizzato secondo i tuoi desideri più spesso o più sottile, <a href="https://luri.gold/it/pages/contact">scrivimi</a> per ogni personalizzazione.<meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 48</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 49</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 50</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 51</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 52</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 53</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 54</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 55</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 56</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 57</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 58</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 59</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 60</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 61</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 62</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 63</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 64</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 65</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 66</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 67</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 68</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Satinato / 69</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 48</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 49</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 50</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 51</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 52</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 53</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 54</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 55</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 56</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 57</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 58</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 59</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 60</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 61</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 62</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 63</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 64</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 65</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 66</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 67</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 68</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 750 / Lucidato / 69</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 48</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 49</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 50</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 51</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 52</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 53</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 54</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 55</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 56</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 57</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 58</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 59</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 60</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 61</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 62</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 63</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 64</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 65</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 66</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 67</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 68</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Satinato / 69</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 48</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 49</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 50</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 51</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 52</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 53</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 54</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 55</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 56</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 57</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 58</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 59</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 60</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 61</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 62</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 63</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 64</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 65</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 66</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 67</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 68</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037817311578</id>
+      <title>Gold 900 / Lucidato / 69</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/10037770125658</id>
+    <published>2025-02-13T18:42:30+01:00</published>
+    <updated>2025-02-13T18:42:30+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/hammered-ring"/>
+    <title>Anello martellato </title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2181.jpg?v=1739465705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>LURI jewels<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            1050.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Martellato fuori, lucidato all'interno, un gioco di contrasti che ci ricorda di non farci ingannare dall'impressione superficiale.</p>
+<p>Questo anello è alto 3 mm e fatto in oro 900, ma può essere più o meno alto <meta charset="utf-8">secondo le tue preferenze e puoi aggiungere anche delle pietre. <a href="https://luri.gold/it/pages/contact">Scrivimi</a> per ogni tuo desiderio di personalizzazione.<meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>48</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>49</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>50</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>51</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>52</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>53</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>54</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>55</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>56</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>57</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>58</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>59</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>60</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>61</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>62</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>63</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>64</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>65</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>66</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>67</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>68</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/10037770125658</id>
+      <title>69</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/10022607552858</id>
+    <published>2025-02-06T11:25:56+01:00</published>
+    <updated>2025-02-06T11:25:56+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/granulated-emerald-studs"/>
+    <title>Orecchini con smeraldi</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2252_cdb04633-be32-4caf-b798-45308d9b7124.jpg?v=1739553191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>LURI jewels<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Il verde intenso di questi smeraldi brasiliani si abbina perfettamente al colore caldo del oro 900. Gli smeraldi sono la pietra di chi è nato a maggio e le inclusioni visibili si chiamano <em>jardin</em> - giardino perché ricordano le foglie verdi riportati dalla primavera.</p>
+<p>Gli orecchini possono essere realizzati anche con la tua pietra di nascita o semplicemente quella che ti piace di più. <a href="https://luri.gold/it/pages/contact">Scrivimi</a> per una personalizzazione.<meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/10022607552858</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9934947975514</id>
+    <published>2024-12-09T10:53:23+01:00</published>
+    <updated>2024-12-09T10:53:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/diamond-ring"/>
+    <title>Anello con diamante</title>
+    <s:type></s:type>
+    <s:vendor>Schuberthan Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1204.jpg?v=1754656389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>Schuberthan Gold<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In un letto d'oro <meta charset="utf-8">brilla un diamante incorniciato da granuli. Un dono speciale, questo è un anello da indossare tutti i giorni.&nbsp;</p>
+<p>Vorresti una pietra diversa o un diamante più grande? <a href="https://luri.gold/it/pages/contact">Scrivimi</a> per qualsiasi personalizzazione.<meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>engagement</s:tag>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>47</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>48</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>49</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>50</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>51</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>52</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>53</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>54</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>55</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>56</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>57</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>58</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>59</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>60</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>61</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9934947975514</id>
+      <title>62</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9899881726298</id>
+    <published>2024-11-14T17:44:23+01:00</published>
+    <updated>2024-11-14T17:44:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/granulated-studs"/>
+    <title>Orecchini granulati</title>
+    <s:type></s:type>
+    <s:vendor>Schuberthan Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1399.jpg?v=1731600231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>Schuberthan Gold<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Come un sole levante questi orecchini brillano in oro 900 dal tuo orecchio. Sono fatte con l'antica tecnica della granulazione.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/9899881726298</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9899526553946</id>
+    <published>2024-11-14T13:24:16+01:00</published>
+    <updated>2024-11-14T13:24:16+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/chain-earrings-with-imperial-topaz"/>
+    <title>Orecchini a catena con topazio imperiale</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1304.jpg?v=1731585956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>LURI jewels<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pendenti da una catena loop-in-loop romana in oro 900, queste gocce di topazio imperiale riflettono dolcemente la luce seguendo ogni tuo movimento.</p>
+<p>Hai un'altra gemma preferita che vorresti accompagnare con questo design? <a href="https://luri.gold/it/pages/contact">Scrivimi</a> e insieme creiamo gli orecchini dei tuoi sogni.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/9899526553946</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9899477827930</id>
+    <published>2024-11-14T12:42:55+01:00</published>
+    <updated>2024-11-14T12:42:55+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/orbit-ring-with-antique-coral"/>
+    <title>Anello orbita con coralli</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1393.jpg?v=1731583933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>LURI jewels<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coralli incorniciati in oro 900 girano intorno al tuo dito con questo anello floreale.</p>
+<p>Questo esemplare unico è una taglia 11 e non può essere adattato. Porti una taglia diversa o preferisci un'altra gemma? <a href="https://luri.gold/it/pages/contact">Scrivimi</a> e insieme creiamo la combinazione dei tuoi sogni.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/9899477827930</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">990.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9899459117402</id>
+    <published>2024-11-14T12:20:25+01:00</published>
+    <updated>2024-11-14T12:20:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/signet-ring-with-cordella-and-peridot"/>
+    <title>Anello romano con cordella e peridoto</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1525.jpg?v=1731576311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>LURI jewels<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            1100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Forma e texture di questo anello in oro 900 <meta charset="utf-8">ricordano gioielli romani antichi, trovati sotto strati di terra dopo migliaia di anni quasi immutati e sempre splendidi. Ciò nonostante si abbina perfettamente al tuo stile di tutti i giorni.&nbsp;</p>
+<p>Questo esemplare è una taglia 9 e purtroppo non può essere adattato. Ma se hai una taglia diversa o preferisci un'altra gemma <a href="https://luri.gold/it/pages/contact">scrivimi</a> e insieme troveremo la tua combinazione perfetta.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/9899459117402</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9897911288154</id>
+    <published>2024-11-13T12:38:47+01:00</published>
+    <updated>2024-11-13T12:38:47+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/pinky-ring-with-imperial-topaz"/>
+    <title>Anello romano con topazio imperiale</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1093.jpg?v=1731497638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>LURI jewels<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Un armonia di sfumature dell'oro, questo abbinamento di oro 900 e un topazio imperiale illuminerà i tuoi giorni. Ha la forma classica di anello da mignolo, ma sta bene anche ad altre dita.&nbsp;</p>
+<p>È una taglia 10 e può essere leggermente adattato di una misura più o in meno. Se hai una taglia diversa o ti piacerebbe una pietra diversa <a href="https://luri.gold/it/pages/contact">scrivimi</a> e insieme troveremo l'anello perfetto per te.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/9897911288154</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9896555577690</id>
+    <published>2024-11-12T19:50:50+01:00</published>
+    <updated>2024-11-12T19:50:50+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/helios-ring"/>
+    <title>Anello Helios</title>
+    <s:type></s:type>
+    <s:vendor>Schuberthan Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC_0430.jpg?v=1731437218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>Schuberthan Gold<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            1900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Un anello audace in oro 900, radiante come il sole. La ripetizione e variazione della forma del cerchio ricorda la natura ciclica della vita. Giralo intorno al tuo dito giocando per aumentare la concentrazione e la calma. Lascia che il bagliore caldo dell'oro rischiari i tuoi pensieri.&nbsp;</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>47</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>48</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>49</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>50</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>51</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>52</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>53</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>54</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>55</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>56</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>57</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>58</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>59</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>60</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>61</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>62</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>63</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>64</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>65</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>66</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>67</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>68</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896555577690</id>
+      <title>69</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9896506949978</id>
+    <published>2024-11-12T18:48:34+01:00</published>
+    <updated>2024-11-12T18:48:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/paperclip-chain"/>
+    <title>Catena a maglie fatta a mano</title>
+    <s:type></s:type>
+    <s:vendor>Schuberthan Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1676.jpg?v=1731433154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>Schuberthan Gold<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            1650.00 - 2000.00
+            <a href="https://luri.gold/it/products/paperclip-chain">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ogni maglia di questa collana è fatto a mano in oro 750. Indossata da sola regala un tocco di eleganza minimalistica. Insieme ai tuoi <a href="https://luri.gold/collections/pendants">pendenti</a> preferiti diventa l'espressione del tuo stile e della tua storia.&nbsp;</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896506949978</id>
+      <title>45 cm</title>
+      <s:price currency="EUR">1650.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896506949978</id>
+      <title>55 cm</title>
+      <s:price currency="EUR">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9896398094682</id>
+    <published>2024-11-12T16:46:51+01:00</published>
+    <updated>2024-11-12T16:46:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/tourmaline-and-pearl-earrings"/>
+    <title>Orecchini con tormaline e perle </title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1906.jpg?v=1731423344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>LURI jewels<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            1050.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Il colore di queste tormaline brasiliane cambia a seconda della luce tra un grigio misterioso e un azzurro celeste. In combinazione con il luccichio dolce delle perle bianche e il tono caldo dell'oro 900 - un sogno solenne!&nbsp;</p>
+<p>Possono essere realizzati anche con pietre e perle diverse, <a href="https://luri.gold/it/pages/contact">scrivimi</a> e insieme creeremo la tua combinazione preferita.&nbsp;</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/it/products/9896398094682</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9824513622362</id>
+    <published>2024-10-01T19:42:15+02:00</published>
+    <updated>2024-10-01T19:42:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/leo-charm"/>
+    <title>Pendente Leone</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2137.jpg?v=1761345963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ognuno viene attratto dal carisma magnetico e dalla generosità del Leone. Da leader naturale pensa al benessere della sua famiglia e oltre essa e ama il riconoscimento di questi sforzi.</p>
+<p>Questo pendente è fatto a mano in oro 750.</p>
+<p>Dimensioni: circa 21 x 15 x 2 mm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/it/products/9824513622362</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9824512901466</id>
+    <published>2024-10-01T19:33:20+02:00</published>
+    <updated>2024-10-01T19:33:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/cancer-charm"/>
+    <title>Pendente Cancro</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2488.jpg?v=1761307229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Un carattere sensibile, il Cancro ha grande intuizione e empatia e tiene molto ai suoi cari. Nonostante ciò è determinato e ambizioso per raggiungere i suoi obbiettivi.&nbsp;</p>
+<p>Questo pendente è fatto a mano in oro 750.</p>
+<p>Dimensioni: circa 21 x 15 x 2 mm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/it/products/9824512901466</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9824483213658</id>
+    <published>2024-10-01T19:15:18+02:00</published>
+    <updated>2024-10-01T19:15:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/gemini-charm"/>
+    <title>Pendente Gemelli</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2507_e75798f8-d550-4ae0-a07d-3bcbf429f2fe.jpg?v=1761303428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Curiosi e loquaci, con i Gemelli non ci si annoia mai! Sempre informati sull'ultima moda e con una passione per far divertire, la loro energia e l'ottimismo è ispirante e contagioso.&nbsp;</p>
+<p>Questo pendente è fatto a mano in oro 750.</p>
+<p>Dimensioni: circa 21 x 15 x 2 mm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/it/products/9824483213658</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9824514310490</id>
+    <published>2024-10-01T19:10:02+02:00</published>
+    <updated>2024-10-01T19:10:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/virgo-charm"/>
+    <title>Pendente Vergine</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2503_6e0663b3-c735-4dd9-9f26-973f22c1914f.jpg?v=1761345921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Radicata profondamente nella terra, la Vergine prende le sue decisioni secondo analisi teorica e considerazioni pratiche. Aspirando vero significato nella vita, questo segno ha un carattere forte e autentico.</p>
+<p>Questo pendente è fatto a mano in oro 750.</p>
+<p>Dimensioni: circa 21 x 15 x 2 mm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/it/products/9824514310490</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9824419840346</id>
+    <published>2024-10-01T18:12:25+02:00</published>
+    <updated>2024-10-01T18:12:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/taurus-charm"/>
+    <title>Pendente Toro</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2496.jpg?v=1761346056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Terra a terra ma con un debole per il lusso, il Toro è affidabile e solido come un faro nella tempesta. Presente nel momento, sfrutta al meglio la vita quotidiana invece di sognare castelli in aria.&nbsp;</p>
+<p>Questo pendente è fatto a mano in oro 750.</p>
+<p>Dimensioni: circa 21 x 15 x 2 mm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/it/products/9824419840346</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9823915016538</id>
+    <published>2024-10-01T12:02:13+02:00</published>
+    <updated>2024-10-01T12:02:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/aries-charm"/>
+    <title>Pendente Ariete</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2477.jpg?v=1759920787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pieno di energia e entusiasmo, l'Ariete è sempre pronto per una sfida e un nuovo inizio. Con il suo grande ottimismo tutto è raggiungibile per questo segno positivo.</p>
+<p>Questo pendente è fatto a mano in oro 750.&nbsp;</p>
+<p>Dimensioni: circa 21 x 15 x2 mm.&nbsp;</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/it/products/9823915016538</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9823896830298</id>
+    <published>2024-10-01T11:45:14+02:00</published>
+    <updated>2024-10-01T11:45:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/pisces-charm"/>
+    <title>Pendente Pesci</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2516.jpg?v=1759920953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Pesci seguono le trasformazioni nella vita senza sforzi, con creatività e intuizione. La loro naturale connessione al mondo dei sentimenti e la loro empatia con gli altri gli rende caratteri sensibili che vivono tra realtà e sogno.</p>
+<p>Questo pendente e fatto a mano in oro 750.</p>
+<p>Dimensioni: circa 21 x 15 x 2 mm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/it/products/9823896830298</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9823850332506</id>
+    <published>2024-10-01T11:26:56+02:00</published>
+    <updated>2024-10-01T11:26:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/capricorn-charm"/>
+    <title>Pendente Capricorno</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2493.jpg?v=1761346012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Affidabilità e tenacia sono le tipiche caratteristiche del Capricorno. Una volta vinto la sua fiducia, potrai sempre contare su di lui.&nbsp;</p>
+<p>Questo pendente è fatto a mano in oro 750.</p>
+<p>Dimensioni: circa 21 x 15 x 2 mm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/it/products/9823850332506</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9823826936154</id>
+    <published>2024-10-01T11:02:46+02:00</published>
+    <updated>2024-10-01T11:02:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/libra-charm"/>
+    <title>Pendente Bilancia</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2470_8565d958-71ca-4f06-a7a9-e738761dddc9.jpg?v=1760971162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aperto a tutte le opinioni la Bilancia cerca verità, giustizia e armonia senza mai sottovalutare il valore di bellezza, divertimento e piacere.&nbsp;</p>
+<p>Questo pendente è fatto a mano in oro 750.</p>
+<p>Dimensioni: circa 21 x 15 x 2 mm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/it/products/9823826936154</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/it/products/9805262520666</id>
+    <published>2024-09-21T13:21:37+02:00</published>
+    <updated>2024-09-21T13:21:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/it/products/sagittarius-charm-copy"/>
+    <title>Pendente Scorpione</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2509.jpg?v=1761346032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Profondità emozionale e intellettuale fa di uno Scorpione un carattere affascinante che preferirà sempre onestà e autenticità a lo splendore superficiale.&nbsp;</p>
+<p>Questo pendente è fatto a mano in oro 750.</p>
+<p>Dimensioni: circa 21 x 15 x 2 mm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/it/products/9805262520666</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+</feed>

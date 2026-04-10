@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://luri.gold/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://luri.gold/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://luri.gold/collections/frontpage.atom"/>
+  <title>LURI jewels</title>
+  <updated>2024-11-12T18:48:34+01:00</updated>
+  <author>
+    <name>LURI jewels</name>
+  </author>
+  <entry>
+    <id>https://luri.gold/products/9896506949978</id>
+    <published>2024-11-12T18:48:34+01:00</published>
+    <updated>2024-11-12T18:48:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/paperclip-chain"/>
+    <title>Handmade Paperclip Chain</title>
+    <s:type></s:type>
+    <s:vendor>Schuberthan Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1676.jpg?v=1731433154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schuberthan Gold<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00 - 2000.00
+            <a href="https://luri.gold/products/paperclip-chain">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A handmade, 18 karat gold necklace. Worn on its own it adds a <meta charset="utf-8">touch of minimalistic elegance to any outfit. In combination with your favourite <a href="https://luri.gold/collections/pendants">pendants</a> it becomes the expression of your personal style and your story. </p>
+<p><meta charset="utf-8">As all LURI pieces, this necklace is crafted entirely by hand.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/products/9896506949978</id>
+      <title>45 cm</title>
+      <s:price currency="EUR">1650.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9896506949978</id>
+      <title>55 cm</title>
+      <s:price currency="EUR">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9824513622362</id>
+    <published>2024-10-01T19:42:15+02:00</published>
+    <updated>2024-10-01T19:42:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/leo-charm"/>
+    <title>Leo Charm</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2137.jpg?v=1761345963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Charismatic and generous, everyone is attracted by leo's magnetic field. As a natural leader this star sign will take care of the well being of his family and beyond and loves the recognition for these efforts.</p>
+<p>This pendant is made in 18 karat gold.</p>
+<p>Dimensions: approximately 21 x 15 x 2 mm.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/products/9824513622362</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9824512901466</id>
+    <published>2024-10-01T19:33:20+02:00</published>
+    <updated>2024-10-01T19:33:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/cancer-charm"/>
+    <title>Cancer Charm</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2488.jpg?v=1761307229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A very sensitive character, cancers have great intuition and empathy and deeply care about their beloved ones. Nonetheless, they are determined and ambitious to reach their life goals.</p>
+<p>This pendant is made in 18 karat gold.</p>
+<p>Dimensions: approximately 21 x 15 x 2 mm.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/products/9824512901466</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9824483213658</id>
+    <published>2024-10-01T19:15:18+02:00</published>
+    <updated>2024-10-01T19:15:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/gemini-charm"/>
+    <title>Gemini Charm</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2507_e75798f8-d550-4ae0-a07d-3bcbf429f2fe.jpg?v=1761303428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Curious and talkative, you will never get bored with a gemini! As they are always well informed about the latest trends and love to entertain, their energy and optimism is inspiring and contagious. </p>
+<p><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">This pendant is made in 18 karat gold.</span></p>
+<p>Dimensions: approximately 21 x 15 x 2 mm.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/products/9824483213658</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9824514310490</id>
+    <published>2024-10-01T19:10:02+02:00</published>
+    <updated>2024-10-01T19:10:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/virgo-charm"/>
+    <title>Virgo Charm</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2503_6e0663b3-c735-4dd9-9f26-973f22c1914f.jpg?v=1761345921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deeply connected to the earth, a virgo takes decisions according to analytical reasoning and practical considerations. Striving for meaningfulness in life, this star sign has an authentic and strong character.</p>
+<p>This pendant is made in 18 karat gold.</p>
+<p>Dimensions: approximately 21 x 15 x 2 mm.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/products/9824514310490</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9824419840346</id>
+    <published>2024-10-01T18:12:25+02:00</published>
+    <updated>2024-10-01T18:12:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/taurus-charm"/>
+    <title>Taurus Charm</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2496.jpg?v=1761346056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Down to earth but with a weakness for luxury, a taurus is reliable and solid as a rock. Living in the here and now, it makes the best out of everyday life instead of dreaming up castles in the air.</p>
+<p>This pendant is made in 18 karat gold.</p>
+<p>Dimensions: approximately 21 x 15 x 2 mm.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/products/9824419840346</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9823915016538</id>
+    <published>2024-10-01T12:02:13+02:00</published>
+    <updated>2024-10-01T12:02:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/aries-charm"/>
+    <title>Aries Charm</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2477.jpg?v=1759920787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Always up for a challenge and a fresh start, aries is full of energy and enthusiasm. With its great optimism and the concentration on the positive side, for this star sign everything is reachable.</p>
+<p>This pendant is made in 18 karat gold.</p>
+<p>Dimensions: approximately 21 x 15 x 2 mm.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/products/9823915016538</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9823896830298</id>
+    <published>2024-10-01T11:45:14+02:00</published>
+    <updated>2024-10-01T11:45:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/pisces-charm"/>
+    <title>Pisces Charm</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2516.jpg?v=1759920953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With creativity and intuition pisces follow the transformations in life effortlessly. Their natural connection to their inner feelings and their empathy for others make them a sensible character, living between reality and imagination.</p>
+<p>This pendant is made in 18 karat gold.</p>
+<p>Dimensions: approximately 21 x 15 x 2 mm.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/products/9823896830298</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9823850332506</id>
+    <published>2024-10-01T11:26:56+02:00</published>
+    <updated>2024-10-01T11:26:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/capricorn-charm"/>
+    <title>Capricorn Charm</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2493.jpg?v=1761346012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reliability and perseverance are core characteristics of a capricorn. Once its trust is won, it will stay loyal and never let you down. </p>
+<p>This pendant is made in 18 karat gold.</p>
+<p>Dimensions: approximately 21 x 15 x 2 mm.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/products/9823850332506</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9823826936154</id>
+    <published>2024-10-01T11:02:46+02:00</published>
+    <updated>2024-10-01T11:02:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/libra-charm"/>
+    <title>Libra Charm</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2470_8565d958-71ca-4f06-a7a9-e738761dddc9.jpg?v=1760971162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Open to all opinions, a libra seeks truth, justice and harmony while never forgetting about the value of beauty, fun and pleasure.</p>
+<p>This pendant is made in 18 karat gold.</p>
+<p>Dimensions: approximately 21 x 15 x 2 mm.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/products/9823826936154</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9805262520666</id>
+    <published>2024-09-21T13:21:37+02:00</published>
+    <updated>2024-09-21T13:21:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/sagittarius-charm-copy"/>
+    <title>Scorpio Charm</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2509.jpg?v=1761346032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Emotional and intellectual depth make the scorpio a fascinating character, that in turn will always prefer honesty and authenticity over superficial shine.</p>
+<p>This pendant is made in 18 karat gold.</p>
+<p>Dimensions: approximately 21 x 15 x 2 mm.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/products/9805262520666</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9805235749210</id>
+    <published>2024-09-21T13:04:43+02:00</published>
+    <updated>2024-09-21T13:04:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/aquarius-charm"/>
+    <title>Aquarius Charm</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2522.jpg?v=1759921536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A creative visionary and individualist on the one hand, the Aquarius keeps his analytical mind and his sense for responsibility and reliability in every situation. </p>
+<p>This pendant is made in 18 karat gold.</p>
+<p>Dimensions: approximately 21 x 15 x 2 mm.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/products/9805235749210</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku/>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9712676208986</id>
+    <published>2024-08-13T17:11:35+02:00</published>
+    <updated>2024-08-13T17:11:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/handwoven-chain-bracelet"/>
+    <title>Handwoven Chain Bracelet</title>
+    <s:type></s:type>
+    <s:vendor>Schuberthan Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1535_646330a2-3e8f-453f-af7c-d0e5d22eb2e3.jpg?v=1723562559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schuberthan Gold<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is an essential piece to adorn you day by day, on its own or combined with <a href="https://luri.gold/collections/pendants" title="charms" rel="noopener" target="_blank">charms</a>.</p>
+<p>The bracelet is made in 900 gold <meta charset="utf-8">(21.6 karat), whose exceptional characteristics allow the metal wire to be bend and woven almost like fabric. It <meta charset="utf-8">is crafted in the same, meditative technique used for thousands of years. The loop in loop chain may well be the oldest form of a chain and ancient peoples' goldsmiths, such as the Greek and Etruscans, produced intricate works with several strands and pendants with it.</p>
+<p>This bracelet measures 18 cm in length, but can be made in any length, even as a necklace. Please <a href="https://luri.gold/pages/contact" rel="noopener" target="_blank">contact</a> me for any adjustments, together we will find your perfect fit.</p>
+<p><meta charset="utf-8">As all LURI pieces, it is crafted entirely by hand.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/products/9712676208986</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9678082670938</id>
+    <published>2024-07-26T11:48:34+02:00</published>
+    <updated>2024-07-26T11:48:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/sagittarius-charm"/>
+    <title>Sagittarius Charm</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2471.jpg?v=1761346084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Driven by the passion for knowledge, a Sagittarius explores the world fearlessly and with endless curiosity. </p>
+<p>This pendant is made in 18 karat gold.</p>
+<p>Dimensions: approximately 21 x 15 x 2 mm.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charm</s:tag>
+    <s:tag>pendant</s:tag>
+    <s:tag>zodiac</s:tag>
+    <s:variant>
+      <id>https://luri.gold/products/9678082670938</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+</feed>

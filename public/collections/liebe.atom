@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://luri.gold/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://luri.gold/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://luri.gold/collections/liebe.atom"/>
+  <title>LURI jewels</title>
+  <updated>2026-02-10T12:32:25+01:00</updated>
+  <author>
+    <name>LURI jewels</name>
+  </author>
+  <entry>
+    <id>https://luri.gold/products/10731404099930</id>
+    <published>2026-02-10T12:32:25+01:00</published>
+    <updated>2026-02-10T12:32:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/granulated-ring"/>
+    <title>Granulated Ring</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/granulated-gold-ring-blue-topaz.jpg?v=1770722562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LURI jewels<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made in 900 gold and granulated in the ancient technique already used thousands of years ago, this ring with a blue topaz is an ode to craftmanship and the beauty of imperfection. </p>
+<p>It is made to order and available with the gemstone of your dreams.</p>
+<p>Please <a href="https://luri.gold/pages/contact">contact</a> me for further details.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/products/10731404099930</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1700.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/10038945546586</id>
+    <published>2025-02-14T15:12:15+01:00</published>
+    <updated>2025-02-14T15:12:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/colonna-ring"/>
+    <title>Colonna Ring</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2388_3103e6cc-b3a9-4e61-9cc8-86ed09b0ad15.jpg?v=1739528595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LURI jewels<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by antique columns, this design symbolises solidity and longevity. It is thus the perfect token of love and friendship, but can also be an everyday reminder to yourself of the inner strength that supports you, always. </p>
+<p>It is made in gold 900 and 5 mm wide. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>48</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>50</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>51</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>49</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>52</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>53</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>54</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>55</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>56</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>57</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>58</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>59</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>60</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>61</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>62</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>63</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>64</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>65</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>66</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>67</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>68</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10038945546586</id>
+      <title>69</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/10037817311578</id>
+    <published>2025-02-13T19:22:18+01:00</published>
+    <updated>2025-02-13T19:22:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/classic-wedding-ring"/>
+    <title>Love Band</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2288.jpg?v=1739470855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LURI jewels<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            800.00 - 1000.00
+            <a href="https://luri.gold/products/classic-wedding-ring">(88 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A token of love, but even more preciously crafted by hand and in gold 900. The silky surface will polish itself gently with time through the oils of your skin. If you prefer the reflections of a highly polished surface, you can choose this option.</p>
+<p>By default, I will produce the ring in <a rel="noopener" href="https://luri.gold/pages/about" target="_blank">traceable</a> gold.</p>
+<p>The pictured ring is 3 mm wide, but it can be done in any width, please <a href="https://luri.gold/pages/contact">contact</a> me for customisation. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 48</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 49</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 50</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 51</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 52</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 53</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 54</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 55</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 56</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 57</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 58</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 59</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 60</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 61</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 62</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 63</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 64</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 65</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 66</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 67</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 68</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Silky / 69</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 48</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 49</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 50</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 51</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 52</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 53</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 54</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 55</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 56</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 57</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 58</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 59</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 60</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 61</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 62</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 63</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 64</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 65</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 66</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 67</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 68</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 750 / Polished / 69</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 48</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 49</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 50</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 51</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 52</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 53</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 54</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 55</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 56</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 57</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 58</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 59</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 60</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 61</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 62</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 63</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 64</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 65</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 66</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 67</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 68</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Silky / 69</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 48</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 49</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 50</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 51</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 52</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 53</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 54</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 55</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 56</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 57</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 58</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 59</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 60</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 61</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 62</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 63</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 64</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 65</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 66</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 67</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 68</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037817311578</id>
+      <title>Gold 900 / Polished / 69</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/10037770125658</id>
+    <published>2025-02-13T18:42:30+01:00</published>
+    <updated>2025-02-13T18:42:30+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/hammered-ring"/>
+    <title>Hammered Ring</title>
+    <s:type></s:type>
+    <s:vendor>LURI jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2181.jpg?v=1739465705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LURI jewels<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1050.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rough on the outside, soft on the inside. Playing with contrasts, this ring reminds us that superficial impressions can be deceiving and that it's always worth to look closer.</p>
+<p>This ring is <meta charset="utf-8">made in gold 900 and 3 mm wide, but can be <meta charset="utf-8">made wider or thinner according to your preferences. You can also add your favourite gems on the out- and inside of the ring. Please <a href="https://luri.gold/pages/contact">contact</a> me for any customisation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>48</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>49</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>50</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>51</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>52</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>53</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>54</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>55</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>56</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>57</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>58</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>59</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>60</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>61</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>62</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>63</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>64</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>65</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>66</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>67</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>68</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/10037770125658</id>
+      <title>69</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://luri.gold/products/9934947975514</id>
+    <published>2024-12-09T10:53:23+01:00</published>
+    <updated>2024-12-09T10:53:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://luri.gold/products/diamond-ring"/>
+    <title>Diamond ring</title>
+    <s:type></s:type>
+    <s:vendor>Schuberthan Gold</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1204.jpg?v=1754656389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schuberthan Gold<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A diamond sparkling in a bed of gold, framed by granules. This ring is a special gift, a token of love to be worn day by day. </p>
+<p>Would you prefer the shine of a different gemstone or a bigger diamond? Everything is possible, please <a href="https://luri.gold/pages/contact" target="_blank" rel="noopener">contact</a> me.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>engagement</s:tag>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>47</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>48</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>49</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>50</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>51</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>52</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>53</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>54</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>55</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>56</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>57</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>58</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>59</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>60</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>61</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://luri.gold/products/9934947975514</id>
+      <title>62</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
