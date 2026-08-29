@@ -1,0 +1,116 @@
+{
+  "slug": "pisces-charm",
+  "title": {
+    "en": "Pisces Charm",
+    "de": "Pisces Charm",
+    "it": "Pisces Charm"
+  },
+  "description": {
+    "en": "With creativity and intuition pisces follow the transformations in life effortlessly. Their natural connection to their inner feelings and their empathy for others make them a sensible character, living between reality and imagination. This pendant is available in 18 karat gold and sterling silver. Dimensions: approxim",
+    "de": "With creativity and intuition pisces follow the transformations in life effortlessly. Their natural connection to their inner feelings and their empathy for others make them a sensible character, living between reality and imagination. This pendant is available in 18 karat gold and sterling silver. Dimensions: approxim",
+    "it": "With creativity and intuition pisces follow the transformations in life effortlessly. Their natural connection to their inner feelings and their empathy for others make them a sensible character, living between reality and imagination. This pendant is available in 18 karat gold and sterling silver. Dimensions: approxim"
+  },
+  "shortDescription": {
+    "en": "With creativity and intuition pisces follow the transformations in life effortlessly. Their natural connection to their inner feelings and their empathy for oth",
+    "de": "With creativity and intuition pisces follow the transformations in life effortlessly. Their natural connection to their inner feelings and their empathy for others make them a sensible character, living between reality and imagination. This pendant is available in 18 karat gold and sterling silver. Dimensions: approxim",
+    "it": "With creativity and intuition pisces follow the transformations in life effortlessly. Their natural connection to their inner feelings and their empathy for others make them a sensible character, living between reality and imagination. This pendant is available in 18 karat gold and sterling silver. Dimensions: approxim"
+  },
+  "longDescription": [
+    {
+      "en": "With creativity and intuition pisces follow the transformations in life effortlessly. Their natural connection to their inner feelings and their empathy for others make them a sensible character, living between reality and imagination. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+      "de": "With creativity and intuition pisces follow the transformations in life effortlessly. Their natural connection to their inner feelings and their empathy for others make them a sensible character, living between reality and imagination. This pendant is available in 18 karat gold and sterling silver. Dimensions: approxim",
+      "it": "With creativity and intuition pisces follow the transformations in life effortlessly. Their natural connection to their inner feelings and their empathy for others make them a sensible character, living between reality and imagination. This pendant is available in 18 karat gold and sterling silver. Dimensions: approxim"
+    }
+  ],
+  "collectionLabel": "frontpage / pendants",
+  "collectionSlugs": [
+    "frontpage",
+    "pendants"
+  ],
+  "priceLabel": "EUR 550.00",
+  "purchaseLabel": {
+    "en": "Buy with PayPal",
+    "de": "Mit PayPal kaufen",
+    "it": "Acquista con PayPal"
+  },
+  "shippingNote": {
+    "en": "Insured shipping in Europe is included. For non-European destinations, shipping is calculated on request.",
+    "de": "Versicherter Versand in Europa ist inklusive. Für Ziele außerhalb Europas werden die Versandkosten auf Anfrage berechnet.",
+    "it": "La spedizione assicurata in Europa è inclusa. Per destinazioni extraeuropee il costo viene calcolato su richiesta."
+  },
+  "materialNote": "With creativity and intuition pisces follow the transformations in life effortlessly. Their natural connection to their inner feelings and their empathy for others make them a sensible character, living between reality and imagination. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+  "optionLabels": {
+    "Gold/Silver": {
+      "en": "Gold/Silver",
+      "de": "Gold/Silver",
+      "it": "Gold/Silver"
+    }
+  },
+  "options": [
+    {
+      "name": "Gold/Silver",
+      "values": [
+        "18 karat Gold",
+        "Sterling Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 53844723335514,
+      "title": "18 karat Gold",
+      "sku": "",
+      "price": "550.00",
+      "priceLabel": "EUR 550.00",
+      "available": true,
+      "selectedOptions": {
+        "Gold/Silver": "18 karat Gold"
+      }
+    },
+    {
+      "id": 53844723368282,
+      "title": "Sterling Silver",
+      "sku": "",
+      "price": "69.00",
+      "priceLabel": "EUR 69.00",
+      "available": true,
+      "selectedOptions": {
+        "Gold/Silver": "Sterling Silver"
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "products/pisces-charm/01.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Pisces-gold.jpg?v=1773926147",
+      "alt": "Pisces Charm"
+    },
+    {
+      "path": "products/pisces-charm/02.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/pisces-pendant-worn.jpg?v=1773996421",
+      "alt": "Pisces Charm"
+    },
+    {
+      "path": "products/pisces-charm/03.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Pisces-silver.jpg?v=1773926147",
+      "alt": "Pisces Charm"
+    },
+    {
+      "path": "products/pisces-charm/04.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Pisces-chain.jpg?v=1774000173",
+      "alt": "Pisces Charm"
+    },
+    {
+      "path": "products/pisces-charm/05.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/zodiac-backside.jpg?v=1774000173",
+      "alt": "Pisces Charm"
+    },
+    {
+      "path": "products/pisces-charm/06.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/zodiac-pendants-gold.jpg?v=1774000173",
+      "alt": "Pisces Charm"
+    }
+  ],
+  "whatsappUrl": "https://wa.me/393513955649?text=Hello%20Lisa%2C%20I%20am%20interested%20in%20Pisces%20Charm.",
+  "instagramUrl": "https://www.instagram.com/luri.gold"
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "sagittarius-charm",
+  "title": {
+    "en": "Sagittarius Charm",
+    "de": "Sagittarius Charm",
+    "it": "Sagittarius Charm"
+  },
+  "description": {
+    "en": "Driven by the passion for knowledge, a Sagittarius explores the world fearlessly and with endless curiosity.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+    "de": "Driven by the passion for knowledge, a Sagittarius explores the world fearlessly and with endless curiosity.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+    "it": "Driven by the passion for knowledge, a Sagittarius explores the world fearlessly and with endless curiosity.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm."
+  },
+  "shortDescription": {
+    "en": "Driven by the passion for knowledge, a Sagittarius explores the world fearlessly and with endless curiosity. This pendant is available in 18 karat gold and ster",
+    "de": "Driven by the passion for knowledge, a Sagittarius explores the world fearlessly and with endless curiosity.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+    "it": "Driven by the passion for knowledge, a Sagittarius explores the world fearlessly and with endless curiosity.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm."
+  },
+  "longDescription": [
+    {
+      "en": "Driven by the passion for knowledge, a Sagittarius explores the world fearlessly and with endless curiosity. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+      "de": "Driven by the passion for knowledge, a Sagittarius explores the world fearlessly and with endless curiosity.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+      "it": "Driven by the passion for knowledge, a Sagittarius explores the world fearlessly and with endless curiosity.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm."
+    }
+  ],
+  "collectionLabel": "frontpage / pendants",
+  "collectionSlugs": [
+    "frontpage",
+    "pendants"
+  ],
+  "priceLabel": "EUR 550.00",
+  "purchaseLabel": {
+    "en": "Buy with PayPal",
+    "de": "Mit PayPal kaufen",
+    "it": "Acquista con PayPal"
+  },
+  "shippingNote": {
+    "en": "Insured shipping in Europe is included. For non-European destinations, shipping is calculated on request.",
+    "de": "Versicherter Versand in Europa ist inklusive. Für Ziele außerhalb Europas werden die Versandkosten auf Anfrage berechnet.",
+    "it": "La spedizione assicurata in Europa è inclusa. Per destinazioni extraeuropee il costo viene calcolato su richiesta."
+  },
+  "materialNote": "Driven by the passion for knowledge, a Sagittarius explores the world fearlessly and with endless curiosity. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+  "optionLabels": {
+    "Gold/Silver": {
+      "en": "Gold/Silver",
+      "de": "Gold/Silver",
+      "it": "Gold/Silver"
+    }
+  },
+  "options": [
+    {
+      "name": "Gold/Silver",
+      "values": [
+        "18 karat Gold",
+        "Sterling Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 53848664113498,
+      "title": "18 karat Gold",
+      "sku": "",
+      "price": "550.00",
+      "priceLabel": "EUR 550.00",
+      "available": true,
+      "selectedOptions": {
+        "Gold/Silver": "18 karat Gold"
+      }
+    },
+    {
+      "id": 53848664146266,
+      "title": "Sterling Silver",
+      "sku": "",
+      "price": "69.00",
+      "priceLabel": "EUR 69.00",
+      "available": true,
+      "selectedOptions": {
+        "Gold/Silver": "Sterling Silver"
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "products/sagittarius-charm/01.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Sagittarius-gold.jpg?v=1774000173",
+      "alt": "Sagittarius Charm"
+    },
+    {
+      "path": "products/sagittarius-charm/02.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Sagittarius-worn.jpg?v=1774000173",
+      "alt": "Sagittarius Charm"
+    },
+    {
+      "path": "products/sagittarius-charm/03.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Sagittarius-silver.jpg?v=1774000173",
+      "alt": "Sagittarius Charm"
+    },
+    {
+      "path": "products/sagittarius-charm/04.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/zodiac-backside.jpg?v=1774000173",
+      "alt": "Sagittarius Charm"
+    },
+    {
+      "path": "products/sagittarius-charm/05.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Pisces-chain.jpg?v=1774000173",
+      "alt": "Sagittarius Charm"
+    },
+    {
+      "path": "products/sagittarius-charm/06.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/zodiac-pendants-gold.jpg?v=1774000173",
+      "alt": "Sagittarius Charm"
+    }
+  ],
+  "whatsappUrl": "https://wa.me/393513955649?text=Hello%20Lisa%2C%20I%20am%20interested%20in%20Sagittarius%20Charm.",
+  "instagramUrl": "https://www.instagram.com/luri.gold"
+}

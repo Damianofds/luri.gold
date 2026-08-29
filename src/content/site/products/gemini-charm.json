@@ -1,0 +1,116 @@
+{
+  "slug": "gemini-charm",
+  "title": {
+    "en": "Gemini Charm",
+    "de": "Gemini Charm",
+    "it": "Gemini Charm"
+  },
+  "description": {
+    "en": "Curious and talkative, you will never get bored with a gemini! As they are always well informed about the latest trends and love to entertain, their energy and optimism is inspiring and contagious.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+    "de": "Curious and talkative, you will never get bored with a gemini! As they are always well informed about the latest trends and love to entertain, their energy and optimism is inspiring and contagious.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+    "it": "Curious and talkative, you will never get bored with a gemini! As they are always well informed about the latest trends and love to entertain, their energy and optimism is inspiring and contagious.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm."
+  },
+  "shortDescription": {
+    "en": "Curious and talkative, you will never get bored with a gemini! As they are always well informed about the latest trends and love to entertain, their energy and ",
+    "de": "Curious and talkative, you will never get bored with a gemini! As they are always well informed about the latest trends and love to entertain, their energy and optimism is inspiring and contagious.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+    "it": "Curious and talkative, you will never get bored with a gemini! As they are always well informed about the latest trends and love to entertain, their energy and optimism is inspiring and contagious.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm."
+  },
+  "longDescription": [
+    {
+      "en": "Curious and talkative, you will never get bored with a gemini! As they are always well informed about the latest trends and love to entertain, their energy and optimism is inspiring and contagious. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+      "de": "Curious and talkative, you will never get bored with a gemini! As they are always well informed about the latest trends and love to entertain, their energy and optimism is inspiring and contagious.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+      "it": "Curious and talkative, you will never get bored with a gemini! As they are always well informed about the latest trends and love to entertain, their energy and optimism is inspiring and contagious.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm."
+    }
+  ],
+  "collectionLabel": "frontpage / pendants",
+  "collectionSlugs": [
+    "frontpage",
+    "pendants"
+  ],
+  "priceLabel": "EUR 550.00",
+  "purchaseLabel": {
+    "en": "Buy with PayPal",
+    "de": "Mit PayPal kaufen",
+    "it": "Acquista con PayPal"
+  },
+  "shippingNote": {
+    "en": "Insured shipping in Europe is included. For non-European destinations, shipping is calculated on request.",
+    "de": "Versicherter Versand in Europa ist inklusive. Für Ziele außerhalb Europas werden die Versandkosten auf Anfrage berechnet.",
+    "it": "La spedizione assicurata in Europa è inclusa. Per destinazioni extraeuropee il costo viene calcolato su richiesta."
+  },
+  "materialNote": "Curious and talkative, you will never get bored with a gemini! As they are always well informed about the latest trends and love to entertain, their energy and optimism is inspiring and contagious. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+  "optionLabels": {
+    "Gold/Silver": {
+      "en": "Gold/Silver",
+      "de": "Gold/Silver",
+      "it": "Gold/Silver"
+    }
+  },
+  "options": [
+    {
+      "name": "Gold/Silver",
+      "values": [
+        "18 karat Gold",
+        "Sterling Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 53843805339994,
+      "title": "18 karat Gold",
+      "sku": "",
+      "price": "550.00",
+      "priceLabel": "EUR 550.00",
+      "available": true,
+      "selectedOptions": {
+        "Gold/Silver": "18 karat Gold"
+      }
+    },
+    {
+      "id": 53843805372762,
+      "title": "Sterling Silver",
+      "sku": "",
+      "price": "69.00",
+      "priceLabel": "EUR 69.00",
+      "available": true,
+      "selectedOptions": {
+        "Gold/Silver": "Sterling Silver"
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "products/gemini-charm/01.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Gemini-gold-marble.jpg?v=1773911654",
+      "alt": "Gemini Charm"
+    },
+    {
+      "path": "products/gemini-charm/02.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Gemini-silver-marble.jpg?v=1773911654",
+      "alt": "Gemini Charm"
+    },
+    {
+      "path": "products/gemini-charm/03.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/pisces-pendant-worn.jpg?v=1773996421",
+      "alt": "Gemini Charm"
+    },
+    {
+      "path": "products/gemini-charm/04.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Pisces-chain.jpg?v=1774000173",
+      "alt": "Gemini Charm"
+    },
+    {
+      "path": "products/gemini-charm/05.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/zodiac-backside.jpg?v=1774000173",
+      "alt": "Gemini Charm"
+    },
+    {
+      "path": "products/gemini-charm/06.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/zodiac-pendants-gold.jpg?v=1774000173",
+      "alt": "Gemini Charm"
+    }
+  ],
+  "whatsappUrl": "https://wa.me/393513955649?text=Hello%20Lisa%2C%20I%20am%20interested%20in%20Gemini%20Charm.",
+  "instagramUrl": "https://www.instagram.com/luri.gold"
+}

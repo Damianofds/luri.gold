@@ -1,0 +1,32 @@
+{
+  "slug": "pendants",
+  "title": {
+    "en": "Necklaces &amp; Pendants",
+    "de": "Halsketten &amp; Anhänger",
+    "it": "Collane &amp; Pendenti"
+  },
+  "description": {
+    "en": "",
+    "de": "",
+    "it": ""
+  },
+  "heroImage": "collections/pendants/cover.jpg",
+  "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC1784.jpg?v=1763111512",
+  "productSlugs": [
+    "aquarius-charm",
+    "aries-charm",
+    "cancer-charm",
+    "capricorn-charm",
+    "gemini-charm",
+    "golden-heart-pendant",
+    "paperclip-chain",
+    "infinity-chain",
+    "leo-charm",
+    "libra-charm",
+    "pisces-charm",
+    "sagittarius-charm",
+    "sagittarius-charm-copy",
+    "taurus-charm",
+    "virgo-charm"
+  ]
+}

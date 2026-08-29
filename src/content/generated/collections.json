@@ -1,0 +1,176 @@
+[
+  {
+    "slug": "bracelets",
+    "title": {
+      "en": "Bracelets",
+      "de": "Armbänder",
+      "it": "Braccialetti"
+    },
+    "description": {
+      "en": "",
+      "de": "",
+      "it": ""
+    },
+    "heroImage": "collections/bracelets/cover.jpg",
+    "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC1535_646330a2-3e8f-453f-af7c-d0e5d22eb2e3.jpg?v=1763117896",
+    "productSlugs": [
+      "handwoven-chain-bracelet"
+    ]
+  },
+  {
+    "slug": "earrings",
+    "title": {
+      "en": "Earrings",
+      "de": "Ohrringe",
+      "it": "Orecchini"
+    },
+    "description": {
+      "en": "",
+      "de": "",
+      "it": ""
+    },
+    "heroImage": "collections/earrings/cover.jpg",
+    "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC1906.jpg?v=1731603741",
+    "productSlugs": [
+      "chain-earrings-with-imperial-topaz",
+      "granulated-emerald-studs",
+      "granulated-studs",
+      "pyramid-studs",
+      "tourmaline-and-pearl-earrings"
+    ]
+  },
+  {
+    "slug": "frontpage",
+    "title": {
+      "en": "Zodiac Collection",
+      "de": "Zodiac Kollektion",
+      "it": "Collezione Zodiac"
+    },
+    "description": {
+      "en": "Our zodiac charms, inspired by the art of antique coins, are personal talismans to wear every day.",
+      "de": "Antike Münzen sind die Inspiration für unsere Kollektion von Sternzeichen-Anhängern. Trage sie als deinen täglichen Talisman.",
+      "it": "Ispirati all&#39;arte di monete antiche, i pendenti della Zodiac Collection sono talismani personali da indossare tutti i giorni."
+    },
+    "heroImage": "collections/frontpage/cover.jpg",
+    "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC1831.jpg?v=1731603636",
+    "productSlugs": [
+      "aquarius-charm",
+      "aries-charm",
+      "cancer-charm",
+      "capricorn-charm",
+      "gemini-charm",
+      "paperclip-chain",
+      "handwoven-chain-bracelet",
+      "leo-charm",
+      "libra-charm",
+      "pisces-charm",
+      "sagittarius-charm",
+      "sagittarius-charm-copy",
+      "taurus-charm",
+      "virgo-charm"
+    ]
+  },
+  {
+    "slug": "liebe",
+    "title": {
+      "en": "Liebe",
+      "de": "Liebe",
+      "it": "Amore"
+    },
+    "description": {
+      "en": "Eternal jewellery for your most happy moments.",
+      "de": "Schmuck für die Ewigkeit, Erinnerung an deine unvergesslichen Momente.",
+      "it": "Gioielli eterni per i tuoi momenti indimenticabili."
+    },
+    "heroImage": "collections/liebe/cover.jpg",
+    "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC2357.jpg?v=1763111864",
+    "productSlugs": [
+      "colonna-ring",
+      "diamond-ring",
+      "granulated-ring",
+      "hammered-ring",
+      "classic-wedding-ring"
+    ]
+  },
+  {
+    "slug": "one-of-a-kind",
+    "title": {
+      "en": "One of a Kind",
+      "de": "Unikate",
+      "it": "Gioielli Unici"
+    },
+    "description": {
+      "en": "Get inspired by the LURI collection of one of a kind pieces. Gemstones are unique by nature and the handmade process makes every piece of jewelry individual.  Many of the LURI pieces are one of a kind, but their size can be slightly adjusted. Are you looking for a deeply personal jewel? Contact me and together we will",
+      "de": "Lass dich von der LURI Kollektion an Unikaten inspirieren. Edelsteine sind ihrer Natur nach einzigartig und durch die Fertigung von Hand wird jedes Schmuckstück individuell.  Viele LURI Schmuckstücke sind Unikate, ihre Größe kann jedoch häufig angepasst werden.  Möchtest du etwas ganz persönliches? Lass uns gemeinsam d",
+      "it": "Lasciati ispirare dalla collezione di rara bellezza. Le gemme sono uniche per la loro natura e la lavorazione a mano rende ogni gioiello di LURI individuale. Tanti gioielli LURI sono unici, ma la loro taglia può essere leggermente adattata. Scrivimi per il gioielli dei tuoi sogni, fatto su misura per te!"
+    },
+    "heroImage": "collections/one-of-a-kind/cover.jpg",
+    "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC1393.jpg?v=1770723978",
+    "productSlugs": [
+      "chain-earrings-with-imperial-topaz",
+      "granulated-ring",
+      "orbit-ring-with-antique-coral",
+      "signet-ring-with-cordella-and-peridot",
+      "pinky-ring-with-imperial-topaz"
+    ]
+  },
+  {
+    "slug": "pendants",
+    "title": {
+      "en": "Necklaces &amp; Pendants",
+      "de": "Halsketten &amp; Anhänger",
+      "it": "Collane &amp; Pendenti"
+    },
+    "description": {
+      "en": "",
+      "de": "",
+      "it": ""
+    },
+    "heroImage": "collections/pendants/cover.jpg",
+    "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC1784.jpg?v=1763111512",
+    "productSlugs": [
+      "aquarius-charm",
+      "aries-charm",
+      "cancer-charm",
+      "capricorn-charm",
+      "gemini-charm",
+      "golden-heart-pendant",
+      "paperclip-chain",
+      "infinity-chain",
+      "leo-charm",
+      "libra-charm",
+      "pisces-charm",
+      "sagittarius-charm",
+      "sagittarius-charm-copy",
+      "taurus-charm",
+      "virgo-charm"
+    ]
+  },
+  {
+    "slug": "rings",
+    "title": {
+      "en": "Rings",
+      "de": "Ringe",
+      "it": "Anelli"
+    },
+    "description": {
+      "en": "",
+      "de": "",
+      "it": ""
+    },
+    "heroImage": "collections/rings/cover.jpg",
+    "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC0843_22dde3da-4101-400b-b6a4-c14193987a3f.jpg?v=1770723894",
+    "productSlugs": [
+      "colonna-ring",
+      "diamond-ring",
+      "granulated-ring",
+      "hammered-ring",
+      "helios-ring",
+      "classic-wedding-ring",
+      "omega-ring",
+      "orbit-ring-with-antique-coral",
+      "signet-ring-with-cordella-and-peridot",
+      "pinky-ring-with-imperial-topaz"
+    ]
+  }
+]

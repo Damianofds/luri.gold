@@ -1,0 +1,33 @@
+{
+  "name": "luri-gold",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "fetch:live": "node scripts/fetch-live-snapshot.mjs",
+    "sync:content": "node scripts/sync-content.mjs",
+    "migrate:content": "node scripts/migrate-generated-to-authored.mjs",
+    "materialize:content": "node scripts/materialize-authored-content.mjs",
+    "sync:paypal": "node scripts/sync-paypal-config.mjs",
+    "sync:assets": "node scripts/mirror-assets.mjs",
+    "validate:content": "node scripts/validate-content.mjs",
+    "new:product": "node scripts/new-product.mjs",
+    "new:collection": "node scripts/new-collection.mjs",
+    "typecheck": "tsc --noEmit",
+    "build": "node scripts/materialize-authored-content.mjs && tsc --noEmit && vite build && vite build --ssr src/entry-server.tsx --outDir dist-ssr && node scripts/prerender.mjs && node scripts/postbuild.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-router-dom": "^7.8.2"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.1",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.3"
+  }
+}

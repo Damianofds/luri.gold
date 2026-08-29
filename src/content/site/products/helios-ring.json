@@ -1,0 +1,352 @@
+{
+  "slug": "helios-ring",
+  "title": {
+    "en": "Helios Ring",
+    "de": "Helios Ring",
+    "it": "Helios Ring"
+  },
+  "description": {
+    "en": "A statement piece in 900 gold. Its&#39; repetition in variation of the round shape reminds of the cyclic nature of all things. Spin it around your finger for concentration and calmness. Let the warm glow of the alloy brighten up your mind.",
+    "de": "A statement piece in 900 gold. Its&#39; repetition in variation of the round shape reminds of the cyclic nature of all things. Spin it around your finger for concentration and calmness. Let the warm glow of the alloy brighten up your mind.",
+    "it": "A statement piece in 900 gold. Its&#39; repetition in variation of the round shape reminds of the cyclic nature of all things. Spin it around your finger for concentration and calmness. Let the warm glow of the alloy brighten up your mind."
+  },
+  "shortDescription": {
+    "en": "A statement piece in 900 gold. Its' repetition in variation of the round shape reminds of the cyclic nature of all things. Spin it around your finger for concen",
+    "de": "A statement piece in 900 gold. Its&#39; repetition in variation of the round shape reminds of the cyclic nature of all things. Spin it around your finger for concentration and calmness. Let the warm glow of the alloy brighten up your mind.",
+    "it": "A statement piece in 900 gold. Its&#39; repetition in variation of the round shape reminds of the cyclic nature of all things. Spin it around your finger for concentration and calmness. Let the warm glow of the alloy brighten up your mind."
+  },
+  "longDescription": [
+    {
+      "en": "A statement piece in 900 gold. Its' repetition in variation of the round shape reminds of the cyclic nature of all things. Spin it around your finger for concentration and calmness. Let the warm glow of the alloy brighten up your mind.",
+      "de": "A statement piece in 900 gold. Its&#39; repetition in variation of the round shape reminds of the cyclic nature of all things. Spin it around your finger for concentration and calmness. Let the warm glow of the alloy brighten up your mind.",
+      "it": "A statement piece in 900 gold. Its&#39; repetition in variation of the round shape reminds of the cyclic nature of all things. Spin it around your finger for concentration and calmness. Let the warm glow of the alloy brighten up your mind."
+    }
+  ],
+  "collectionLabel": "rings",
+  "collectionSlugs": [
+    "rings"
+  ],
+  "priceLabel": "EUR 1800.00",
+  "purchaseLabel": {
+    "en": "Buy with PayPal",
+    "de": "Mit PayPal kaufen",
+    "it": "Acquista con PayPal"
+  },
+  "shippingNote": {
+    "en": "Insured shipping in Europe is included. For non-European destinations, shipping is calculated on request.",
+    "de": "Versicherter Versand in Europa ist inklusive. Für Ziele außerhalb Europas werden die Versandkosten auf Anfrage berechnet.",
+    "it": "La spedizione assicurata in Europa è inclusa. Per destinazioni extraeuropee il costo viene calcolato su richiesta."
+  },
+  "materialNote": "A statement piece in 900 gold. Its' repetition in variation of the round shape reminds of the cyclic nature of all things. Spin it around your finger for concentration and calmness. Let the warm glow of the alloy brighten up your mind.",
+  "optionLabels": {
+    "Ring size": {
+      "en": "Ring size",
+      "de": "Ringgröße",
+      "it": "Misura anello"
+    }
+  },
+  "options": [
+    {
+      "name": "Ring size",
+      "values": [
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 49905422401882,
+      "title": "47",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "47"
+      }
+    },
+    {
+      "id": 49905422434650,
+      "title": "48",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "48"
+      }
+    },
+    {
+      "id": 49905422467418,
+      "title": "49",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "49"
+      }
+    },
+    {
+      "id": 49905422500186,
+      "title": "50",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "50"
+      }
+    },
+    {
+      "id": 49905422532954,
+      "title": "51",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "51"
+      }
+    },
+    {
+      "id": 49905422565722,
+      "title": "52",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "52"
+      }
+    },
+    {
+      "id": 49905422598490,
+      "title": "53",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "53"
+      }
+    },
+    {
+      "id": 49905422631258,
+      "title": "54",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "54"
+      }
+    },
+    {
+      "id": 49905422664026,
+      "title": "55",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "55"
+      }
+    },
+    {
+      "id": 49905422696794,
+      "title": "56",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "56"
+      }
+    },
+    {
+      "id": 49905422729562,
+      "title": "57",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "57"
+      }
+    },
+    {
+      "id": 49905422762330,
+      "title": "58",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "58"
+      }
+    },
+    {
+      "id": 49905422795098,
+      "title": "59",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "59"
+      }
+    },
+    {
+      "id": 49905422827866,
+      "title": "60",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "60"
+      }
+    },
+    {
+      "id": 49905422860634,
+      "title": "61",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "61"
+      }
+    },
+    {
+      "id": 49905422893402,
+      "title": "62",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "62"
+      }
+    },
+    {
+      "id": 49905422926170,
+      "title": "63",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "63"
+      }
+    },
+    {
+      "id": 49905422958938,
+      "title": "64",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "64"
+      }
+    },
+    {
+      "id": 49905422991706,
+      "title": "65",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "65"
+      }
+    },
+    {
+      "id": 49905423024474,
+      "title": "66",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "66"
+      }
+    },
+    {
+      "id": 49905423057242,
+      "title": "67",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "67"
+      }
+    },
+    {
+      "id": 49905423090010,
+      "title": "68",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "68"
+      }
+    },
+    {
+      "id": 49905423122778,
+      "title": "69",
+      "sku": "",
+      "price": "1800.00",
+      "priceLabel": "EUR 1800.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "69"
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "products/helios-ring/01.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC_0430.jpg?v=1731437218",
+      "alt": "Helios Ring"
+    },
+    {
+      "path": "products/helios-ring/02.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1349.jpg?v=1731435942",
+      "alt": "Helios Ring"
+    },
+    {
+      "path": "products/helios-ring/03.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC_0406.jpg?v=1731436732",
+      "alt": "Helios Ring"
+    }
+  ],
+  "whatsappUrl": "https://wa.me/393513955649?text=Hello%20Lisa%2C%20I%20am%20interested%20in%20Helios%20Ring.",
+  "instagramUrl": "https://www.instagram.com/luri.gold"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "earrings",
+  "title": {
+    "en": "Earrings",
+    "de": "Ohrringe",
+    "it": "Orecchini"
+  },
+  "description": {
+    "en": "",
+    "de": "",
+    "it": ""
+  },
+  "heroImage": "collections/earrings/cover.jpg",
+  "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC1906.jpg?v=1731603741",
+  "productSlugs": [
+    "chain-earrings-with-imperial-topaz",
+    "granulated-emerald-studs",
+    "granulated-studs",
+    "pyramid-studs",
+    "tourmaline-and-pearl-earrings"
+  ]
+}

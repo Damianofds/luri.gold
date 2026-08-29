@@ -1,0 +1,59 @@
+{
+  "slug": "zodiac-collection",
+  "title": {
+    "en": "LURI Jewels - Zodiac Collection",
+    "de": "LURI Jewels - Zodiac Collection",
+    "it": "LURI gioielli - Zodiac Collection"
+  },
+  "intro": {
+    "en": "Every pendant of the LURI Zodiac Collection is crafted by hand and designed as a talisman to be worn around the neck, close to the heart. They are inspired by ancient coins and archeological findings of depictions of the star signs.",
+    "de": "Every pendant of the LURI Zodiac Collection is crafted by hand and designed as a talisman to be worn around the neck, close to the heart. They are inspired by ancient coins and archeological findings of depictions of the star signs.",
+    "it": "Every pendant of the LURI Zodiac Collection is crafted by hand and designed as a talisman to be worn around the neck, close to the heart. They are inspired by ancient coins and archeological findings of depictions of the star signs."
+  },
+  "heroImage": "pages/zodiac-collection/hero.jpg",
+  "heroSourceUrl": "https://luri.gold/cdn/shop/files/DSC1411.jpg?v=1760974860",
+  "sections": [
+    {
+      "title": {
+        "en": "LURI Zodiac Collection",
+        "de": "LURI Zodiac Collection",
+        "it": "LURI Zodiac Collection"
+      },
+      "body": [
+        {
+          "en": "Every pendant of the LURI Zodiac Collection is crafted by hand and designed as a talisman to be worn around the neck, close to the heart. They are inspired by ancient coins and archeological findings of depictions of the star signs.",
+          "de": "Every pendant of the LURI Zodiac Collection is crafted by hand and designed as a talisman to be worn around the neck, close to the heart. They are inspired by ancient coins and archeological findings of depictions of the star signs.",
+          "it": "Every pendant of the LURI Zodiac Collection is crafted by hand and designed as a talisman to be worn around the neck, close to the heart. They are inspired by ancient coins and archeological findings of depictions of the star signs."
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "",
+        "de": "",
+        "it": ""
+      },
+      "body": [
+        {
+          "en": "Make it your own unique token with a personal engraving.",
+          "de": "Make it your own unique token with a personal engraving.",
+          "it": "Make it your own unique token with a personal engraving."
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "",
+        "de": "",
+        "it": ""
+      },
+      "body": [
+        {
+          "en": "Our zodiac charms, inspired by the art of antique coins, are personal...",
+          "de": "Antike Münzen sind die Inspiration für unsere Kollektion von Sternzeichen-Anhängern. Trage sie...",
+          "it": "Ispirati all'arte di monete antiche, i pendenti della Zodiac Collection sono talismani..."
+        }
+      ]
+    }
+  ]
+}

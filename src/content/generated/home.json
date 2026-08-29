@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "title": {
+      "en": "Crafted by hand in high karat gold",
+      "de": "Von Hand gefertigt in hochkarätigem Gold",
+      "it": "Creato a mano in oro ad alta caratura"
+    },
+    "description": {
+      "en": "Jewels inspired by antiquity, made to be worn close to the heart and kept for generations.",
+      "de": "Von der Antike inspirierte Schmuckstücke, geschaffen um nah am Herzen getragen und über Generationen bewahrt zu werden.",
+      "it": "Gioielli ispirati all'antichità, creati per essere indossati vicino al cuore e custoditi per generazioni."
+    },
+    "image": "collections/frontpage/cover.jpg"
+  },
+  "sections": [
+    {
+      "title": {
+        "en": "Heirloom Transformation",
+        "de": "Erbstuck-Verwandlung",
+        "it": "Trasformazione di cimeli"
+      },
+      "description": {
+        "en": "Transform your heirlooms into personal, modern treasures.",
+        "de": "Verwandle deine Erbstucke in personliche, moderne Schatze.",
+        "it": "Trasforma i tuoi cimeli in tesori personali e contemporanei."
+      },
+      "ctaLabel": {
+        "en": "Learn more",
+        "de": "Mehr erfahren",
+        "it": "Scopri di piu"
+      },
+      "image": "pages/heirloom-transformation/hero.jpg",
+      "href": "/pages/heirloom-transformation"
+    },
+    {
+      "title": {
+        "en": "Zodiac Collection",
+        "de": "Zodiac Kollektion",
+        "it": "Collezione Zodiac"
+      },
+      "description": {
+        "en": "Our star sign pendants are the perfect gift.",
+        "de": "Unsere Sternzeichen-Anhanger sind das perfekte Geschenk.",
+        "it": "I nostri pendenti zodiacali sono il regalo perfetto."
+      },
+      "ctaLabel": {
+        "en": "Discover",
+        "de": "Entdecken",
+        "it": "Scopri"
+      },
+      "image": "pages/zodiac-collection/hero.jpg",
+      "href": "/pages/zodiac-collection"
+    },
+    {
+      "title": {
+        "en": "Say it in Gold",
+        "de": "Say it in Gold",
+        "it": "Dillo in oro"
+      },
+      "description": {
+        "en": "Jewellery is an intimate expression of your personality. Explore our collections, dedicated to your most special moments.",
+        "de": "Schmuck ist ein intimer Ausdruck deiner Personlichkeit. Entdecke unsere Kollektionen fur deine besonderen Momente.",
+        "it": "Il gioiello e un'espressione intima della tua personalita. Esplora le nostre collezioni dedicate ai momenti piu speciali."
+      },
+      "ctaLabel": {
+        "en": "Explore",
+        "de": "Entdecken",
+        "it": "Esplora"
+      },
+      "image": "collections/frontpage/cover.jpg",
+      "href": "/collections/all"
+    },
+    {
+      "title": {
+        "en": "Material Matters",
+        "de": "Material Matters",
+        "it": "La materia conta"
+      },
+      "description": {
+        "en": "Preciousness lies in the nature of LURI jewels. In every step of the creation, starting from the raw materials.",
+        "de": "Die Kostbarkeit von LURI Schmuck liegt in seiner Natur, beginnend bei den Rohmaterialien.",
+        "it": "La preziosita dei gioielli LURI vive in ogni fase della creazione, a partire dai materiali."
+      },
+      "ctaLabel": {
+        "en": "Learn more",
+        "de": "Mehr erfahren",
+        "it": "Scopri di piu"
+      },
+      "image": "pages/about/hero.jpg",
+      "href": "/pages/about"
+    },
+    {
+      "title": {
+        "en": "Handmade, one by one",
+        "de": "Von Hand, Stuck fur Stuck",
+        "it": "Fatti a mano, uno per uno"
+      },
+      "description": {
+        "en": "All LURI pieces are entirely crafted by hand with artisanal skill and patience.",
+        "de": "Alle LURI Stucke werden mit handwerklichem Konnen und Geduld vollstandig von Hand gefertigt.",
+        "it": "Tutti i pezzi LURI sono realizzati interamente a mano con pazienza e maestria artigianale."
+      },
+      "ctaLabel": {
+        "en": "Read more",
+        "de": "Mehr lesen",
+        "it": "Leggi di piu"
+      },
+      "image": "products/handwoven-chain-bracelet/01.jpg",
+      "href": "/pages/about"
+    }
+  ]
+}

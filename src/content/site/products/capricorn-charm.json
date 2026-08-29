@@ -1,0 +1,116 @@
+{
+  "slug": "capricorn-charm",
+  "title": {
+    "en": "Capricorn Charm",
+    "de": "Capricorn Charm",
+    "it": "Capricorn Charm"
+  },
+  "description": {
+    "en": "Reliability and perseverance are core characteristics of a capricorn. Once its trust is won, it will stay loyal and never let you down.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+    "de": "Reliability and perseverance are core characteristics of a capricorn. Once its trust is won, it will stay loyal and never let you down.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+    "it": "Reliability and perseverance are core characteristics of a capricorn. Once its trust is won, it will stay loyal and never let you down.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm."
+  },
+  "shortDescription": {
+    "en": "Reliability and perseverance are core characteristics of a capricorn. Once its trust is won, it will stay loyal and never let you down. This pendant is availabl",
+    "de": "Reliability and perseverance are core characteristics of a capricorn. Once its trust is won, it will stay loyal and never let you down.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+    "it": "Reliability and perseverance are core characteristics of a capricorn. Once its trust is won, it will stay loyal and never let you down.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm."
+  },
+  "longDescription": [
+    {
+      "en": "Reliability and perseverance are core characteristics of a capricorn. Once its trust is won, it will stay loyal and never let you down. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+      "de": "Reliability and perseverance are core characteristics of a capricorn. Once its trust is won, it will stay loyal and never let you down.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+      "it": "Reliability and perseverance are core characteristics of a capricorn. Once its trust is won, it will stay loyal and never let you down.  This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm."
+    }
+  ],
+  "collectionLabel": "frontpage / pendants",
+  "collectionSlugs": [
+    "frontpage",
+    "pendants"
+  ],
+  "priceLabel": "EUR 550.00",
+  "purchaseLabel": {
+    "en": "Buy with PayPal",
+    "de": "Mit PayPal kaufen",
+    "it": "Acquista con PayPal"
+  },
+  "shippingNote": {
+    "en": "Insured shipping in Europe is included. For non-European destinations, shipping is calculated on request.",
+    "de": "Versicherter Versand in Europa ist inklusive. Für Ziele außerhalb Europas werden die Versandkosten auf Anfrage berechnet.",
+    "it": "La spedizione assicurata in Europa è inclusa. Per destinazioni extraeuropee il costo viene calcolato su richiesta."
+  },
+  "materialNote": "Reliability and perseverance are core characteristics of a capricorn. Once its trust is won, it will stay loyal and never let you down. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
+  "optionLabels": {
+    "Gold/Silver": {
+      "en": "Gold/Silver",
+      "de": "Gold/Silver",
+      "it": "Gold/Silver"
+    }
+  },
+  "options": [
+    {
+      "name": "Gold/Silver",
+      "values": [
+        "18 karat Gold",
+        "Sterling Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 53848304091482,
+      "title": "18 karat Gold",
+      "sku": "",
+      "price": "550.00",
+      "priceLabel": "EUR 550.00",
+      "available": true,
+      "selectedOptions": {
+        "Gold/Silver": "18 karat Gold"
+      }
+    },
+    {
+      "id": 53848304124250,
+      "title": "Sterling Silver",
+      "sku": "",
+      "price": "69.00",
+      "priceLabel": "EUR 69.00",
+      "available": true,
+      "selectedOptions": {
+        "Gold/Silver": "Sterling Silver"
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "products/capricorn-charm/01.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Capricorn-gold.jpg?v=1773993908",
+      "alt": "Capricorn Charm"
+    },
+    {
+      "path": "products/capricorn-charm/02.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Capricorn-silver.jpg?v=1773993908",
+      "alt": "Capricorn Charm"
+    },
+    {
+      "path": "products/capricorn-charm/03.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Sagittarius-worn.jpg?v=1774000173",
+      "alt": "Capricorn Charm"
+    },
+    {
+      "path": "products/capricorn-charm/04.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/zodiac-backside.jpg?v=1774000173",
+      "alt": "Capricorn Charm"
+    },
+    {
+      "path": "products/capricorn-charm/05.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Pisces-chain.jpg?v=1774000173",
+      "alt": "Capricorn Charm"
+    },
+    {
+      "path": "products/capricorn-charm/06.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/zodiac-pendants-gold.jpg?v=1774000173",
+      "alt": "Capricorn Charm"
+    }
+  ],
+  "whatsappUrl": "https://wa.me/393513955649?text=Hello%20Lisa%2C%20I%20am%20interested%20in%20Capricorn%20Charm.",
+  "instagramUrl": "https://www.instagram.com/luri.gold"
+}

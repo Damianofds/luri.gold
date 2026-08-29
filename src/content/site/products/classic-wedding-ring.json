@@ -1,0 +1,1292 @@
+{
+  "slug": "classic-wedding-ring",
+  "title": {
+    "en": "Love Band",
+    "de": "Love Band",
+    "it": "Love Band"
+  },
+  "description": {
+    "en": "A token of love, but even more preciously crafted by hand and in gold 900. The silky surface will polish itself gently with time through the oils of your skin. If you prefer the reflections of a highly polished surface, you can choose this option. By default, I will produce the ring in traceable gold. The pictured ring",
+    "de": "A token of love, but even more preciously crafted by hand and in gold 900. The silky surface will polish itself gently with time through the oils of your skin. If you prefer the reflections of a highly polished surface, you can choose this option. By default, I will produce the ring in traceable gold. The pictured ring",
+    "it": "A token of love, but even more preciously crafted by hand and in gold 900. The silky surface will polish itself gently with time through the oils of your skin. If you prefer the reflections of a highly polished surface, you can choose this option. By default, I will produce the ring in traceable gold. The pictured ring"
+  },
+  "shortDescription": {
+    "en": "A token of love, but even more preciously crafted by hand and in gold 900. The silky surface will polish itself gently with time through the oils of your skin. ",
+    "de": "A token of love, but even more preciously crafted by hand and in gold 900. The silky surface will polish itself gently with time through the oils of your skin. If you prefer the reflections of a highly polished surface, you can choose this option. By default, I will produce the ring in traceable gold. The pictured ring",
+    "it": "A token of love, but even more preciously crafted by hand and in gold 900. The silky surface will polish itself gently with time through the oils of your skin. If you prefer the reflections of a highly polished surface, you can choose this option. By default, I will produce the ring in traceable gold. The pictured ring"
+  },
+  "longDescription": [
+    {
+      "en": "A token of love, but even more preciously crafted by hand and in gold 900. The silky surface will polish itself gently with time through the oils of your skin. If you prefer the reflections of a highly polished surface, you can choose this option. By default, I will produce the ring in traceable gold. The pictured ring is 3 mm wide, but it can be done in any width, please contact me for customisation.",
+      "de": "A token of love, but even more preciously crafted by hand and in gold 900. The silky surface will polish itself gently with time through the oils of your skin. If you prefer the reflections of a highly polished surface, you can choose this option. By default, I will produce the ring in traceable gold. The pictured ring",
+      "it": "A token of love, but even more preciously crafted by hand and in gold 900. The silky surface will polish itself gently with time through the oils of your skin. If you prefer the reflections of a highly polished surface, you can choose this option. By default, I will produce the ring in traceable gold. The pictured ring"
+    }
+  ],
+  "collectionLabel": "rings / liebe",
+  "collectionSlugs": [
+    "rings",
+    "liebe"
+  ],
+  "priceLabel": "EUR 950.00",
+  "purchaseLabel": {
+    "en": "Buy with PayPal",
+    "de": "Mit PayPal kaufen",
+    "it": "Acquista con PayPal"
+  },
+  "shippingNote": {
+    "en": "Insured shipping in Europe is included. For non-European destinations, shipping is calculated on request.",
+    "de": "Versicherter Versand in Europa ist inklusive. Für Ziele außerhalb Europas werden die Versandkosten auf Anfrage berechnet.",
+    "it": "La spedizione assicurata in Europa è inclusa. Per destinazioni extraeuropee il costo viene calcolato su richiesta."
+  },
+  "materialNote": "A token of love, but even more preciously crafted by hand and in gold 900. The silky surface will polish itself gently with time through the oils of your skin. If you prefer the reflections of a highly polished surface, you can choose this option. By default, I will produce the ring in traceable gold. The pictured ring is 3 mm wide, but it can be done in any width, please contact me for customisation.",
+  "optionLabels": {
+    "Alloy": {
+      "en": "Alloy",
+      "de": "Alloy",
+      "it": "Alloy"
+    },
+    "Finish": {
+      "en": "Finish",
+      "de": "Finish",
+      "it": "Finish"
+    },
+    "Ring size": {
+      "en": "Ring size",
+      "de": "Ringgröße",
+      "it": "Misura anello"
+    }
+  },
+  "options": [
+    {
+      "name": "Alloy",
+      "values": [
+        "Gold 750",
+        "Gold 900"
+      ]
+    },
+    {
+      "name": "Finish",
+      "values": [
+        "Silky",
+        "Polished"
+      ]
+    },
+    {
+      "name": "Ring size",
+      "values": [
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 50525611065690,
+      "title": "Gold 750 / Silky / 48",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "48"
+      }
+    },
+    {
+      "id": 50529441415514,
+      "title": "Gold 750 / Silky / 49",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "49"
+      }
+    },
+    {
+      "id": 50529441448282,
+      "title": "Gold 750 / Silky / 50",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "50"
+      }
+    },
+    {
+      "id": 50529441481050,
+      "title": "Gold 750 / Silky / 51",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "51"
+      }
+    },
+    {
+      "id": 50529441513818,
+      "title": "Gold 750 / Silky / 52",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "52"
+      }
+    },
+    {
+      "id": 50529441546586,
+      "title": "Gold 750 / Silky / 53",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "53"
+      }
+    },
+    {
+      "id": 50529441579354,
+      "title": "Gold 750 / Silky / 54",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "54"
+      }
+    },
+    {
+      "id": 50529441612122,
+      "title": "Gold 750 / Silky / 55",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "55"
+      }
+    },
+    {
+      "id": 50529441644890,
+      "title": "Gold 750 / Silky / 56",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "56"
+      }
+    },
+    {
+      "id": 50529441677658,
+      "title": "Gold 750 / Silky / 57",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "57"
+      }
+    },
+    {
+      "id": 50529441710426,
+      "title": "Gold 750 / Silky / 58",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "58"
+      }
+    },
+    {
+      "id": 50529441743194,
+      "title": "Gold 750 / Silky / 59",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "59"
+      }
+    },
+    {
+      "id": 50529441775962,
+      "title": "Gold 750 / Silky / 60",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "60"
+      }
+    },
+    {
+      "id": 50529441808730,
+      "title": "Gold 750 / Silky / 61",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "61"
+      }
+    },
+    {
+      "id": 50529441841498,
+      "title": "Gold 750 / Silky / 62",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "62"
+      }
+    },
+    {
+      "id": 50529441874266,
+      "title": "Gold 750 / Silky / 63",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "63"
+      }
+    },
+    {
+      "id": 50529441907034,
+      "title": "Gold 750 / Silky / 64",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "64"
+      }
+    },
+    {
+      "id": 50529441939802,
+      "title": "Gold 750 / Silky / 65",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "65"
+      }
+    },
+    {
+      "id": 50529441972570,
+      "title": "Gold 750 / Silky / 66",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "66"
+      }
+    },
+    {
+      "id": 50529442005338,
+      "title": "Gold 750 / Silky / 67",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "67"
+      }
+    },
+    {
+      "id": 50529442038106,
+      "title": "Gold 750 / Silky / 68",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "68"
+      }
+    },
+    {
+      "id": 50529442070874,
+      "title": "Gold 750 / Silky / 69",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Silky",
+        "Ring size": "69"
+      }
+    },
+    {
+      "id": 50525611032922,
+      "title": "Gold 750 / Polished / 48",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "48"
+      }
+    },
+    {
+      "id": 50529440727386,
+      "title": "Gold 750 / Polished / 49",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "49"
+      }
+    },
+    {
+      "id": 50529440760154,
+      "title": "Gold 750 / Polished / 50",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "50"
+      }
+    },
+    {
+      "id": 50529440792922,
+      "title": "Gold 750 / Polished / 51",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "51"
+      }
+    },
+    {
+      "id": 50529440825690,
+      "title": "Gold 750 / Polished / 52",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "52"
+      }
+    },
+    {
+      "id": 50529440858458,
+      "title": "Gold 750 / Polished / 53",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "53"
+      }
+    },
+    {
+      "id": 50529440891226,
+      "title": "Gold 750 / Polished / 54",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "54"
+      }
+    },
+    {
+      "id": 50529440923994,
+      "title": "Gold 750 / Polished / 55",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "55"
+      }
+    },
+    {
+      "id": 50529440956762,
+      "title": "Gold 750 / Polished / 56",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "56"
+      }
+    },
+    {
+      "id": 50529440989530,
+      "title": "Gold 750 / Polished / 57",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "57"
+      }
+    },
+    {
+      "id": 50529441022298,
+      "title": "Gold 750 / Polished / 58",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "58"
+      }
+    },
+    {
+      "id": 50529441055066,
+      "title": "Gold 750 / Polished / 59",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "59"
+      }
+    },
+    {
+      "id": 50529441087834,
+      "title": "Gold 750 / Polished / 60",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "60"
+      }
+    },
+    {
+      "id": 50529441120602,
+      "title": "Gold 750 / Polished / 61",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "61"
+      }
+    },
+    {
+      "id": 50529441153370,
+      "title": "Gold 750 / Polished / 62",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "62"
+      }
+    },
+    {
+      "id": 50529441186138,
+      "title": "Gold 750 / Polished / 63",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "63"
+      }
+    },
+    {
+      "id": 50529441218906,
+      "title": "Gold 750 / Polished / 64",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "64"
+      }
+    },
+    {
+      "id": 50529441251674,
+      "title": "Gold 750 / Polished / 65",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "65"
+      }
+    },
+    {
+      "id": 50529441284442,
+      "title": "Gold 750 / Polished / 66",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "66"
+      }
+    },
+    {
+      "id": 50529441317210,
+      "title": "Gold 750 / Polished / 67",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "67"
+      }
+    },
+    {
+      "id": 50529441349978,
+      "title": "Gold 750 / Polished / 68",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "68"
+      }
+    },
+    {
+      "id": 50529441382746,
+      "title": "Gold 750 / Polished / 69",
+      "sku": "",
+      "price": "950.00",
+      "priceLabel": "EUR 950.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 750",
+        "Finish": "Polished",
+        "Ring size": "69"
+      }
+    },
+    {
+      "id": 50525611131226,
+      "title": "Gold 900 / Silky / 48",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "48"
+      }
+    },
+    {
+      "id": 50529442791770,
+      "title": "Gold 900 / Silky / 49",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "49"
+      }
+    },
+    {
+      "id": 50529442824538,
+      "title": "Gold 900 / Silky / 50",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "50"
+      }
+    },
+    {
+      "id": 50529442857306,
+      "title": "Gold 900 / Silky / 51",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "51"
+      }
+    },
+    {
+      "id": 50529442890074,
+      "title": "Gold 900 / Silky / 52",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "52"
+      }
+    },
+    {
+      "id": 50529442922842,
+      "title": "Gold 900 / Silky / 53",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "53"
+      }
+    },
+    {
+      "id": 50529442955610,
+      "title": "Gold 900 / Silky / 54",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "54"
+      }
+    },
+    {
+      "id": 50529442988378,
+      "title": "Gold 900 / Silky / 55",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "55"
+      }
+    },
+    {
+      "id": 50529443021146,
+      "title": "Gold 900 / Silky / 56",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "56"
+      }
+    },
+    {
+      "id": 50529443053914,
+      "title": "Gold 900 / Silky / 57",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "57"
+      }
+    },
+    {
+      "id": 50529443086682,
+      "title": "Gold 900 / Silky / 58",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "58"
+      }
+    },
+    {
+      "id": 50529443119450,
+      "title": "Gold 900 / Silky / 59",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "59"
+      }
+    },
+    {
+      "id": 50529443152218,
+      "title": "Gold 900 / Silky / 60",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "60"
+      }
+    },
+    {
+      "id": 50529443184986,
+      "title": "Gold 900 / Silky / 61",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "61"
+      }
+    },
+    {
+      "id": 50529443217754,
+      "title": "Gold 900 / Silky / 62",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "62"
+      }
+    },
+    {
+      "id": 50529443250522,
+      "title": "Gold 900 / Silky / 63",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "63"
+      }
+    },
+    {
+      "id": 50529443283290,
+      "title": "Gold 900 / Silky / 64",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "64"
+      }
+    },
+    {
+      "id": 50529443316058,
+      "title": "Gold 900 / Silky / 65",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "65"
+      }
+    },
+    {
+      "id": 50529443348826,
+      "title": "Gold 900 / Silky / 66",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "66"
+      }
+    },
+    {
+      "id": 50529443381594,
+      "title": "Gold 900 / Silky / 67",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "67"
+      }
+    },
+    {
+      "id": 50529443414362,
+      "title": "Gold 900 / Silky / 68",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "68"
+      }
+    },
+    {
+      "id": 50529443447130,
+      "title": "Gold 900 / Silky / 69",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Silky",
+        "Ring size": "69"
+      }
+    },
+    {
+      "id": 50525611098458,
+      "title": "Gold 900 / Polished / 48",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "48"
+      }
+    },
+    {
+      "id": 50529442103642,
+      "title": "Gold 900 / Polished / 49",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "49"
+      }
+    },
+    {
+      "id": 50529442136410,
+      "title": "Gold 900 / Polished / 50",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "50"
+      }
+    },
+    {
+      "id": 50529442169178,
+      "title": "Gold 900 / Polished / 51",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "51"
+      }
+    },
+    {
+      "id": 50529442201946,
+      "title": "Gold 900 / Polished / 52",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "52"
+      }
+    },
+    {
+      "id": 50529442234714,
+      "title": "Gold 900 / Polished / 53",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "53"
+      }
+    },
+    {
+      "id": 50529442267482,
+      "title": "Gold 900 / Polished / 54",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "54"
+      }
+    },
+    {
+      "id": 50529442300250,
+      "title": "Gold 900 / Polished / 55",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "55"
+      }
+    },
+    {
+      "id": 50529442333018,
+      "title": "Gold 900 / Polished / 56",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "56"
+      }
+    },
+    {
+      "id": 50529442365786,
+      "title": "Gold 900 / Polished / 57",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "57"
+      }
+    },
+    {
+      "id": 50529442398554,
+      "title": "Gold 900 / Polished / 58",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "58"
+      }
+    },
+    {
+      "id": 50529442431322,
+      "title": "Gold 900 / Polished / 59",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "59"
+      }
+    },
+    {
+      "id": 50529442464090,
+      "title": "Gold 900 / Polished / 60",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "60"
+      }
+    },
+    {
+      "id": 50529442496858,
+      "title": "Gold 900 / Polished / 61",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "61"
+      }
+    },
+    {
+      "id": 50529442529626,
+      "title": "Gold 900 / Polished / 62",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "62"
+      }
+    },
+    {
+      "id": 50529442562394,
+      "title": "Gold 900 / Polished / 63",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "63"
+      }
+    },
+    {
+      "id": 50529442595162,
+      "title": "Gold 900 / Polished / 64",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "64"
+      }
+    },
+    {
+      "id": 50529442627930,
+      "title": "Gold 900 / Polished / 65",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "65"
+      }
+    },
+    {
+      "id": 50529442660698,
+      "title": "Gold 900 / Polished / 66",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "66"
+      }
+    },
+    {
+      "id": 50529442693466,
+      "title": "Gold 900 / Polished / 67",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "67"
+      }
+    },
+    {
+      "id": 50529442726234,
+      "title": "Gold 900 / Polished / 68",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "68"
+      }
+    },
+    {
+      "id": 50529442759002,
+      "title": "Gold 900 / Polished / 69",
+      "sku": "",
+      "price": "1100.00",
+      "priceLabel": "EUR 1100.00",
+      "available": true,
+      "selectedOptions": {
+        "Alloy": "Gold 900",
+        "Finish": "Polished",
+        "Ring size": "69"
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "products/classic-wedding-ring/01.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2288.jpg?v=1739470855",
+      "alt": "Love Band"
+    },
+    {
+      "path": "products/classic-wedding-ring/02.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2290.jpg?v=1739470298",
+      "alt": "Love Band"
+    },
+    {
+      "path": "products/classic-wedding-ring/03.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2318.jpg?v=1739471724",
+      "alt": "Love Band"
+    },
+    {
+      "path": "products/classic-wedding-ring/04.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2357.jpg?v=1739471827",
+      "alt": "Love Band"
+    },
+    {
+      "path": "products/classic-wedding-ring/05.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2354.jpg?v=1739472660",
+      "alt": "Love Band"
+    },
+    {
+      "path": "products/classic-wedding-ring/06.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2332.jpg?v=1739472660",
+      "alt": "Love Band"
+    },
+    {
+      "path": "products/classic-wedding-ring/07.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2335.jpg?v=1739471632",
+      "alt": "Love Band"
+    },
+    {
+      "path": "products/classic-wedding-ring/08.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/Eheringe.jpg?v=1772533771",
+      "alt": "Love Band"
+    }
+  ],
+  "whatsappUrl": "https://wa.me/393513955649?text=Hello%20Lisa%2C%20I%20am%20interested%20in%20Love%20Band.",
+  "instagramUrl": "https://www.instagram.com/luri.gold"
+}

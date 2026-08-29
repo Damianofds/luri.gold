@@ -1,0 +1,88 @@
+{
+  "slug": "pyramid-studs",
+  "title": {
+    "en": "Pyramid studs",
+    "de": "Pyramid studs",
+    "it": "Pyramid studs"
+  },
+  "description": {
+    "en": "Granules form distinct geometric shapes naturally and can be found like these as granulation decoration on antique jewellery throughout different cultures, from the Etruscans to the Assyrians. The pyramid of four spheres is one of them. As all LURI pieces, these studs are crafted entirely by hand.",
+    "de": "Granules form distinct geometric shapes naturally and can be found like these as granulation decoration on antique jewellery throughout different cultures, from the Etruscans to the Assyrians. The pyramid of four spheres is one of them. As all LURI pieces, these studs are crafted entirely by hand.",
+    "it": "Granules form distinct geometric shapes naturally and can be found like these as granulation decoration on antique jewellery throughout different cultures, from the Etruscans to the Assyrians. The pyramid of four spheres is one of them. As all LURI pieces, these studs are crafted entirely by hand."
+  },
+  "shortDescription": {
+    "en": "Granules form distinct geometric shapes naturally and can be found like these as granulation decoration on antique jewellery throughout different cultures, from",
+    "de": "Granules form distinct geometric shapes naturally and can be found like these as granulation decoration on antique jewellery throughout different cultures, from the Etruscans to the Assyrians. The pyramid of four spheres is one of them. As all LURI pieces, these studs are crafted entirely by hand.",
+    "it": "Granules form distinct geometric shapes naturally and can be found like these as granulation decoration on antique jewellery throughout different cultures, from the Etruscans to the Assyrians. The pyramid of four spheres is one of them. As all LURI pieces, these studs are crafted entirely by hand."
+  },
+  "longDescription": [
+    {
+      "en": "Granules form distinct geometric shapes naturally and can be found like these as granulation decoration on antique jewellery throughout different cultures, from the Etruscans to the Assyrians. The pyramid of four spheres is one of them. As all LURI pieces, these studs are crafted entirely by hand.",
+      "de": "Granules form distinct geometric shapes naturally and can be found like these as granulation decoration on antique jewellery throughout different cultures, from the Etruscans to the Assyrians. The pyramid of four spheres is one of them. As all LURI pieces, these studs are crafted entirely by hand.",
+      "it": "Granules form distinct geometric shapes naturally and can be found like these as granulation decoration on antique jewellery throughout different cultures, from the Etruscans to the Assyrians. The pyramid of four spheres is one of them. As all LURI pieces, these studs are crafted entirely by hand."
+    }
+  ],
+  "collectionLabel": "earrings",
+  "collectionSlugs": [
+    "earrings"
+  ],
+  "priceLabel": "EUR 390.00",
+  "purchaseLabel": {
+    "en": "Buy with PayPal",
+    "de": "Mit PayPal kaufen",
+    "it": "Acquista con PayPal"
+  },
+  "shippingNote": {
+    "en": "Insured shipping in Europe is included. For non-European destinations, shipping is calculated on request.",
+    "de": "Versicherter Versand in Europa ist inklusive. Für Ziele außerhalb Europas werden die Versandkosten auf Anfrage berechnet.",
+    "it": "La spedizione assicurata in Europa è inclusa. Per destinazioni extraeuropee il costo viene calcolato su richiesta."
+  },
+  "materialNote": "Granules form distinct geometric shapes naturally and can be found like these as granulation decoration on antique jewellery throughout different cultures, from the Etruscans to the Assyrians. The pyramid of four spheres is one of them. As all LURI pieces, these studs are crafted entirely by hand.",
+  "optionLabels": {
+    "Title": {
+      "en": "Title",
+      "de": "Title",
+      "it": "Title"
+    }
+  },
+  "options": [
+    {
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 49371599339866,
+      "title": "Default Title",
+      "sku": "",
+      "price": "390.00",
+      "priceLabel": "EUR 390.00",
+      "available": true,
+      "selectedOptions": {
+        "Title": "Default Title"
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "products/pyramid-studs/01.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1404.jpg?v=1724678137",
+      "alt": "Pyramid studs"
+    },
+    {
+      "path": "products/pyramid-studs/02.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1406.jpg?v=1724678177",
+      "alt": "Pyramid studs"
+    },
+    {
+      "path": "products/pyramid-studs/03.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1405.jpg?v=1724678256",
+      "alt": "Pyramid studs"
+    }
+  ],
+  "whatsappUrl": "https://wa.me/393513955649?text=Hello%20Lisa%2C%20I%20am%20interested%20in%20Pyramid%20studs.",
+  "instagramUrl": "https://www.instagram.com/luri.gold"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "omega-ring",
+  "title": {
+    "en": "Omega Ring",
+    "de": "Omega Ring",
+    "it": "Omega Ring"
+  },
+  "description": {
+    "en": "An hommage to colour, the omega ring puts a cabochon cut gem at the centre of attention. Due to the unique nature of gems, every piece is one of a kind. Made in gold 900. New gems will be online soon!  Do you have a favourite gemstone? Please contact me for your personal version.  The price may vary according to the ge",
+    "de": "An hommage to colour, the omega ring puts a cabochon cut gem at the centre of attention. Due to the unique nature of gems, every piece is one of a kind. Made in gold 900. New gems will be online soon!  Do you have a favourite gemstone? Please contact me for your personal version.  The price may vary according to the ge",
+    "it": "An hommage to colour, the omega ring puts a cabochon cut gem at the centre of attention. Due to the unique nature of gems, every piece is one of a kind. Made in gold 900. New gems will be online soon!  Do you have a favourite gemstone? Please contact me for your personal version.  The price may vary according to the ge"
+  },
+  "shortDescription": {
+    "en": "An hommage to colour, the omega ring puts a cabochon cut gem at the centre of attention. Due to the unique nature of gems, every piece is one of a kind. Made in",
+    "de": "An hommage to colour, the omega ring puts a cabochon cut gem at the centre of attention. Due to the unique nature of gems, every piece is one of a kind. Made in gold 900. New gems will be online soon!  Do you have a favourite gemstone? Please contact me for your personal version.  The price may vary according to the ge",
+    "it": "An hommage to colour, the omega ring puts a cabochon cut gem at the centre of attention. Due to the unique nature of gems, every piece is one of a kind. Made in gold 900. New gems will be online soon!  Do you have a favourite gemstone? Please contact me for your personal version.  The price may vary according to the ge"
+  },
+  "longDescription": [
+    {
+      "en": "An hommage to colour, the omega ring puts a cabochon cut gem at the centre of attention. Due to the unique nature of gems, every piece is one of a kind. Made in gold 900. New gems will be online soon! Do you have a favourite gemstone? Please contact me for your personal version. The price may vary according to the gemstone chosen.",
+      "de": "An hommage to colour, the omega ring puts a cabochon cut gem at the centre of attention. Due to the unique nature of gems, every piece is one of a kind. Made in gold 900. New gems will be online soon!  Do you have a favourite gemstone? Please contact me for your personal version.  The price may vary according to the ge",
+      "it": "An hommage to colour, the omega ring puts a cabochon cut gem at the centre of attention. Due to the unique nature of gems, every piece is one of a kind. Made in gold 900. New gems will be online soon!  Do you have a favourite gemstone? Please contact me for your personal version.  The price may vary according to the ge"
+    }
+  ],
+  "collectionLabel": "rings",
+  "collectionSlugs": [
+    "rings"
+  ],
+  "priceLabel": "EUR 1600.00",
+  "purchaseLabel": {
+    "en": "Buy with PayPal",
+    "de": "Mit PayPal kaufen",
+    "it": "Acquista con PayPal"
+  },
+  "shippingNote": {
+    "en": "Insured shipping in Europe is included. For non-European destinations, shipping is calculated on request.",
+    "de": "Versicherter Versand in Europa ist inklusive. Für Ziele außerhalb Europas werden die Versandkosten auf Anfrage berechnet.",
+    "it": "La spedizione assicurata in Europa è inclusa. Per destinazioni extraeuropee il costo viene calcolato su richiesta."
+  },
+  "materialNote": "An hommage to colour, the omega ring puts a cabochon cut gem at the centre of attention. Due to the unique nature of gems, every piece is one of a kind. Made in gold 900. New gems will be online soon! Do you have a favourite gemstone? Please contact me for your personal version. The price may vary according to the gemstone chosen.",
+  "optionLabels": {
+    "Title": {
+      "en": "Title",
+      "de": "Title",
+      "it": "Title"
+    }
+  },
+  "options": [
+    {
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 52495058796890,
+      "title": "Default Title",
+      "sku": "",
+      "price": "1600.00",
+      "priceLabel": "EUR 1600.00",
+      "available": true,
+      "selectedOptions": {
+        "Title": "Default Title"
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "products/omega-ring/01.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/ring-gold-tourmaline.jpg?v=1770720947",
+      "alt": "Omega Ring"
+    },
+    {
+      "path": "products/omega-ring/02.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1119.jpg?v=1770720947",
+      "alt": "Omega Ring"
+    },
+    {
+      "path": "products/omega-ring/03.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/ring-gold-pink-tourmaline-strawberries.jpg?v=1770718075",
+      "alt": "Omega Ring"
+    },
+    {
+      "path": "products/omega-ring/04.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1123.jpg?v=1770718075",
+      "alt": "Omega Ring"
+    },
+    {
+      "path": "products/omega-ring/05.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/ring-gold-pink-tourmaline.jpg?v=1770718075",
+      "alt": "Omega Ring"
+    },
+    {
+      "path": "products/omega-ring/06.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC1371.jpg?v=1770718075",
+      "alt": "Omega Ring"
+    },
+    {
+      "path": "products/omega-ring/07.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC0639.jpg?v=1770718075",
+      "alt": "Omega Ring"
+    },
+    {
+      "path": "products/omega-ring/08.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC0644.jpg?v=1770718075",
+      "alt": "Omega Ring"
+    }
+  ],
+  "whatsappUrl": "https://wa.me/393513955649?text=Hello%20Lisa%2C%20I%20am%20interested%20in%20Omega%20Ring.",
+  "instagramUrl": "https://www.instagram.com/luri.gold"
+}

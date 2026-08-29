@@ -1,0 +1,22 @@
+{
+  "slug": "liebe",
+  "title": {
+    "en": "Liebe",
+    "de": "Liebe",
+    "it": "Amore"
+  },
+  "description": {
+    "en": "Eternal jewellery for your most happy moments.",
+    "de": "Schmuck für die Ewigkeit, Erinnerung an deine unvergesslichen Momente.",
+    "it": "Gioielli eterni per i tuoi momenti indimenticabili."
+  },
+  "heroImage": "collections/liebe/cover.jpg",
+  "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC2357.jpg?v=1763111864",
+  "productSlugs": [
+    "colonna-ring",
+    "diamond-ring",
+    "granulated-ring",
+    "hammered-ring",
+    "classic-wedding-ring"
+  ]
+}

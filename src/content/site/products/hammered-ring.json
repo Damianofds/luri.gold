@@ -1,0 +1,356 @@
+{
+  "slug": "hammered-ring",
+  "title": {
+    "en": "Hammered Ring",
+    "de": "Hammered Ring",
+    "it": "Hammered Ring"
+  },
+  "description": {
+    "en": "Rough on the outside, soft on the inside. Playing with contrasts, this ring reminds us that superficial impressions can be deceiving and that it&#39;s always worth to look closer. This ring is made in gold 900 and 3 mm wide, but can be made wider or thinner according to your preferences. You can also add your favourite gem",
+    "de": "Rough on the outside, soft on the inside. Playing with contrasts, this ring reminds us that superficial impressions can be deceiving and that it&#39;s always worth to look closer. This ring is made in gold 900 and 3 mm wide, but can be made wider or thinner according to your preferences. You can also add your favourite gem",
+    "it": "Rough on the outside, soft on the inside. Playing with contrasts, this ring reminds us that superficial impressions can be deceiving and that it&#39;s always worth to look closer. This ring is made in gold 900 and 3 mm wide, but can be made wider or thinner according to your preferences. You can also add your favourite gem"
+  },
+  "shortDescription": {
+    "en": "Rough on the outside, soft on the inside. Playing with contrasts, this ring reminds us that superficial impressions can be deceiving and that it's always worth ",
+    "de": "Rough on the outside, soft on the inside. Playing with contrasts, this ring reminds us that superficial impressions can be deceiving and that it&#39;s always worth to look closer. This ring is made in gold 900 and 3 mm wide, but can be made wider or thinner according to your preferences. You can also add your favourite gem",
+    "it": "Rough on the outside, soft on the inside. Playing with contrasts, this ring reminds us that superficial impressions can be deceiving and that it&#39;s always worth to look closer. This ring is made in gold 900 and 3 mm wide, but can be made wider or thinner according to your preferences. You can also add your favourite gem"
+  },
+  "longDescription": [
+    {
+      "en": "Rough on the outside, soft on the inside. Playing with contrasts, this ring reminds us that superficial impressions can be deceiving and that it's always worth to look closer. This ring is made in gold 900 and 3 mm wide, but can be made wider or thinner according to your preferences. You can also add your favourite gems on the out- and inside of the ring. Please contact me for any customisation.",
+      "de": "Rough on the outside, soft on the inside. Playing with contrasts, this ring reminds us that superficial impressions can be deceiving and that it&#39;s always worth to look closer. This ring is made in gold 900 and 3 mm wide, but can be made wider or thinner according to your preferences. You can also add your favourite gem",
+      "it": "Rough on the outside, soft on the inside. Playing with contrasts, this ring reminds us that superficial impressions can be deceiving and that it&#39;s always worth to look closer. This ring is made in gold 900 and 3 mm wide, but can be made wider or thinner according to your preferences. You can also add your favourite gem"
+    }
+  ],
+  "collectionLabel": "rings / liebe",
+  "collectionSlugs": [
+    "rings",
+    "liebe"
+  ],
+  "priceLabel": "EUR 1450.00",
+  "purchaseLabel": {
+    "en": "Buy with PayPal",
+    "de": "Mit PayPal kaufen",
+    "it": "Acquista con PayPal"
+  },
+  "shippingNote": {
+    "en": "Insured shipping in Europe is included. For non-European destinations, shipping is calculated on request.",
+    "de": "Versicherter Versand in Europa ist inklusive. Für Ziele außerhalb Europas werden die Versandkosten auf Anfrage berechnet.",
+    "it": "La spedizione assicurata in Europa è inclusa. Per destinazioni extraeuropee il costo viene calcolato su richiesta."
+  },
+  "materialNote": "Rough on the outside, soft on the inside. Playing with contrasts, this ring reminds us that superficial impressions can be deceiving and that it's always worth to look closer. This ring is made in gold 900 and 3 mm wide, but can be made wider or thinner according to your preferences. You can also add your favourite gems on the out- and inside of the ring. Please contact me for any customisation.",
+  "optionLabels": {
+    "Ring size": {
+      "en": "Ring size",
+      "de": "Ringgröße",
+      "it": "Misura anello"
+    }
+  },
+  "options": [
+    {
+      "name": "Ring size",
+      "values": [
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 50525471048026,
+      "title": "48",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "48"
+      }
+    },
+    {
+      "id": 50525471080794,
+      "title": "49",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "49"
+      }
+    },
+    {
+      "id": 50525471113562,
+      "title": "50",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "50"
+      }
+    },
+    {
+      "id": 50525471146330,
+      "title": "51",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "51"
+      }
+    },
+    {
+      "id": 50525471179098,
+      "title": "52",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "52"
+      }
+    },
+    {
+      "id": 50525471211866,
+      "title": "53",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "53"
+      }
+    },
+    {
+      "id": 50525471244634,
+      "title": "54",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "54"
+      }
+    },
+    {
+      "id": 50525471277402,
+      "title": "55",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "55"
+      }
+    },
+    {
+      "id": 50525471310170,
+      "title": "56",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "56"
+      }
+    },
+    {
+      "id": 50525471342938,
+      "title": "57",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "57"
+      }
+    },
+    {
+      "id": 50525471375706,
+      "title": "58",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "58"
+      }
+    },
+    {
+      "id": 50525471408474,
+      "title": "59",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "59"
+      }
+    },
+    {
+      "id": 50525471441242,
+      "title": "60",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "60"
+      }
+    },
+    {
+      "id": 50525471474010,
+      "title": "61",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "61"
+      }
+    },
+    {
+      "id": 50525471506778,
+      "title": "62",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "62"
+      }
+    },
+    {
+      "id": 50525471539546,
+      "title": "63",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "63"
+      }
+    },
+    {
+      "id": 50525471572314,
+      "title": "64",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "64"
+      }
+    },
+    {
+      "id": 50525471605082,
+      "title": "65",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "65"
+      }
+    },
+    {
+      "id": 50525471637850,
+      "title": "66",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "66"
+      }
+    },
+    {
+      "id": 50525471670618,
+      "title": "67",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "67"
+      }
+    },
+    {
+      "id": 50525471703386,
+      "title": "68",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "68"
+      }
+    },
+    {
+      "id": 50525471736154,
+      "title": "69",
+      "sku": "",
+      "price": "1450.00",
+      "priceLabel": "EUR 1450.00",
+      "available": true,
+      "selectedOptions": {
+        "Ring size": "69"
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "products/hammered-ring/01.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2181.jpg?v=1739465705",
+      "alt": "Hammered Ring"
+    },
+    {
+      "path": "products/hammered-ring/02.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2191.jpg?v=1739465558",
+      "alt": "Hammered Ring"
+    },
+    {
+      "path": "products/hammered-ring/03.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2212.jpg?v=1739465359",
+      "alt": "Hammered Ring"
+    },
+    {
+      "path": "products/hammered-ring/04.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/DSC2215.jpg?v=1739465820",
+      "alt": "Hammered Ring"
+    },
+    {
+      "path": "products/hammered-ring/05.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/variations.jpg?v=1739467898",
+      "alt": "Hammered Ring"
+    },
+    {
+      "path": "products/hammered-ring/06.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0885/5217/8010/files/diamonds.jpg?v=1739468751",
+      "alt": "Hammered Ring"
+    }
+  ],
+  "whatsappUrl": "https://wa.me/393513955649?text=Hello%20Lisa%2C%20I%20am%20interested%20in%20Hammered%20Ring.",
+  "instagramUrl": "https://www.instagram.com/luri.gold"
+}
