@@ -75,7 +75,10 @@ The public asset host is controlled through:
 VITE_ASSET_BASE_URL=/site-assets
 ```
 
-That can later be swapped to an absolute CDN URL without changing content JSON.
+For local development and a future custom domain, use `VITE_BASE_PATH=/`.
+The GitHub Pages project deployment sets `VITE_BASE_PATH=/luri.gold/`
+automatically. `VITE_ASSET_BASE_URL` can later be swapped to an absolute CDN URL
+without changing content JSON.
 
 ## Authoring workflows
 

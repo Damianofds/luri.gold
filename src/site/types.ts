@@ -9,6 +9,7 @@ export type LocalizedString = string | {
 export interface SiteConfig {
   brandName: string;
   canonicalHost: string;
+  basePath: string;
   defaultLocale: Locale;
   locales: Locale[];
   assetBaseUrl: string;

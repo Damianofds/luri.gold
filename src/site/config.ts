@@ -1,12 +1,14 @@
 import type { SiteConfig } from "./types";
 import paypalHostedButtons from "../content/site/paypal-hosted-buttons.json";
 
-const assetBaseUrl = (import.meta.env.VITE_ASSET_BASE_URL || "/site-assets").replace(/\/$/, "");
+const basePath = import.meta.env.BASE_URL === "/" ? "" : import.meta.env.BASE_URL.replace(/\/$/, "");
+const assetBaseUrl = (import.meta.env.VITE_ASSET_BASE_URL || `${import.meta.env.BASE_URL}site-assets`).replace(/\/$/, "");
 const canonicalHost = (import.meta.env.VITE_SITE_URL || "https://luri.gold").replace(/\/$/, "");
 
 export const siteConfig: SiteConfig = {
   brandName: "LURI jewels",
   canonicalHost,
+  basePath,
   defaultLocale: "en",
   locales: ["en", "de", "it"],
   assetBaseUrl,

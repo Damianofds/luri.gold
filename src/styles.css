@@ -1,6 +1,6 @@
-@font-face{font-family:Manuale;src:url("/site-assets/brand/fonts/Manuale-Light.woff2") format("woff2");font-weight:300;font-display:swap}
-@font-face{font-family:Manuale;src:url("/site-assets/brand/fonts/Manuale-Bold.woff2") format("woff2");font-weight:700;font-display:swap}
-@font-face{font-family:Manuale;src:url("/site-assets/brand/fonts/Manuale-LightItalic.woff2") format("woff2");font-style:italic;font-weight:300;font-display:swap}
+@font-face{font-family:Manuale;src:url("../site-assets/brand/fonts/Manuale-Light.woff2") format("woff2");font-weight:300;font-display:swap}
+@font-face{font-family:Manuale;src:url("../site-assets/brand/fonts/Manuale-Bold.woff2") format("woff2");font-weight:700;font-display:swap}
+@font-face{font-family:Manuale;src:url("../site-assets/brand/fonts/Manuale-LightItalic.woff2") format("woff2");font-style:italic;font-weight:300;font-display:swap}
 :root{color-scheme:light;--background:#fcfcfc;--foreground:#00070a;--muted:rgba(0,7,10,.68);--line:rgba(0,7,10,.16);--page-width:126rem;--narrow-width:72.6rem;--page-gutter:5rem;font-family:Manuale,Georgia,serif;font-size:62.5%;font-synthesis:none}
 *{box-sizing:border-box}
 html{min-width:32rem;scroll-behavior:smooth}

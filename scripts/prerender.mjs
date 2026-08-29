@@ -7,6 +7,7 @@ const projectRoot = path.resolve(__dirname, "..");
 const distDir = path.join(projectRoot, "dist");
 const distSsrDir = path.join(projectRoot, "dist-ssr");
 const generatedDir = path.join(projectRoot, "src", "content", "generated");
+const basePath = (process.env.VITE_BASE_PATH || "/").replace(/\/$/, "");
 
 async function loadTemplate() {
   return fs.readFile(path.join(distDir, "index.html"), "utf8");
@@ -40,7 +41,7 @@ async function main() {
   const routes = JSON.parse(await fs.readFile(path.join(generatedDir, "routes.json"), "utf8"));
 
   for (const route of routes) {
-    const html = render(route);
+    const html = render(`${basePath}${route || "/"}` || "/");
     const outFile = routeToOutputPath(route);
     const page = template.replace('<div id="root"></div>', `<div id="root">${html}</div>`);
     await ensureDir(outFile);
