@@ -1,6 +1,0 @@
-dist
-dist-ssr
-node_modules
-.cache
-.DS_Store
-*.log
