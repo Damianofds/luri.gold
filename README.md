@@ -49,7 +49,7 @@ The deployable output is written to `dist/` and includes:
 - Minified and gzip-compressible HTML, CSS, and JavaScript
 - Prerendered English, German, and Italian routes
 - `site-assets/` with the complete image and font hierarchy
-- `CNAME`, `.nojekyll`, `robots.txt`, and `llms.txt`
+- `.nojekyll`, `robots.txt`, and `llms.txt`
 
 ## Content source of truth
 
@@ -115,11 +115,11 @@ npm run build
 ## GitHub Pages
 
 The deployment workflow is in `.github/workflows/deploy.yml`. A push to `main`
-builds and publishes `dist/` through GitHub Pages. The repository can also keep a
+builds and publishes `dist/` through GitHub Pages. The repository also keeps a
 fully rendered `gh-pages` branch for direct Pages hosting.
 
 Repository settings still need these GitHub-side steps:
 
 1. In `Damianofds/luri.gold`, enable GitHub Pages with source `GitHub Actions`.
-2. Set the custom domain to `luri.gold`.
-3. Point DNS for `luri.gold` to GitHub Pages.
+2. Set a custom domain only when you are ready to switch away from the default
+   `damianofds.github.io/luri.gold` URL.
