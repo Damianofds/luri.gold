@@ -1,112 +1,162 @@
 {
-  "hero": {
-    "title": {
-      "en": "Crafted by hand in high karat gold",
-      "de": "Von Hand gefertigt in hochkarätigem Gold",
-      "it": "Creato a mano in oro ad alta caratura"
+  "autoplaySeconds": 3,
+  "slides": [
+    {
+      "title": {
+        "en": "Own Your Shine",
+        "de": "Du strahlst",
+        "it": "Il tuo splendore"
+      },
+      "description": {
+        "en": "Jewels inspired by antique treasures, made for today",
+        "de": "Schmuck für dein Heute, von antiken Schätzen inspiriert",
+        "it": "Gioielli ispirati a tesori antichi, creati per farti splendere oggi, ogni giorno"
+      },
+      "ctaLabel": {
+        "en": "Shop Collections",
+        "de": "Kollektionen",
+        "it": "Collezioni"
+      },
+      "image": "home/slides/own-your-shine.jpg",
+      "href": "/collections",
+      "imagePosition": "50% 50%"
     },
-    "description": {
-      "en": "Jewels inspired by antiquity, made to be worn close to the heart and kept for generations.",
-      "de": "Von der Antike inspirierte Schmuckstücke, geschaffen um nah am Herzen getragen und über Generationen bewahrt zu werden.",
-      "it": "Gioielli ispirati all'antichità, creati per essere indossati vicino al cuore e custoditi per generazioni."
-    },
-    "image": "collections/frontpage/cover.jpg"
-  },
+    {
+      "title": {
+        "en": "Find Your Glow",
+        "de": "Finde deinen Glanz",
+        "it": "Scopri il tuo modo di brillare"
+      },
+      "description": {
+        "en": "Create Your Personal Jewel in Gold and Gemstones",
+        "de": "Gestalte dein persönlichstes Schmuckstück",
+        "it": "Crea il tuo gioiello più personale"
+      },
+      "ctaLabel": {
+        "en": "Start Now",
+        "de": "Mehr",
+        "it": "Inizia ora"
+      },
+      "image": "home/slides/find-your-glow.jpg",
+      "href": "/pages/bespoke",
+      "imagePosition": "53.3088% 50.9968%"
+    }
+  ],
   "sections": [
     {
       "title": {
         "en": "Heirloom Transformation",
-        "de": "Erbstuck-Verwandlung",
-        "it": "Trasformazione di cimeli"
+        "de": "Erbstück-Transformation",
+        "it": "Trasformazione di gioielli di famiglia"
       },
       "description": {
         "en": "Transform your heirlooms into personal, modern treasures.",
-        "de": "Verwandle deine Erbstucke in personliche, moderne Schatze.",
-        "it": "Trasforma i tuoi cimeli in tesori personali e contemporanei."
+        "de": "Verwandeln Sie Ihre Erbstücke in persönliche, moderne Schätze.",
+        "it": "Trasforma il tuo oro nel cassetto in un tesoro personale e moderno."
       },
       "ctaLabel": {
         "en": "Learn more",
         "de": "Mehr erfahren",
-        "it": "Scopri di piu"
+        "it": "Scopri di più"
       },
-      "image": "pages/heirloom-transformation/hero.jpg",
-      "href": "/pages/heirloom-transformation"
+      "image": "home/sections/heirloom-transformation.jpg",
+      "href": "/pages/heirloom-transformation",
+      "mediaPosition": "right",
+      "headingSize": "medium",
+      "imageAspectRatio": 1.322751,
+      "spacing": "compact"
     },
     {
       "title": {
         "en": "Zodiac Collection",
-        "de": "Zodiac Kollektion",
-        "it": "Collezione Zodiac"
+        "de": "Zodiac",
+        "it": "Zodiac Collection"
       },
       "description": {
-        "en": "Our star sign pendants are the perfect gift.",
-        "de": "Unsere Sternzeichen-Anhanger sind das perfekte Geschenk.",
-        "it": "I nostri pendenti zodiacali sono il regalo perfetto."
+        "en": "Our star sign pendants are the perfect gift",
+        "de": "LURI Sternzeichenanhänger sind das perfekte Geschenk",
+        "it": "I nostri pendenti dello zodiaco sono il regalo perfetto"
       },
       "ctaLabel": {
         "en": "Discover",
-        "de": "Entdecken",
+        "de": "Entdecke mehr",
         "it": "Scopri"
       },
-      "image": "pages/zodiac-collection/hero.jpg",
-      "href": "/pages/zodiac-collection"
+      "image": "home/sections/zodiac-collection.jpg",
+      "href": "/pages/zodiac-collection",
+      "mediaPosition": "left",
+      "headingSize": "large",
+      "imageAspectRatio": 1.160093,
+      "spacing": "spacious"
     },
     {
       "title": {
         "en": "Say it in Gold",
-        "de": "Say it in Gold",
-        "it": "Dillo in oro"
+        "de": "Goldene Momente",
+        "it": "Momenti d'oro"
       },
       "description": {
         "en": "Jewellery is an intimate expression of your personality. Explore our collections, dedicated to your most special moments.",
-        "de": "Schmuck ist ein intimer Ausdruck deiner Personlichkeit. Entdecke unsere Kollektionen fur deine besonderen Momente.",
-        "it": "Il gioiello e un'espressione intima della tua personalita. Esplora le nostre collezioni dedicate ai momenti piu speciali."
+        "de": "LURI Schmuck erzählt deine Geschichte, in Gold geschmiedete Erinnerungen an deine Liebsten und deine schönsten Augenblicke.",
+        "it": "I nostri gioielli sono un'espressione intima della tua personalità. Esplora le nostre collezioni, dedicati ai tuoi momenti più preziosi."
       },
       "ctaLabel": {
         "en": "Explore",
-        "de": "Entdecken",
+        "de": "Kollektionen",
         "it": "Esplora"
       },
-      "image": "collections/frontpage/cover.jpg",
-      "href": "/collections/all"
+      "image": "home/sections/say-it-in-gold.jpg",
+      "href": "/collections",
+      "mediaPosition": "right",
+      "headingSize": "large",
+      "imageAspectRatio": 1.509054,
+      "spacing": "standard"
     },
     {
       "title": {
         "en": "Material Matters",
-        "de": "Material Matters",
-        "it": "La materia conta"
+        "de": "Wertvolle Materialien",
+        "it": "Materia preziosa"
       },
       "description": {
         "en": "Preciousness lies in the nature of LURI jewels. In every step of the creation, starting from the raw materials.",
-        "de": "Die Kostbarkeit von LURI Schmuck liegt in seiner Natur, beginnend bei den Rohmaterialien.",
-        "it": "La preziosita dei gioielli LURI vive in ogni fase della creazione, a partire dai materiali."
+        "de": "Kostbarkeit liegt in der Natur jedes LURI-Schmuckstücks. Und das in jedem Schritt seiner Entstehung, angefangen bei den Rohstoffen.",
+        "it": "La preziosità risiede nella natura dei gioielli LURI. In ogni fase della loro creazione, a partire dalle materie prime."
       },
       "ctaLabel": {
         "en": "Learn more",
-        "de": "Mehr erfahren",
-        "it": "Scopri di piu"
+        "de": "Mehr",
+        "it": "Scopri"
       },
-      "image": "pages/about/hero.jpg",
-      "href": "/pages/about"
+      "image": "home/sections/material-matters.jpg",
+      "href": "/pages/about",
+      "mediaPosition": "left",
+      "headingSize": "large",
+      "imageAspectRatio": 1.25,
+      "spacing": "standard"
     },
     {
       "title": {
         "en": "Handmade, one by one",
-        "de": "Von Hand, Stuck fur Stuck",
-        "it": "Fatti a mano, uno per uno"
+        "de": "Von Hand gefertigt",
+        "it": "Fatti ad arte"
       },
       "description": {
         "en": "All LURI pieces are entirely crafted by hand with artisanal skill and patience.",
-        "de": "Alle LURI Stucke werden mit handwerklichem Konnen und Geduld vollstandig von Hand gefertigt.",
-        "it": "Tutti i pezzi LURI sono realizzati interamente a mano con pazienza e maestria artigianale."
+        "de": "Jedes Schmuckstück wird bei LURI mit Geduld und Handwerkskunst vollständig von Hand gefertigt.",
+        "it": "Tutti i nostri gioielli vengono realizzati interamente a mano, con pazienza artigianale e attenzione ad ogni dettaglio."
       },
       "ctaLabel": {
         "en": "Read more",
-        "de": "Mehr lesen",
-        "it": "Leggi di piu"
+        "de": "Erfahre mehr",
+        "it": "Leggi di più"
       },
-      "image": "products/handwoven-chain-bracelet/01.jpg",
-      "href": "/pages/about"
+      "image": "home/sections/handmade-one-by-one.jpg",
+      "href": "/pages/about",
+      "mediaPosition": "right",
+      "headingSize": "medium",
+      "imageAspectRatio": 1.40056,
+      "spacing": "standard"
     }
   ]
 }

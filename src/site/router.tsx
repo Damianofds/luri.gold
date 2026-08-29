@@ -5,6 +5,7 @@ import { normalizeLocale } from "./i18n";
 import { Layout } from "./ui/Layout";
 import { HomePage } from "./ui/HomePage";
 import { CollectionPage } from "./ui/CollectionPage";
+import { AllProductsPage } from "./ui/AllProductsPage";
 import { ProductPage } from "./ui/ProductPage";
 import { EditorialPage } from "./ui/EditorialPage";
 import { PrivacyPolicyPage } from "./ui/PrivacyPolicyPage";
@@ -16,7 +17,7 @@ function LocaleRoutes({ locale }: { locale: Locale }): ReactElement {
     <Routes>
       <Route path="/" element={<Layout locale={locale}><HomePage locale={locale} /></Layout>} />
       <Route path="/collections" element={<Layout locale={locale}><CollectionPage locale={locale} slug="frontpage" overview /></Layout>} />
-      <Route path="/collections/all" element={<Layout locale={locale}><CollectionPage locale={locale} slug="frontpage" overview /></Layout>} />
+      <Route path="/collections/all" element={<Layout locale={locale}><AllProductsPage locale={locale} /></Layout>} />
       <Route path="/collections/:slug" element={<Layout locale={locale}><CollectionPage locale={locale} /></Layout>} />
       <Route path="/products/:slug" element={<Layout locale={locale}><ProductPage locale={locale} /></Layout>} />
       <Route path="/pages/:slug" element={<Layout locale={locale}><EditorialPage locale={locale} /></Layout>} />

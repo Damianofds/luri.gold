@@ -1,0 +1,14 @@
+# LURI jewels
+
+LURI is an artisanal jewellery studio. This static website provides public information about its collections, individual products, bespoke work, heirloom transformation, materials, shipping, and contact channels.
+
+Primary navigation:
+- [Shop all jewellery](https://luri.gold/collections/all)
+- [About LURI](https://luri.gold/pages/about)
+- [Bespoke jewellery](https://luri.gold/pages/bespoke)
+- [Heirloom transformation](https://luri.gold/pages/heirloom-transformation)
+
+Languages:
+- [English](https://luri.gold/)
+- [German](https://luri.gold/de)
+- [Italian](https://luri.gold/it)

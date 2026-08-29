@@ -5,6 +5,7 @@ import { getCollectionBySlug, getCollections } from "../catalog";
 import { buildLocalizedPath } from "../i18n";
 import { t } from "../messages";
 import type { Locale } from "../types";
+import { ProductListing } from "./ProductListing";
 
 export function CollectionPage({
   locale,
@@ -24,15 +25,16 @@ export function CollectionPage({
     return null;
   }
 
+  const heroTitle = overview ? t(locale, "collectionsTitle") : collection.title;
+  const heroDescription = overview ? t(locale, "collectionsDescription") : collection.description;
+
   return (
     <div>
-      <section className="collection-hero">
-        <img src={assetUrl(collection.heroImage)} alt={collection.title} />
+      <section className={`collection-hero ${overview ? "collection-hero--overview" : "collection-hero--detail"}`}>
         <div className="collection-hero__copy">
           <div>
-            <p className="eyebrow">{overview ? t(locale, "collectionOverviewEyebrow") : t(locale, "collectionDetailEyebrow")}</p>
-            <h1>{collection.title}</h1>
-            <p>{collection.description}</p>
+            <h1>{heroTitle}</h1>
+            {heroDescription ? <p>{heroDescription}</p> : null}
           </div>
         </div>
       </section>
@@ -52,18 +54,7 @@ export function CollectionPage({
         </section>
       ) : null}
       <section className="band">
-        <div className="product-grid">
-          {collection.products.map((product) => (
-            <Link key={product.slug} className="product-card" to={buildLocalizedPath(locale, `/products/${product.slug}`)}>
-              <img src={assetUrl(product.images[0]?.path ?? "")} alt={product.title} />
-              <div className="product-card__body">
-                <h3>{product.title}</h3>
-                <p>{product.shortDescription || product.description}</p>
-                <span>{product.priceLabel}</span>
-              </div>
-            </Link>
-          ))}
-        </div>
+        <ProductListing locale={locale} products={collection.products} />
       </section>
     </div>
   );

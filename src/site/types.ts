@@ -1,6 +1,10 @@
 export type Locale = "en" | "de" | "it";
 
-export type LocalizedString = Record<Locale, string> | string;
+export type LocalizedString = string | {
+  en: string;
+  de?: string;
+  it?: string;
+};
 
 export interface SiteConfig {
   brandName: string;
@@ -30,39 +34,49 @@ export interface SiteConfig {
 }
 
 export interface HomeContent {
-  hero: {
-    title: Record<Locale, string>;
-    description: Record<Locale, string>;
+  autoplaySeconds: number;
+  slides: Array<{
+    title: LocalizedString;
+    description: LocalizedString;
+    ctaLabel: LocalizedString;
     image: string;
-  };
+    href: string;
+    imagePosition?: string;
+  }>;
   sections: Array<{
-    title?: Record<Locale, string>;
-    description?: Record<Locale, string>;
-    ctaLabel?: Record<Locale, string>;
-    image?: string;
-    href?: string;
+    title: LocalizedString;
+    description: LocalizedString;
+    ctaLabel: LocalizedString;
+    image: string;
+    href: string;
+    mediaPosition: "left" | "right";
+    headingSize: "large" | "medium";
+    imageAspectRatio: number;
+    spacing: "compact" | "spacious" | "standard";
   }>;
 }
 
 export interface EditorialSection {
-  title: Record<Locale, string>;
-  body: Array<Record<Locale, string>>;
+  title: LocalizedString;
+  body: LocalizedString[];
   image?: string;
+  images?: string[];
 }
 
 export interface EditorialPageRecord {
   slug: string;
-  title: Record<Locale, string>;
-  intro: Record<Locale, string>;
+  title: LocalizedString;
+  intro: LocalizedString;
   heroImage: string;
   heroSourceUrl?: string;
+  leadImages?: string[];
   sections: EditorialSection[];
 }
 
 export interface CollectionRecord {
   slug: string;
-  title: Record<Locale, string>;
-  description: Record<Locale, string>;
+  title: LocalizedString;
+  description: LocalizedString;
   heroImage: string;
   heroSourceUrl?: string;
   productSlugs: string[];
@@ -91,17 +105,17 @@ export interface ProductImage {
 
 export interface ProductRecord {
   slug: string;
-  title: Record<Locale, string>;
-  description: Record<Locale, string>;
-  shortDescription: Record<Locale, string>;
-  longDescription: Array<Record<Locale, string>>;
+  title: LocalizedString;
+  description: LocalizedString;
+  shortDescription: LocalizedString;
+  longDescription: LocalizedString[];
   collectionLabel: string;
   collectionSlugs: string[];
   priceLabel: string;
-  purchaseLabel: Record<Locale, string>;
-  shippingNote: Record<Locale, string>;
+  purchaseLabel: LocalizedString;
+  shippingNote: LocalizedString;
   materialNote: string;
-  optionLabels: Record<string, Record<Locale, string>>;
+  optionLabels: Record<string, LocalizedString>;
   options: ProductOption[];
   variants: ProductVariant[];
   images: ProductImage[];

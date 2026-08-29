@@ -35,8 +35,14 @@ function assert(condition, message, errors) {
 }
 
 function checkLocalizedField(record, fieldName, value, fileLabel, errors, { requiredEnglish = true } = {}) {
+  if (typeof value === "string") {
+    if (requiredEnglish) {
+      assert(value.trim().length > 0, `${fileLabel}: field "${fieldName}" is required.`, errors);
+    }
+    return;
+  }
   if (!value || typeof value !== "object") {
-    errors.push(`${fileLabel}: field "${fieldName}" must be localized.`);
+    errors.push(`${fileLabel}: field "${fieldName}" must be a string or localized object.`);
     return;
   }
   if (requiredEnglish) {
@@ -69,9 +75,23 @@ async function main() {
     readJson(path.join(authoredDir, "paypal-hosted-buttons.json"))
   ]);
 
-  checkLocalizedField(home, "hero.title", home.hero?.title, "home.json", errors);
-  checkLocalizedField(home, "hero.description", home.hero?.description, "home.json", errors);
-  await validateAssets([home.hero.image], errors);
+  assert(Number.isFinite(home.autoplaySeconds) && home.autoplaySeconds > 0, "home.json: autoplaySeconds must be positive.", errors);
+  assert(Array.isArray(home.slides) && home.slides.length > 0, "home.json: must have at least one slide.", errors);
+  for (const [index, slide] of (home.slides ?? []).entries()) {
+    checkLocalizedField(slide, `slides[${index}].title`, slide.title, "home.json", errors);
+    checkLocalizedField(slide, `slides[${index}].description`, slide.description, "home.json", errors);
+    checkLocalizedField(slide, `slides[${index}].ctaLabel`, slide.ctaLabel, "home.json", errors);
+    assert(typeof slide.href === "string" && slide.href.startsWith("/"), `home.json: slides[${index}].href must be an absolute site path.`, errors);
+  }
+  for (const [index, section] of (home.sections ?? []).entries()) {
+    checkLocalizedField(section, `sections[${index}].title`, section.title, "home.json", errors);
+    checkLocalizedField(section, `sections[${index}].description`, section.description, "home.json", errors);
+    checkLocalizedField(section, `sections[${index}].ctaLabel`, section.ctaLabel, "home.json", errors);
+  }
+  await validateAssets([
+    ...(home.slides ?? []).map((slide) => slide.image),
+    ...(home.sections ?? []).map((section) => section.image)
+  ], errors);
 
   const productSlugs = new Set();
   for (const file of productFiles) {
@@ -115,7 +135,17 @@ async function main() {
     const label = `pages/${file}`;
     checkLocalizedField(page, "title", page.title, label, errors);
     checkLocalizedField(page, "intro", page.intro, label, errors);
-    await validateAssets([page.heroImage], errors);
+    for (const [index, section] of (page.sections ?? []).entries()) {
+      checkLocalizedField(section, `sections[${index}].title`, section.title, label, errors, { requiredEnglish: false });
+      for (const [paragraphIndex, paragraph] of (section.body ?? []).entries()) {
+        checkLocalizedField(section, `sections[${index}].body[${paragraphIndex}]`, paragraph, label, errors);
+      }
+    }
+    await validateAssets([
+      page.heroImage,
+      ...(page.leadImages ?? []),
+      ...(page.sections ?? []).flatMap((section) => [section.image, ...(section.images ?? [])]).filter(Boolean)
+    ], errors);
   }
 
   if (errors.length > 0) {

@@ -15,9 +15,9 @@
   "sections": [
     {
       "title": {
-        "en": "Send us a message",
-        "de": "Schreib mir",
-        "it": "Manda un messaggio"
+        "en": "",
+        "de": "",
+        "it": ""
       },
       "body": [
         {
@@ -25,7 +25,8 @@
           "de": "Verwirkliche dein Traumschmuckstück mit LURI! Zusammen werden wir dein ganz persönliches Design gestalten. Wie? Wir teilen unsere Inspirationen und Ideen über Zeichnungen, Beschreibungen und Fotos miteinander und daraus entwickle ich Vorschläge für die Gestaltung. Während dein Schmuckstück dann langsam an der Werkbank Form annimmt halte ich dich stets auf dem neuesten Stand.",
           "it": "Creiamo insieme il gioiello dei tuoi sogni, fatto su misura per te! Scambieremo le nostre ispirazioni e idee attraverso descrizioni, disegni e foto. Poi, mentre pian piano prenderà forma al mio banchetto, ti coinvolgerò in ogni passo per garantire che amerai il tuo nuovo gioiello."
         }
-      ]
+      ],
+      "images": ["pages/bespoke/process-01.jpg"]
     },
     {
       "title": {
@@ -53,13 +54,18 @@
           "de": "Lass dich von meinen Designs hier oder auf meinem Instagramprofil inspirieren.",
           "it": "Lasciati ispirare dai miei design qui o sul mio profilo Instagram ."
         }
+      ],
+      "images": [
+        "pages/bespoke/process-02.jpg",
+        "pages/bespoke/process-03.jpg",
+        "pages/bespoke/process-04.jpg"
       ]
     },
     {
       "title": {
-        "en": "",
-        "de": "",
-        "it": ""
+        "en": "Pricing and conditions",
+        "de": "Preise und Bedingungen",
+        "it": "Prezzi e condizioni"
       },
       "body": [
         {

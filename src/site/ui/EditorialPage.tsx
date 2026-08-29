@@ -15,28 +15,33 @@ export function EditorialPage({ locale }: { locale: Locale }): ReactElement | nu
   }
 
   return (
-    <div>
-      <section className="editorial-hero">
-        <img src={assetUrl(page.heroImage)} alt={page.title} />
-        <div className="editorial-hero__copy">
-          <div>
-            <p className="eyebrow">LURI jewels</p>
-            <h1>{page.title}</h1>
-            <p>{page.intro}</p>
+    <div className="editorial-page">
+      <article className="editorial-body">
+        <header className="editorial-page__header">
+          <h1>{page.title.replace(/^LURI (?:Jewels|jewels)?\s*-\s*/i, "").replaceAll("&amp;", "&")}</h1>
+        </header>
+        {page.leadImages?.length ? (
+          <div className={`editorial-image-grid editorial-image-grid--${page.leadImages.length}`}>
+            {page.leadImages.map((image) => <img key={image} src={assetUrl(image)} alt="" />)}
           </div>
-        </div>
-      </section>
-      <section className="editorial-body">
+        ) : null}
         {page.sections.map((section, index) => (
-          <article key={`${page.slug}:${index}`} className="editorial-section">
+          <section key={`${page.slug}:${index}`} className="editorial-section">
             {section.title ? <h2>{section.title}</h2> : null}
-            {section.body.map((paragraph) => (
-              <p key={paragraph}>{paragraph}</p>
-            ))}
+            <div className="editorial-section__body">
+              {section.body.map((paragraph) => (
+                <p key={paragraph}>{paragraph}</p>
+              ))}
+            </div>
             {section.image ? <img src={assetUrl(section.image)} alt={section.title || page.title} /> : null}
-          </article>
+            {section.images?.length ? (
+              <div className={`editorial-image-grid editorial-image-grid--${section.images.length}`}>
+                {section.images.map((image) => <img key={image} src={assetUrl(image)} alt="" loading="lazy" />)}
+              </div>
+            ) : null}
+          </section>
         ))}
-      </section>
+      </article>
       {page.slug === "contact" ? (
         <section className="band">
           <div className="contact-cta-grid">

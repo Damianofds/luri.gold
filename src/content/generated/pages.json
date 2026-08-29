@@ -13,12 +13,15 @@
     },
     "heroImage": "pages/about/hero.jpg",
     "heroSourceUrl": "https://luri.gold/cdn/shop/files/DSC1411.jpg?v=1760974860",
+    "leadImages": [
+      "pages/about/founder.jpg"
+    ],
     "sections": [
       {
         "title": {
-          "en": "Precious materials",
-          "de": "Wertvolle Materialien",
-          "it": "Materiali preziosi"
+          "en": "",
+          "de": "",
+          "it": ""
         },
         "body": [
           {
@@ -30,9 +33,9 @@
       },
       {
         "title": {
-          "en": "Bespoke creations",
-          "de": "Individuelle Anfertigung",
-          "it": "La fondatrice"
+          "en": "",
+          "de": "",
+          "it": ""
         },
         "body": [
           {
@@ -44,9 +47,9 @@
       },
       {
         "title": {
-          "en": "The founder",
-          "de": "Die Gründerin",
-          "it": "Manda un messaggio"
+          "en": "Precious materials",
+          "de": "Wertvolle Materialien",
+          "it": "Materiali preziosi"
         },
         "body": [
           {
@@ -58,9 +61,9 @@
       },
       {
         "title": {
-          "en": "Send us a message",
-          "de": "Schreib mir",
-          "it": "Send us a message"
+          "en": "",
+          "de": "",
+          "it": ""
         },
         "body": [
           {
@@ -86,9 +89,9 @@
       },
       {
         "title": {
-          "en": "",
-          "de": "",
-          "it": ""
+          "en": "Bespoke creations",
+          "de": "Individuelle Anfertigung",
+          "it": "Creazioni su misura"
         },
         "body": [
           {
@@ -114,9 +117,9 @@
       },
       {
         "title": {
-          "en": "",
-          "de": "",
-          "it": ""
+          "en": "The founder",
+          "de": "Die Gründerin",
+          "it": "La fondatrice"
         },
         "body": [
           {
@@ -124,6 +127,9 @@
             "de": "Seitdem sind einige Jahre vergangen, aber mein Traum von damals ist mir geblieben - und hat sich weiterentwickelt. Heute biete ich meinen Kundinnen und Kunden einzigartigen, handgemachten Schmuck aus Gold und Edelsteinen.",
             "it": "Ho imparato l'arte orafa tradizionale con la Maestra Eva Nedza a Francoforte sul Meno e il Maestro Antonio Antonelli presso l'Accademia delle Arti Orafe a Roma."
           }
+        ],
+        "images": [
+          "pages/about/workbench.jpg"
         ]
       },
       {
@@ -173,9 +179,9 @@
     "sections": [
       {
         "title": {
-          "en": "Send us a message",
-          "de": "Schreib mir",
-          "it": "Manda un messaggio"
+          "en": "",
+          "de": "",
+          "it": ""
         },
         "body": [
           {
@@ -183,6 +189,9 @@
             "de": "Verwirkliche dein Traumschmuckstück mit LURI! Zusammen werden wir dein ganz persönliches Design gestalten. Wie? Wir teilen unsere Inspirationen und Ideen über Zeichnungen, Beschreibungen und Fotos miteinander und daraus entwickle ich Vorschläge für die Gestaltung. Während dein Schmuckstück dann langsam an der Werkbank Form annimmt halte ich dich stets auf dem neuesten Stand.",
             "it": "Creiamo insieme il gioiello dei tuoi sogni, fatto su misura per te! Scambieremo le nostre ispirazioni e idee attraverso descrizioni, disegni e foto. Poi, mentre pian piano prenderà forma al mio banchetto, ti coinvolgerò in ogni passo per garantire che amerai il tuo nuovo gioiello."
           }
+        ],
+        "images": [
+          "pages/bespoke/process-01.jpg"
         ]
       },
       {
@@ -211,13 +220,18 @@
             "de": "Lass dich von meinen Designs hier oder auf meinem Instagramprofil inspirieren.",
             "it": "Lasciati ispirare dai miei design qui o sul mio profilo Instagram ."
           }
+        ],
+        "images": [
+          "pages/bespoke/process-02.jpg",
+          "pages/bespoke/process-03.jpg",
+          "pages/bespoke/process-04.jpg"
         ]
       },
       {
         "title": {
-          "en": "",
-          "de": "",
-          "it": ""
+          "en": "Pricing and conditions",
+          "de": "Preise und Bedingungen",
+          "it": "Prezzi e condizioni"
         },
         "body": [
           {
@@ -343,6 +357,11 @@
             "de": "Schmuck ist die Manifestation von Gefühlen und Erinnerungen an gelebte Momente und geliebte Menschen. Besonders Familien-Erbstücke sind eine starke Verbindung zu unserer Vergangenheit. Aber manchmal müssen wir diese in unser Leben und unseren eigenen Stil integrieren um sie wiklich zu würdigen.",
             "it": "I gioielli, soprattutto quelli di famiglia, sono portatori di emozioni e ricordi di momenti vissuti e persone amate. Ma a volte abbiamo bisogno di integrarli nella nostra vita e nel nostro stile per onorarli."
           }
+        ],
+        "images": [
+          "pages/heirloom-transformation/emerald-before.jpg",
+          "pages/heirloom-transformation/emerald-after.jpg",
+          "pages/heirloom-transformation/variations.jpg"
         ]
       },
       {
@@ -361,9 +380,9 @@
       },
       {
         "title": {
-          "en": "Prices",
-          "de": "Preise",
-          "it": "Prezzi"
+          "en": "",
+          "de": "",
+          "it": ""
         },
         "body": [
           {
@@ -375,9 +394,9 @@
       },
       {
         "title": {
-          "en": "Conditions",
-          "de": "Konditionen",
-          "it": "Condizioni"
+          "en": "",
+          "de": "",
+          "it": ""
         },
         "body": [
           {
@@ -385,13 +404,18 @@
             "de": "Schreib mir um ein erstes Gespräch per Telefon oder Video zu vereinbaren. Ich kann es kaum erwarten dich kennenzulernen!",
             "it": "Contattami per prenotare una prima consultazione via video o telefono, non vedo l'ora di conoscerti!"
           }
+        ],
+        "images": [
+          "pages/heirloom-transformation/process-01.jpg",
+          "pages/heirloom-transformation/process-02.jpg",
+          "pages/heirloom-transformation/process-03.jpg"
         ]
       },
       {
         "title": {
-          "en": "Send us a message",
-          "de": "Schreib mir",
-          "it": "Manda un messaggio"
+          "en": "",
+          "de": "",
+          "it": ""
         },
         "body": [
           {
@@ -403,9 +427,9 @@
       },
       {
         "title": {
-          "en": "",
-          "de": "",
-          "it": ""
+          "en": "Prices",
+          "de": "Preise",
+          "it": "Prezzi"
         },
         "body": [
           {
@@ -431,9 +455,9 @@
       },
       {
         "title": {
-          "en": "",
-          "de": "",
-          "it": ""
+          "en": "Conditions",
+          "de": "Konditionen",
+          "it": "Condizioni"
         },
         "body": [
           {

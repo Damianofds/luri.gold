@@ -12,12 +12,13 @@
   },
   "heroImage": "pages/about/hero.jpg",
   "heroSourceUrl": "https://luri.gold/cdn/shop/files/DSC1411.jpg?v=1760974860",
+  "leadImages": ["pages/about/founder.jpg"],
   "sections": [
     {
       "title": {
-        "en": "Precious materials",
-        "de": "Wertvolle Materialien",
-        "it": "Materiali preziosi"
+        "en": "",
+        "de": "",
+        "it": ""
       },
       "body": [
         {
@@ -29,9 +30,9 @@
     },
     {
       "title": {
-        "en": "Bespoke creations",
-        "de": "Individuelle Anfertigung",
-        "it": "La fondatrice"
+        "en": "",
+        "de": "",
+        "it": ""
       },
       "body": [
         {
@@ -43,9 +44,9 @@
     },
     {
       "title": {
-        "en": "The founder",
-        "de": "Die Gründerin",
-        "it": "Manda un messaggio"
+        "en": "Precious materials",
+        "de": "Wertvolle Materialien",
+        "it": "Materiali preziosi"
       },
       "body": [
         {
@@ -57,9 +58,9 @@
     },
     {
       "title": {
-        "en": "Send us a message",
-        "de": "Schreib mir",
-        "it": "Send us a message"
+        "en": "",
+        "de": "",
+        "it": ""
       },
       "body": [
         {
@@ -85,9 +86,9 @@
     },
     {
       "title": {
-        "en": "",
-        "de": "",
-        "it": ""
+        "en": "Bespoke creations",
+        "de": "Individuelle Anfertigung",
+        "it": "Creazioni su misura"
       },
       "body": [
         {
@@ -113,9 +114,9 @@
     },
     {
       "title": {
-        "en": "",
-        "de": "",
-        "it": ""
+        "en": "The founder",
+        "de": "Die Gründerin",
+        "it": "La fondatrice"
       },
       "body": [
         {
@@ -123,7 +124,8 @@
           "de": "Seitdem sind einige Jahre vergangen, aber mein Traum von damals ist mir geblieben - und hat sich weiterentwickelt. Heute biete ich meinen Kundinnen und Kunden einzigartigen, handgemachten Schmuck aus Gold und Edelsteinen.",
           "it": "Ho imparato l'arte orafa tradizionale con la Maestra Eva Nedza a Francoforte sul Meno e il Maestro Antonio Antonelli presso l'Accademia delle Arti Orafe a Roma."
         }
-      ]
+      ],
+      "images": ["pages/about/workbench.jpg"]
     },
     {
       "title": {

@@ -25,6 +25,11 @@
           "de": "Schmuck ist die Manifestation von Gefühlen und Erinnerungen an gelebte Momente und geliebte Menschen. Besonders Familien-Erbstücke sind eine starke Verbindung zu unserer Vergangenheit. Aber manchmal müssen wir diese in unser Leben und unseren eigenen Stil integrieren um sie wiklich zu würdigen.",
           "it": "I gioielli, soprattutto quelli di famiglia, sono portatori di emozioni e ricordi di momenti vissuti e persone amate. Ma a volte abbiamo bisogno di integrarli nella nostra vita e nel nostro stile per onorarli."
         }
+      ],
+      "images": [
+        "pages/heirloom-transformation/emerald-before.jpg",
+        "pages/heirloom-transformation/emerald-after.jpg",
+        "pages/heirloom-transformation/variations.jpg"
       ]
     },
     {
@@ -43,9 +48,9 @@
     },
     {
       "title": {
-        "en": "Prices",
-        "de": "Preise",
-        "it": "Prezzi"
+        "en": "",
+        "de": "",
+        "it": ""
       },
       "body": [
         {
@@ -57,9 +62,9 @@
     },
     {
       "title": {
-        "en": "Conditions",
-        "de": "Konditionen",
-        "it": "Condizioni"
+        "en": "",
+        "de": "",
+        "it": ""
       },
       "body": [
         {
@@ -67,13 +72,18 @@
           "de": "Schreib mir um ein erstes Gespräch per Telefon oder Video zu vereinbaren. Ich kann es kaum erwarten dich kennenzulernen!",
           "it": "Contattami per prenotare una prima consultazione via video o telefono, non vedo l'ora di conoscerti!"
         }
+      ],
+      "images": [
+        "pages/heirloom-transformation/process-01.jpg",
+        "pages/heirloom-transformation/process-02.jpg",
+        "pages/heirloom-transformation/process-03.jpg"
       ]
     },
     {
       "title": {
-        "en": "Send us a message",
-        "de": "Schreib mir",
-        "it": "Manda un messaggio"
+        "en": "",
+        "de": "",
+        "it": ""
       },
       "body": [
         {
@@ -85,9 +95,9 @@
     },
     {
       "title": {
-        "en": "",
-        "de": "",
-        "it": ""
+        "en": "Prices",
+        "de": "Preise",
+        "it": "Prezzi"
       },
       "body": [
         {
@@ -113,9 +123,9 @@
     },
     {
       "title": {
-        "en": "",
-        "de": "",
-        "it": ""
+        "en": "Conditions",
+        "de": "Konditionen",
+        "it": "Condizioni"
       },
       "body": [
         {

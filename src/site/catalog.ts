@@ -5,17 +5,25 @@ import type { CollectionRecord, EditorialPageRecord, Locale, ProductRecord } fro
 
 export interface HomePageView {
   locale: Locale;
-  hero: {
+  autoplaySeconds: number;
+  slides: Array<{
     image: string;
     title: string;
     description: string;
-  };
+    ctaLabel: string;
+    href: string;
+    imagePosition?: string;
+  }>;
   sections: Array<{
     title: string;
     description: string;
     ctaLabel: string;
-    image?: string;
-    href?: string;
+    image: string;
+    href: string;
+    mediaPosition: "left" | "right";
+    headingSize: "large" | "medium";
+    imageAspectRatio: number;
+    spacing: "compact" | "spacious" | "standard";
   }>;
 }
 
@@ -27,6 +35,7 @@ export interface EditorialPageView extends Omit<EditorialPageRecord, "title" | "
     title: string;
     body: string[];
     image?: string;
+    images?: string[];
   }>;
 }
 
@@ -52,17 +61,25 @@ export function getHomePage(locale: Locale): HomePageView {
   const resolvedLocale = normalizeLocale(locale);
   return {
     locale: resolvedLocale,
-    hero: {
-      image: homePage.hero.image,
-      title: localizeValue(homePage.hero.title, resolvedLocale),
-      description: localizeValue(homePage.hero.description, resolvedLocale)
-    },
+    autoplaySeconds: homePage.autoplaySeconds,
+    slides: homePage.slides.map((slide) => ({
+      image: slide.image,
+      title: localizeValue(slide.title, resolvedLocale),
+      description: localizeValue(slide.description, resolvedLocale),
+      ctaLabel: localizeValue(slide.ctaLabel, resolvedLocale),
+      href: slide.href,
+      imagePosition: slide.imagePosition
+    })),
     sections: homePage.sections.map((section) => ({
       title: localizeValue(section.title, resolvedLocale),
       description: localizeValue(section.description, resolvedLocale),
       ctaLabel: localizeValue(section.ctaLabel, resolvedLocale),
       image: section.image,
-      href: section.href
+      href: section.href,
+      mediaPosition: section.mediaPosition,
+      headingSize: section.headingSize,
+      imageAspectRatio: section.imageAspectRatio,
+      spacing: section.spacing
     }))
   };
 }
@@ -82,7 +99,8 @@ export function getPageBySlug(slug: string, locale: Locale): EditorialPageView |
     sections: record.sections.map((section) => ({
       title: localizeValue(section.title, resolvedLocale),
       body: section.body.map((paragraph) => localizeValue(paragraph, resolvedLocale)),
-      image: section.image
+      image: section.image,
+      images: section.images
     }))
   };
 }
@@ -125,6 +143,13 @@ export function getProductBySlug(slug: string, locale: Locale): ProductView | nu
       Object.entries(record.optionLabels).map(([key, value]) => [key, localizeValue(value, resolvedLocale)])
     )
   };
+}
+
+export function getProducts(locale: Locale): ProductView[] {
+  const resolvedLocale = normalizeLocale(locale);
+  return products
+    .map((product) => getProductBySlug(product.slug, resolvedLocale))
+    .filter(Boolean) as ProductView[];
 }
 
 export function getRelatedProducts(product: ProductView, locale: Locale): ProductView[] {
