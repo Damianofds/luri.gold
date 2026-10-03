@@ -62,6 +62,10 @@ export interface EditorialSection {
   body: LocalizedString[];
   image?: string;
   images?: string[];
+  links?: Array<{
+    label: LocalizedString;
+    href: string;
+  }>;
 }
 
 export interface EditorialPageRecord {

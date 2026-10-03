@@ -1,10 +1,36 @@
-import type { ReactElement } from "react";
+import type { ReactElement, ReactNode } from "react";
 import { assetUrl } from "../assets";
 import { getPageBySlug } from "../catalog";
 import { siteConfig } from "../config";
+import { buildLocalizedPath } from "../i18n";
 import { t } from "../messages";
 import type { Locale } from "../types";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
+
+function renderParagraphLinks(
+  paragraph: string,
+  links: Array<{ label: string; href: string }> | undefined,
+  locale: Locale
+): ReactNode[] {
+  if (!links?.length) {
+    return [paragraph];
+  }
+
+  const matchingLinks = links
+    .map((link) => ({ ...link, index: paragraph.indexOf(link.label) }))
+    .filter((link) => link.index >= 0)
+    .sort((left, right) => left.index - right.index);
+  const nodes: ReactNode[] = [];
+  let cursor = 0;
+
+  for (const link of matchingLinks) {
+    nodes.push(paragraph.slice(cursor, link.index));
+    nodes.push(<Link key={`${link.href}:${link.index}`} to={buildLocalizedPath(locale, link.href)}>{link.label}</Link>);
+    cursor = link.index + link.label.length;
+  }
+  nodes.push(paragraph.slice(cursor));
+  return nodes;
+}
 
 export function EditorialPage({ locale }: { locale: Locale }): ReactElement | null {
   const params = useParams();
@@ -30,7 +56,7 @@ export function EditorialPage({ locale }: { locale: Locale }): ReactElement | nu
             {section.title ? <h2>{section.title}</h2> : null}
             <div className="editorial-section__body">
               {section.body.map((paragraph) => (
-                <p key={paragraph}>{paragraph}</p>
+                <p key={paragraph}>{renderParagraphLinks(paragraph, section.links, locale)}</p>
               ))}
             </div>
             {section.image ? <img src={assetUrl(section.image)} alt={section.title || page.title} /> : null}

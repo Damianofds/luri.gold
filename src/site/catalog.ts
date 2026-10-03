@@ -36,6 +36,10 @@ export interface EditorialPageView extends Omit<EditorialPageRecord, "title" | "
     body: string[];
     image?: string;
     images?: string[];
+    links?: Array<{
+      label: string;
+      href: string;
+    }>;
   }>;
 }
 
@@ -100,7 +104,11 @@ export function getPageBySlug(slug: string, locale: Locale): EditorialPageView |
       title: localizeValue(section.title, resolvedLocale),
       body: section.body.map((paragraph) => localizeValue(paragraph, resolvedLocale)),
       image: section.image,
-      images: section.images
+      images: section.images,
+      links: section.links?.map((link) => ({
+        label: localizeValue(link.label, resolvedLocale),
+        href: link.href
+      }))
     }))
   };
 }

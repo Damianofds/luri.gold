@@ -206,6 +206,16 @@
             "de": "Wenn du eigenen Schmuck hast, den du gerne respektvoll umgestalten lassen möchtest, geben wir ihm gemeinsam ein neues Leben. Erfahre mehr über die Verwandlung von Erbstücken .",
             "it": "Se hai dei gioielli che vorresti far trasformare rispettosamente, insieme li daremo una nuova vita. Scopri di più sulla trasformazione di gioielli di famiglia ."
           }
+        ],
+        "links": [
+          {
+            "label": {
+              "en": "heirloom transformation",
+              "de": "Verwandlung von Erbstücken",
+              "it": "trasformazione di gioielli di famiglia"
+            },
+            "href": "/pages/heirloom-transformation"
+          }
         ]
       },
       {
@@ -266,6 +276,16 @@
             "en": "Please contact me for a phone or video consultation, I am so looking forward to meeting you!",
             "de": "Schreib mir für ein erstes Treffen per Video oder Telefon, ich freue mich schon dich kennenzulernen!",
             "it": "Scrivimi per una prima consultazione via video o telefono, non vedo l'ora di conoscerti!"
+          }
+        ],
+        "links": [
+          {
+            "label": {
+              "en": "contact",
+              "de": "Schreib",
+              "it": "Scrivimi"
+            },
+            "href": "/pages/contact"
           }
         ]
       }
