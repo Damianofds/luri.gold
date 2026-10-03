@@ -45,7 +45,12 @@ export function CollectionPage({
               <Link key={entry.slug} className="collection-card" to={buildLocalizedPath(locale, `/collections/${entry.slug}`)}>
                 <img src={assetUrl(entry.heroImage)} alt={entry.title} />
                 <div className="collection-card__body">
-                  <h3>{entry.title}</h3>
+                  <h3>
+                    <span>{entry.title}</span>
+                    <svg className="collection-card__arrow" viewBox="0 0 14 10" aria-hidden="true">
+                      <path fillRule="evenodd" clipRule="evenodd" d="M8.537.808a.5.5 0 0 1 .817-.162l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 1 1-.708-.708L11.793 5.5H1a.5.5 0 0 1 0-1h10.793L8.646 1.354a.5.5 0 0 1-.109-.546Z" fill="currentColor" />
+                    </svg>
+                  </h3>
                   <p>{entry.description}</p>
                 </div>
               </Link>
