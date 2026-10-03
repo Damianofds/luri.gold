@@ -67,6 +67,19 @@ const messages = {
   productImageNext: { en: "Next image", de: "Nächstes Bild", it: "Immagine successiva" },
   productTaxes: { en: "Taxes included.", de: "Steuern inklusive.", it: "Imposte incluse." },
   contactWhatsapp: { en: "WhatsApp", de: "WhatsApp", it: "WhatsApp" },
+  contactWhatsappAction: { en: "Chat on WhatsApp", de: "Auf WhatsApp schreiben", it: "Scrivi su WhatsApp" },
+  contactWhatsappPrompt: {
+    en: "Start a direct conversation about a jewel, bespoke piece, or heirloom transformation.",
+    de: "Beginne ein persönliches Gespräch über ein Schmuckstück, eine Maßanfertigung oder die Umarbeitung eines Erbstücks.",
+    it: "Inizia una conversazione diretta su un gioiello, una creazione su misura o la trasformazione di un gioiello di famiglia."
+  },
+  contactEmail: { en: "Email", de: "E-Mail", it: "Email" },
+  contactEmailAction: { en: "Send an email", de: "E-Mail senden", it: "Invia un'email" },
+  contactEmailPrompt: {
+    en: "Share your ideas and questions by email and I will reply as soon as possible.",
+    de: "Sende mir deine Ideen und Fragen per E-Mail – ich antworte so bald wie möglich.",
+    it: "Condividi le tue idee e domande via email: ti risponderò il prima possibile."
+  },
   contactInstagram: { en: "Instagram", de: "Instagram", it: "Instagram" },
   redirectEyebrow: { en: "Redirect", de: "Weiterleitung", it: "Reindirizzamento" },
   redirectTitle: { en: "Page moved", de: "Seite verschoben", it: "Pagina spostata" },

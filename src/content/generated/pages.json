@@ -276,27 +276,27 @@
     "title": {
       "en": "LURI Jewels - Contact",
       "de": "LURI - Kontakt",
-      "it": "LURI Jewels - Contact"
+      "it": "LURI Jewels - Contatti"
     },
     "intro": {
-      "en": "To reach out personally, please use the contact form below, or send me a message via e-mail, whatsapp or Instagram. I will get back to you as soon as possible.",
-      "de": "Sende mir eine Nachricht über das untenstehende Kontaktformular, per E-mail, Whatsapp oder Instagram und ich antworte dir so schnell wie möglich.",
-      "it": "Mandami un messagio tramite il form sottostante, via e-mail, whatsapp o su Instagram, ti risponderò il prima possibile."
+      "en": "Have a question or an idea for a personal jewel? Contact me directly through WhatsApp or email and I will get back to you as soon as possible.",
+      "de": "Hast du eine Frage oder eine Idee für ein persönliches Schmuckstück? Schreib mir direkt über WhatsApp oder per E-Mail. Ich antworte dir so bald wie möglich.",
+      "it": "Hai una domanda o un'idea per un gioiello personale? Contattami direttamente via WhatsApp o email. Ti risponderò il prima possibile."
     },
     "heroImage": "pages/contact/hero.jpg",
     "heroSourceUrl": "https://luri.gold/cdn/shop/files/DSC1411.jpg?v=1760974860",
     "sections": [
       {
         "title": {
-          "en": "Contact form",
-          "de": "Kontaktformular",
-          "it": "Modulo di contatto"
+          "en": "Let's create something meaningful",
+          "de": "Lass uns etwas Besonderes gestalten",
+          "it": "Creiamo qualcosa di speciale"
         },
         "body": [
           {
-            "en": "To reach out personally, please use the contact form below, or send me a message via e-mail, whatsapp or Instagram. I will get back to you as soon as possible.",
-            "de": "Sende mir eine Nachricht über das untenstehende Kontaktformular, per E-mail, Whatsapp oder Instagram und ich antworte dir so schnell wie möglich.",
-            "it": "Mandami un messagio tramite il form sottostante, via e-mail, whatsapp o su Instagram, ti risponderò il prima possibile."
+            "en": "Whether you are choosing a jewel, imagining a bespoke creation, or transforming an heirloom, tell me what you have in mind.",
+            "de": "Ob du ein Schmuckstück auswählst, eine Maßanfertigung planst oder ein Erbstück verwandeln möchtest – erzähl mir von deiner Idee.",
+            "it": "Che tu stia scegliendo un gioiello, immaginando una creazione su misura o trasformando un gioiello di famiglia, raccontami la tua idea."
           }
         ]
       },
@@ -311,20 +311,6 @@
             "en": "I am looking forward to hearing from you!",
             "de": "Ich freue mich dich kennenzulernen!",
             "it": "Non vedo l'ora di conoscerti!"
-          }
-        ]
-      },
-      {
-        "title": {
-          "en": "",
-          "de": "",
-          "it": ""
-        },
-        "body": [
-          {
-            "en": "E-mail: atelier@luri.gold Whatsapp: +393513955649 Instagram: @luri.gold",
-            "de": "E-mail: atelier@luri.gold Whatsapp:+393513955649 Instagram: @luri.gold",
-            "it": "E-mail: atelier@luri.gold Whatsapp: +393513955649 Instagram: @luri.gold"
           }
         ]
       }
