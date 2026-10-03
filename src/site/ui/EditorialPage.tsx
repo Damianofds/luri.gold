@@ -15,7 +15,7 @@ export function EditorialPage({ locale }: { locale: Locale }): ReactElement | nu
   }
 
   return (
-    <div className="editorial-page">
+    <div className={`editorial-page editorial-page--${page.slug}`}>
       <article className="editorial-body">
         <header className="editorial-page__header">
           <h1>{page.title.replace(/^LURI (?:Jewels|jewels)?\s*-\s*/i, "").replaceAll("&amp;", "&")}</h1>
