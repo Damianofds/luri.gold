@@ -495,6 +495,16 @@
             "en": "Insured shipping in Europe is included.",
             "de": "Insured shipping in Europe is included.",
             "it": "La spedizione assicurata è inclusa nei paesi dell'Unione Europea."
+          },
+          {
+            "en": "If you wish your jewels being shipped anywhere else in the world, I will calculate your shipping rates accordingly, please reach out to me.",
+            "de": "If you wish your jewels being shipped anywhere else in the world, I will calculate your shipping rates accordingly, please reach out to me.",
+            "it": "Contattami per spedizioni fuori dall'UE, calcolerò i costi per te."
+          },
+          {
+            "en": "I do not offer included returns service.",
+            "de": "I do not offer included returns service.",
+            "it": "Il reso è a carico dell'acquirente."
           }
         ]
       },
@@ -506,37 +516,9 @@
         },
         "body": [
           {
-            "en": "If you wish your jewels being shipped anywhere else in the world, I will calculate your shipping rates accordingly, please reach out to me.",
-            "de": "If you wish your jewels being shipped anywhere else in the world, I will calculate your shipping rates accordingly, please reach out to me.",
-            "it": "Contattami per spedizioni fuori dall'UE, calcolerò i costi per te."
-          }
-        ]
-      },
-      {
-        "title": {
-          "en": "Send us a message",
-          "de": "Schreib mir",
-          "it": "Manda un messaggio"
-        },
-        "body": [
-          {
-            "en": "I do not offer included returns service.",
-            "de": "I do not offer included returns service.",
-            "it": "Il reso è a carico dell'acquirente."
-          }
-        ]
-      },
-      {
-        "title": {
-          "en": "",
-          "de": "",
-          "it": ""
-        },
-        "body": [
-          {
-            "en": "Payment is possible either through PayPal or bank transfer.",
-            "de": "Payment is possible either through PayPal or bank transfer.",
-            "it": "Il pagamento può essere effettuato tramite PayPal o bonifico bancario."
+            "en": "Payment is securely processed through PayPal.",
+            "de": "Payment is securely processed through PayPal.",
+            "it": "Il pagamento viene elaborato in modo sicuro tramite PayPal."
           }
         ]
       }
