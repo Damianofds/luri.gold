@@ -65,6 +65,8 @@ const messages = {
   productImages: { en: "Product images", de: "Produktbilder", it: "Immagini del prodotto" },
   productImagePrevious: { en: "Previous image", de: "Vorheriges Bild", it: "Immagine precedente" },
   productImageNext: { en: "Next image", de: "Nächstes Bild", it: "Immagine successiva" },
+  productImageOpen: { en: "Open full image", de: "Vollständiges Bild öffnen", it: "Apri l'immagine completa" },
+  productImageClose: { en: "Close image", de: "Bild schließen", it: "Chiudi l'immagine" },
   productTaxes: { en: "Taxes included.", de: "Steuern inklusive.", it: "Imposte incluse." },
   contactWhatsapp: { en: "WhatsApp", de: "WhatsApp", it: "WhatsApp" },
   contactWhatsappAction: { en: "Chat on WhatsApp", de: "Auf WhatsApp schreiben", it: "Scrivi su WhatsApp" },
