@@ -91,19 +91,19 @@ const messages = {
   privacyEyebrow: { en: "Privacy", de: "Datenschutz", it: "Privacy" },
   privacyTitle: { en: "Privacy policy", de: "Datenschutz", it: "Privacy" },
   privacyBodyOne: {
-    en: "This static version of LURI jewels does not provide account login, cart storage, or server-side session handling. If you contact LURI through WhatsApp, Instagram, or email, the information you share is used only to answer your request and coordinate orders or bespoke work.",
-    de: "Diese statische Version von LURI jewels bietet kein Login, keinen Warenkorb und keine serverseitigen Sitzungen. Wenn Sie LURI ueber WhatsApp, Instagram oder E-Mail kontaktieren, werden Ihre Angaben nur zur Beantwortung Ihrer Anfrage und zur Abstimmung von Bestellungen oder Massanfertigungen verwendet.",
-    it: "Questa versione statica di LURI jewels non offre accesso account, carrello o gestione di sessioni lato server. Se contatti LURI tramite WhatsApp, Instagram o email, le informazioni condivise vengono usate solo per rispondere alla tua richiesta e coordinare ordini o lavori su misura."
+    en: "You can browse the luri.gold website without creating an account. LURI receives personal information only when you choose to get in touch by WhatsApp or email, or when you complete a payment through PayPal. The information you share is used to answer your request and coordinate your order or bespoke work.",
+    de: "Du kannst die Website luri.gold ohne Benutzerkonto besuchen. LURI erhält persönliche Angaben nur, wenn du über WhatsApp oder E-Mail Kontakt aufnimmst oder eine Zahlung über PayPal abschließt. Deine Angaben werden verwendet, um deine Anfrage zu beantworten und deine Bestellung oder Maßanfertigung abzustimmen.",
+    it: "Puoi visitare il sito luri.gold senza creare un account. LURI riceve dati personali solo quando scegli di contattarmi via WhatsApp o email oppure quando completi un pagamento tramite PayPal. Le informazioni che condividi vengono usate per rispondere alla tua richiesta e organizzare il tuo ordine o una creazione su misura."
   },
   privacyBodyTwo: {
-    en: "Product browsing on this site is anonymous aside from standard hosting and analytics logs that may be provided by GitHub Pages or any future CDN configured for asset delivery.",
-    de: "Die Produktnavigation auf dieser Website ist anonym, abgesehen von den ueblichen Hosting- und Analyseprotokollen, die von GitHub Pages oder einem kuenftigen CDN fuer die Asset-Auslieferung bereitgestellt werden koennen.",
-    it: "La navigazione dei prodotti su questo sito e anonima, salvo i normali log di hosting e analisi eventualmente forniti da GitHub Pages o da un futuro CDN configurato per distribuire gli asset."
+    en: "The website is hosted on GitHub Pages. GitHub logs visitors' IP addresses for security purposes. If you follow a link to WhatsApp or PayPal, those services handle your information under their own privacy policies.",
+    de: "Die Website wird über GitHub Pages bereitgestellt. GitHub protokolliert die IP-Adressen von Besucherinnen und Besuchern zu Sicherheitszwecken. Wenn du einem Link zu WhatsApp oder PayPal folgst, verarbeiten diese Dienste deine Daten nach ihren eigenen Datenschutzbestimmungen.",
+    it: "Il sito è ospitato su GitHub Pages. GitHub registra gli indirizzi IP dei visitatori per motivi di sicurezza. Se segui un link a WhatsApp o PayPal, questi servizi trattano i tuoi dati secondo le proprie informative sulla privacy."
   },
   privacyBodyThree: {
-    en: "For privacy-related requests, please contact",
-    de: "Fuer Datenschutzanfragen kontaktieren Sie bitte",
-    it: "Per richieste relative alla privacy, contatta"
+    en: "For questions about your privacy or to request access, correction, or deletion of information you shared with LURI, please contact",
+    de: "Bei Fragen zum Datenschutz oder wenn du deine bei LURI gespeicherten Angaben einsehen, berichtigen oder löschen lassen möchtest, schreibe bitte an",
+    it: "Per domande sulla privacy o per chiedere l'accesso, la correzione o la cancellazione dei dati condivisi con LURI, scrivi a"
   }
 } as const;
 
