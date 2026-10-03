@@ -6,7 +6,7 @@ const messages = {
   navCollection: { en: "Shop", de: "Shop", it: "Shop" },
   navMenu: { en: "Menu", de: "Menue", it: "Menu" },
   navClose: { en: "Close", de: "Schliessen", it: "Chiudi" },
-  navAbout: { en: "About", de: "About", it: "Chi siamo" },
+  navAbout: { en: "About", de: "About", it: "L'Atelier" },
   navBespoke: { en: "Bespoke", de: "Bespoke", it: "Su misura" },
   navHeirloom: { en: "Heirloom Transformation", de: "Heirloom Transformation", it: "Trasformazione di cimeli" },
   carouselLabel: { en: "Slideshow about our brand", de: "Slideshow über unsere Marke", it: "Presentazione del nostro marchio" },
