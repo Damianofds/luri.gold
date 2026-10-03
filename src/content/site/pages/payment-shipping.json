@@ -2,12 +2,12 @@
   "slug": "payment-shipping",
   "title": {
     "en": "Payment &amp; Shipping",
-    "de": "Payment &amp; Shipping",
+    "de": "Zahlung &amp; Versand",
     "it": "Pagamento &amp; Spedizione"
   },
   "intro": {
     "en": "Insured shipping in Europe is included.",
-    "de": "Insured shipping in Europe is included.",
+    "de": "Der versicherte Versand innerhalb Europas ist inklusive.",
     "it": "La spedizione assicurata è inclusa nei paesi dell'Unione Europea."
   },
   "heroImage": "pages/payment-shipping/hero.jpg",
@@ -16,23 +16,23 @@
     {
       "title": {
         "en": "Shipping",
-        "de": "Shipping",
+        "de": "Versand",
         "it": "Spedizione"
       },
       "body": [
         {
           "en": "Insured shipping in Europe is included.",
-          "de": "Insured shipping in Europe is included.",
+          "de": "Der versicherte Versand innerhalb Europas ist inklusive.",
           "it": "La spedizione assicurata è inclusa nei paesi dell'Unione Europea."
         },
         {
           "en": "If you wish your jewels being shipped anywhere else in the world, I will calculate your shipping rates accordingly, please reach out to me.",
-          "de": "If you wish your jewels being shipped anywhere else in the world, I will calculate your shipping rates accordingly, please reach out to me.",
+          "de": "Wenn du dein Schmuckstück an einen anderen Ort in der Welt schicken lassen möchtest, berechne ich die Versandkosten entsprechend. Schreib mir dafür bitte.",
           "it": "Contattami per spedizioni fuori dall'UE, calcolerò i costi per te."
         },
         {
           "en": "I do not offer included returns service.",
-          "de": "I do not offer included returns service.",
+          "de": "Die Kosten für Rücksendungen sind nicht inbegriffen.",
           "it": "Il reso è a carico dell'acquirente."
         }
       ]
@@ -40,13 +40,13 @@
     {
       "title": {
         "en": "Payment",
-        "de": "Payment",
+        "de": "Zahlung",
         "it": "Pagamento"
       },
       "body": [
         {
           "en": "Payment is securely processed through PayPal.",
-          "de": "Payment is securely processed through PayPal.",
+          "de": "Die Zahlung wird sicher über PayPal abgewickelt.",
           "it": "Il pagamento viene elaborato in modo sicuro tramite PayPal."
         }
       ]
