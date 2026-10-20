@@ -27,8 +27,6 @@ export function ProductPrice({ locale, product }: { locale: Locale; product: Pro
 
   return (
     <div className="product-price-block">
-      <p className="product-price">{selectedVariant?.priceLabel ?? product.priceLabel}</p>
-      <p className="product-tax">{t(locale, "productTaxes")}</p>
       {option ? (
         <label className="product-price-option">
           <span>{product.optionLabels[option.name] ?? option.name}</span>
@@ -37,6 +35,8 @@ export function ProductPrice({ locale, product }: { locale: Locale; product: Pro
           </select>
         </label>
       ) : null}
+      <p className="product-price">{selectedVariant?.priceLabel ?? product.priceLabel}</p>
+      <p className="product-tax">{t(locale, "productTaxes")}</p>
     </div>
   );
 }
