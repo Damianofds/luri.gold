@@ -33,7 +33,8 @@ jobs:
 
       - name: Build static site
         env:
-          VITE_BASE_PATH: /luri.gold/
+          VITE_BASE_PATH: /
+          VITE_SITE_URL: https://luri.gold
         run: npm run build
 
       - name: Upload Pages artifact

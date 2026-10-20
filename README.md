@@ -75,10 +75,9 @@ The public asset host is controlled through:
 VITE_ASSET_BASE_URL=/site-assets
 ```
 
-For local development and a future custom domain, use `VITE_BASE_PATH=/`.
-The GitHub Pages project deployment sets `VITE_BASE_PATH=/luri.gold/`
-automatically. `VITE_ASSET_BASE_URL` can later be swapped to an absolute CDN URL
-without changing content JSON.
+Local development and the production custom domain both use
+`VITE_BASE_PATH=/`. The deployment also sets `VITE_SITE_URL=https://luri.gold`.
+`VITE_ASSET_BASE_URL` remains independent and defaults to `/site-assets`.
 
 ## Authoring workflows
 
@@ -121,8 +120,6 @@ The deployment workflow is in `.github/workflows/deploy.yml`. A push to `main`
 builds and publishes `dist/` through GitHub Pages. The repository also keeps a
 fully rendered `gh-pages` branch for direct Pages hosting.
 
-Repository settings still need these GitHub-side steps:
-
-1. In `Damianofds/luri.gold`, enable GitHub Pages with source `GitHub Actions`.
-2. Set a custom domain only when you are ready to switch away from the default
-   `damianofds.github.io/luri.gold` URL.
+GitHub Pages is published through GitHub Actions at the custom domain
+`https://luri.gold`. The `public/CNAME` file preserves that domain in the
+generated deployment artifact.
