@@ -66,6 +66,17 @@ const messages = {
   productImageOpen: { en: "Open full image", de: "Vollständiges Bild öffnen", it: "Apri l'immagine completa" },
   productImageClose: { en: "Close image", de: "Bild schließen", it: "Chiudi l'immagine" },
   productTaxes: { en: "Taxes included.", de: "Steuern inklusive.", it: "Imposte incluse." },
+  productPurchaseContactTitle: { en: "Contact me to purchase", de: "Kontakt zum Kauf", it: "Contattami per acquistare" },
+  productPurchaseContactBody: {
+    en: "To purchase this jewel, contact me directly via WhatsApp or email.",
+    de: "Um dieses Schmuckstück zu kaufen, kontaktiere mich direkt über WhatsApp oder E-Mail.",
+    it: "Per acquistare questo gioiello, contattami direttamente via WhatsApp o email."
+  },
+  productAcceptedPayments: {
+    en: "Accepted payments: SEPA bank transfer (no fees) or PayPal (additional transaction fees apply).",
+    de: "Akzeptierte Zahlungen: SEPA-Banküberweisung (keine Gebühren) oder PayPal (zusätzliche Transaktionsgebühren).",
+    it: "Pagamenti accettati: bonifico bancario SEPA (senza commissioni) o PayPal (con commissioni di transazione aggiuntive)."
+  },
   contactWhatsapp: { en: "WhatsApp", de: "WhatsApp", it: "WhatsApp" },
   contactWhatsappAction: { en: "Chat on WhatsApp", de: "Auf WhatsApp schreiben", it: "Scrivi su WhatsApp" },
   contactWhatsappPrompt: {
