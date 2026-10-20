@@ -5,6 +5,7 @@ import { getProductBySlug, getRelatedProducts, type ProductView } from "../catal
 import { t } from "../messages";
 import type { Locale } from "../types";
 import { ProductCard } from "./ProductCard";
+import { ProductPrice } from "./ProductPrice";
 import { PurchaseContact } from "./PurchaseContact";
 
 export function ProductPage({ locale }: { locale: Locale }): ReactElement | null {
@@ -130,10 +131,7 @@ export function ProductPage({ locale }: { locale: Locale }): ReactElement | null
             <p className="product-description">{product.description}</p>
             {longDescription.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
           </div>
-          <div className="product-price-block">
-            <p className="product-price">{product.priceLabel}</p>
-            <p className="product-tax">{t(locale, "productTaxes")}</p>
-          </div>
+          <ProductPrice key={product.slug} locale={locale} product={product} />
           <div className="product-summary__section product-summary__section--purchase">
             <PurchaseContact locale={locale} />
           </div>
