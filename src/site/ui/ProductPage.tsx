@@ -10,7 +10,12 @@ import { PurchaseContact } from "./PurchaseContact";
 
 export function ProductPage({ locale }: { locale: Locale }): ReactElement | null {
   const params = useParams();
-  const product = getProductBySlug(params.slug ?? "", locale);
+  const slug = params.slug ?? "";
+  return <ProductPageContent key={slug} locale={locale} slug={slug} />;
+}
+
+function ProductPageContent({ locale, slug }: { locale: Locale; slug: string }): ReactElement | null {
+  const product = getProductBySlug(slug, locale);
   const [selectedImagePath, setSelectedImagePath] = useState<string | null>(product?.images[0]?.path ?? null);
   const [openImagePath, setOpenImagePath] = useState<string | null>(null);
   const [mobileImageIndex, setMobileImageIndex] = useState(0);
