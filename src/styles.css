@@ -57,7 +57,7 @@ h1,h2,h3,p{margin-top:0}h1,h2,h3{font-weight:300;letter-spacing:0}h1{margin-bott
 .catalog-toolbar select,.catalog-toolbar input,.variant-field select{min-height:4.4rem;padding:.8rem 3.4rem .8rem 1.2rem;border:.1rem solid var(--line);border-radius:0;background-color:#fff;color:var(--foreground)}
 .catalog-toolbar input{width:9rem;padding-right:1.2rem}
 .product-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:5rem 2.4rem}.product-card__media{position:relative;overflow:hidden;aspect-ratio:1;background:#f2f2f2}
-.product-card__image{width:100%;height:100%;object-fit:contain;object-position:center;transition:opacity .28s,transform .45s}.product-card__image--hover{position:absolute;inset:0;opacity:0}
+.product-card__image{width:100%;height:100%;object-fit:cover;object-position:center;transition:opacity .28s,transform .45s}.product-card__image--hover{position:absolute;inset:0;opacity:0}
 .product-card:hover .product-card__image:first-child{transform:scale(1.015)}.product-card:hover .product-card__image--hover{opacity:1}
 .product-card__body{padding-top:1.5rem;text-align:center}.product-card__body h3{margin-bottom:.5rem;font-size:1.7rem}.product-card__body span{color:var(--muted);font-size:1.5rem}
 
