@@ -22,8 +22,6 @@ export function ProductListing({
 }): ReactElement {
   const [sort, setSort] = useState<SortKey>("featured");
   const [collection, setCollection] = useState("all");
-  const [minimumPrice, setMinimumPrice] = useState("");
-  const [maximumPrice, setMaximumPrice] = useState("");
 
   const collectionOptions = useMemo(
     () => [...new Set(products.flatMap((product) => product.collectionSlugs))].sort(),
@@ -31,14 +29,9 @@ export function ProductListing({
   );
 
   const visibleProducts = useMemo(() => {
-    const minimum = Number.parseFloat(minimumPrice);
-    const maximum = Number.parseFloat(maximumPrice);
-    const filtered = products.filter((product) => {
-      const price = productPrice(product);
-      return (collection === "all" || product.collectionSlugs.includes(collection))
-        && (!Number.isFinite(minimum) || price >= minimum)
-        && (!Number.isFinite(maximum) || price <= maximum);
-    });
+    const filtered = products.filter((product) =>
+      collection === "all" || product.collectionSlugs.includes(collection)
+    );
 
     if (sort === "featured") {
       return filtered;
@@ -52,13 +45,13 @@ export function ProductListing({
       const result = productPrice(left) - productPrice(right);
       return sort === "price-asc" ? result : -result;
     });
-  }, [collection, locale, maximumPrice, minimumPrice, products, sort]);
+  }, [collection, locale, products, sort]);
 
   return (
     <div className="product-listing">
       <div className="catalog-toolbar">
-        <div className="catalog-toolbar__filters">
-          {showCollectionFilter ? (
+        {showCollectionFilter ? (
+          <div className="catalog-toolbar__filters">
             <label>
               <span>{t(locale, "filterCollection")}</span>
               <select value={collection} onChange={(event) => setCollection(event.target.value)}>
@@ -66,16 +59,8 @@ export function ProductListing({
                 {collectionOptions.map((option) => <option key={option} value={option}>{option.replaceAll("-", " ")}</option>)}
               </select>
             </label>
-          ) : null}
-          <label className="price-filter">
-            <span>{t(locale, "filterMinPrice")}</span>
-            <input inputMode="decimal" type="number" min="0" value={minimumPrice} onChange={(event) => setMinimumPrice(event.target.value)} placeholder="€" />
-          </label>
-          <label className="price-filter">
-            <span>{t(locale, "filterMaxPrice")}</span>
-            <input inputMode="decimal" type="number" min="0" value={maximumPrice} onChange={(event) => setMaximumPrice(event.target.value)} placeholder="€" />
-          </label>
-        </div>
+          </div>
+        ) : null}
         <div className="catalog-toolbar__sort">
           <label>
             <span>{t(locale, "sortBy")}</span>

@@ -50,8 +50,6 @@ const messages = {
   productsCount: { en: "products", de: "Produkte", it: "prodotti" },
   filterCollection: { en: "Collection", de: "Kollektion", it: "Collezione" },
   filterAll: { en: "All", de: "Alle", it: "Tutte" },
-  filterMinPrice: { en: "Minimum price", de: "Mindestpreis", it: "Prezzo minimo" },
-  filterMaxPrice: { en: "Maximum price", de: "Höchstpreis", it: "Prezzo massimo" },
   sortBy: { en: "Sort by", de: "Sortieren nach", it: "Ordina per" },
   sortFeatured: { en: "Featured", de: "Ausgewählt", it: "In evidenza" },
   sortTitleAsc: { en: "Alphabetically, A-Z", de: "Alphabetisch, A-Z", it: "Alfabetico, A-Z" },
