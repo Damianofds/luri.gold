@@ -137,7 +137,6 @@ export function ProductPage({ locale }: { locale: Locale }): ReactElement | null
           </div>
           <div className="product-meta product-summary__section">
             <p>{product.shippingNote}</p>
-            {product.materialNote ? <p>{product.materialNote}</p> : null}
           </div>
         </div>
       </section>
