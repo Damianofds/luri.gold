@@ -85,12 +85,27 @@ const messages = {
     it: "Inizia una conversazione diretta su un gioiello, una creazione su misura o la trasformazione di un gioiello di famiglia."
   },
   contactEmail: { en: "Email", de: "E-Mail", it: "Email" },
-  contactEmailAction: { en: "Send an email", de: "E-Mail senden", it: "Invia un'email" },
+  contactEmailAction: { en: "View email address", de: "E-Mail-Adresse anzeigen", it: "Mostra l'indirizzo email" },
   contactEmailPrompt: {
-    en: "Share your ideas and questions by email and I will reply as soon as possible.",
-    de: "Sende mir deine Ideen und Fragen per E-Mail – ich antworte so bald wie möglich.",
-    it: "Condividi le tue idee e domande via email: ti risponderò il prima possibile."
+    en: "Copy my email address to share your ideas and questions. I will reply as soon as possible.",
+    de: "Kopiere meine E-Mail-Adresse und sende mir deine Ideen und Fragen. Ich antworte so bald wie möglich.",
+    it: "Copia il mio indirizzo email per condividere idee e domande. Ti risponderò il prima possibile."
   },
+  contactEmailDialogTitle: { en: "Contact me by email", de: "Kontakt per E-Mail", it: "Contattami via email" },
+  contactEmailDialogBody: {
+    en: "Copy the address below and paste it into your preferred email service.",
+    de: "Kopiere die folgende Adresse und füge sie in deinen bevorzugten E-Mail-Dienst ein.",
+    it: "Copia l'indirizzo qui sotto e incollalo nel servizio email che preferisci."
+  },
+  contactEmailCopy: { en: "Copy email", de: "E-Mail kopieren", it: "Copia email" },
+  contactEmailCopied: { en: "Copied", de: "Kopiert", it: "Copiata" },
+  contactEmailCopiedConfirmation: { en: "Email address copied.", de: "E-Mail-Adresse kopiert.", it: "Indirizzo email copiato." },
+  contactEmailCopyError: {
+    en: "Copying was not available. Select the address and copy it manually.",
+    de: "Kopieren war nicht möglich. Markiere die Adresse und kopiere sie manuell.",
+    it: "Non è stato possibile copiare. Seleziona l'indirizzo e copialo manualmente."
+  },
+  contactEmailDialogClose: { en: "Close email dialog", de: "E-Mail-Dialog schließen", it: "Chiudi la finestra email" },
   contactInstagram: { en: "Instagram", de: "Instagram", it: "Instagram" },
   redirectEyebrow: { en: "Redirect", de: "Weiterleitung", it: "Reindirizzamento" },
   redirectTitle: { en: "Page moved", de: "Seite verschoben", it: "Pagina spostata" },
