@@ -32,6 +32,7 @@ const messages = {
   footerPrivacy: { en: "Privacy policy", de: "Datenschutz", it: "Privacy" },
   footerShipping: { en: "Payment & Shipping", de: "Zahlung & Versand", it: "Pagamento e spedizione" },
   footerEuroOnly: { en: "EUR only", de: "Nur EUR", it: "Solo EUR" },
+  footerVatNumber: { en: "VAT number", de: "USt-IdNr.", it: "Partita IVA" },
   heroExplore: { en: "Explore the collection", de: "Kollektion entdecken", it: "Esplora la collezione" },
   homeCollectionsEyebrow: { en: "Collections", de: "Kollektionen", it: "Collezioni" },
   homeCollectionsTitle: { en: "By shape, story, and material language", de: "Nach Form, Geschichte und Materialsprache", it: "Per forma, storia e linguaggio materico" },
