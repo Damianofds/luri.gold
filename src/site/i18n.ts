@@ -29,3 +29,33 @@ export function buildLocalizedPath(locale: Locale, path: string): string {
   const pathname = path.replace(/^\/+|\/+$/g, "");
   return `${localePrefix(locale)}/${pathname ? `${pathname}/` : ""}`;
 }
+
+const languagePreferenceKey = "luri-language";
+
+export function rememberLanguage(locale: Locale): void {
+  try {
+    window.localStorage.setItem(languagePreferenceKey, locale);
+  } catch {
+    // Language navigation still works when storage is unavailable.
+  }
+}
+
+export function getInitialLanguageDestination(): string | null {
+  const { pathname, search, hash } = window.location;
+  const path = pathname.slice(siteConfig.basePath.length);
+  if (path !== unlocalizedPath(path)) {
+    return null;
+  }
+
+  let preferredLanguage: string | null = null;
+  try {
+    preferredLanguage = window.localStorage.getItem(languagePreferenceKey);
+  } catch {
+    // Use the browser language when storage is unavailable.
+  }
+  const browserLanguage = navigator.language.toLowerCase().split("-")[0];
+  const locale = normalizeLocale(preferredLanguage ?? browserLanguage);
+  return locale === siteConfig.defaultLocale
+    ? null
+    : `${siteConfig.basePath}${buildLocalizedPath(locale, path)}${search}${hash}`;
+}

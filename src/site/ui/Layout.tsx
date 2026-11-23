@@ -2,7 +2,7 @@ import { useEffect, useState, type PropsWithChildren, type ReactElement } from "
 import { Link, NavLink, useLocation } from "react-router-dom";
 import { assetUrl } from "../assets";
 import { siteConfig } from "../config";
-import { buildLocalizedPath, unlocalizedPath } from "../i18n";
+import { buildLocalizedPath, rememberLanguage, unlocalizedPath } from "../i18n";
 import { t } from "../messages";
 import type { Locale } from "../types";
 
@@ -81,7 +81,12 @@ function LocaleSwitcher({ locale }: { locale: Locale }): ReactElement {
         <NavLink
           key={entry}
           className={({ isActive }) => (entry === locale || isActive ? "is-active" : "")}
-          to={buildLocalizedPath(entry, normalizedPath)}
+          to={{ pathname: buildLocalizedPath(entry, normalizedPath), search: location.search, hash: location.hash }}
+          onClick={(event) => {
+            if (!event.metaKey && !event.ctrlKey && !event.shiftKey && !event.altKey && event.button === 0) {
+              rememberLanguage(entry);
+            }
+          }}
         >
           {entry.toUpperCase()}
         </NavLink>
