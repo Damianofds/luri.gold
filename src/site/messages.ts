@@ -3,6 +3,8 @@ import type { Locale } from "./types";
 
 const messages = {
   navHome: { en: "Home", de: "Home", it: "Home" },
+  studioHeading: { en: "Handcrafted jewellery by LURI", de: "Handgefertigter Schmuck von LURI", it: "Gioielli artigianali di LURI" },
+  productBreadcrumbs: { en: "Product navigation", de: "Produktnavigation", it: "Navigazione del prodotto" },
   navCollection: { en: "Shop", de: "Shop", it: "Shop" },
   navMenu: { en: "Menu", de: "Menü", it: "Menu" },
   navClose: { en: "Close", de: "Schließen", it: "Chiudi" },
@@ -20,6 +22,7 @@ const messages = {
   footerPages: { en: "Pages", de: "Seiten", it: "Pagine" },
   footerContact: { en: "Contact", de: "Kontakt", it: "Contatti" },
   footerPayment: { en: "Payment", de: "Zahlung", it: "Pagamento" },
+  footerSepaTransfer: { en: "SEPA bank transfer", de: "SEPA-Banküberweisung", it: "Bonifico SEPA" },
   footerFollow: { en: "Follow", de: "Folgen", it: "Segui" },
   footerContactIntro: {
     en: "Reach out directly for bespoke commissions, heirloom transformation, and product enquiries.",
@@ -29,6 +32,7 @@ const messages = {
   footerPrivacy: { en: "Privacy policy", de: "Datenschutz", it: "Privacy" },
   footerShipping: { en: "Payment & Shipping", de: "Zahlung & Versand", it: "Pagamento e spedizione" },
   footerEuroOnly: { en: "EUR only", de: "Nur EUR", it: "Solo EUR" },
+  footerVatNumber: { en: "VAT number", de: "USt-IdNr.", it: "Partita IVA" },
   heroExplore: { en: "Explore the collection", de: "Kollektion entdecken", it: "Esplora la collezione" },
   homeCollectionsEyebrow: { en: "Collections", de: "Kollektionen", it: "Collezioni" },
   homeCollectionsTitle: { en: "By shape, story, and material language", de: "Nach Form, Geschichte und Materialsprache", it: "Per forma, storia e linguaggio materico" },

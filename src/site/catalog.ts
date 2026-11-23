@@ -1,3 +1,4 @@
+import { t } from "./messages";
 import { homePage, pages, collections, products } from "../content/loaders";
 import { localizeValue, normalizeLocale } from "./i18n";
 import { siteConfig } from "./config";
@@ -200,4 +201,18 @@ export function getAllStaticRoutes(): string[] {
   }
 
   return [...localized];
+}
+
+
+export function getProductBreadcrumbs(product: ProductView) {
+  const collections = getCollections(product.locale);
+  const productCollections = collections.filter((collection) => collection.productSlugs.includes(product.slug));
+  const parent = productCollections.find((collection) =>
+    ["bracelets", "earrings", "pendants", "rings"].includes(collection.slug)
+  ) ?? productCollections[0];
+  return [
+    { label: t(product.locale, "navCollection"), path: "/collections/all" },
+    ...(parent ? [{ label: parent.title, path: `/collections/${parent.slug}` }] : []),
+    { label: product.title, path: `/products/${product.slug}` }
+  ];
 }

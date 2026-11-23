@@ -15,7 +15,7 @@
     "new:product": "node scripts/new-product.mjs",
     "new:collection": "node scripts/new-collection.mjs",
     "typecheck": "tsc --noEmit",
-    "build": "node scripts/materialize-authored-content.mjs && tsc --noEmit && vite build && vite build --ssr src/entry-server.tsx --outDir dist-ssr && node scripts/prerender.mjs && node scripts/postbuild.mjs",
+    "build": "node scripts/materialize-authored-content.mjs && tsc --noEmit && vite build && vite build --ssr src/entry-server.tsx --outDir dist-ssr && node scripts/prerender.mjs && node scripts/build-card-images.mjs && node scripts/postbuild.mjs",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -27,6 +27,7 @@
     "@types/react": "^19.1.12",
     "@types/react-dom": "^19.1.9",
     "@vitejs/plugin-react": "^5.0.1",
+    "sharp": "^0.35.5",
     "typescript": "^5.9.2",
     "vite": "^7.1.3"
   }

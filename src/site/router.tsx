@@ -1,7 +1,7 @@
 import { useEffect, type ReactElement } from "react";
 import { Route, Routes, useLocation, useNavigate } from "react-router-dom";
 import { siteConfig } from "./config";
-import { normalizeLocale } from "./i18n";
+import { buildLocalizedPath, normalizeLocale } from "./i18n";
 import { Layout } from "./ui/Layout";
 import { HomePage } from "./ui/HomePage";
 import { CollectionPage } from "./ui/CollectionPage";
@@ -22,10 +22,10 @@ function LocaleRoutes({ locale }: { locale: Locale }): ReactElement {
       <Route path="/products/:slug" element={<Layout locale={locale}><ProductPage locale={locale} /></Layout>} />
       <Route path="/pages/:slug" element={<Layout locale={locale}><EditorialPage locale={locale} /></Layout>} />
       <Route path="/privacy-policy" element={<Layout locale={locale}><PrivacyPolicyPage locale={locale} /></Layout>} />
-      <Route path="/policies/privacy-policy" element={<AliasRoute locale={locale} target={locale === "en" ? "/privacy-policy" : `/${locale}/privacy-policy`} />} />
-      <Route path="/pages/privacy" element={<AliasRoute locale={locale} target={locale === "en" ? "/privacy-policy" : `/${locale}/privacy-policy`} />} />
-      <Route path="/pages/custom" element={<AliasRoute locale={locale} target={locale === "en" ? "/pages/bespoke" : `/${locale}/pages/bespoke`} />} />
-      <Route path="*" element={<AliasRoute locale={locale} target={locale === "en" ? "/" : `/${locale}`} />} />
+      <Route path="/policies/privacy-policy" element={<AliasRoute locale={locale} target={buildLocalizedPath(locale, "/privacy-policy")} />} />
+      <Route path="/pages/privacy" element={<AliasRoute locale={locale} target={buildLocalizedPath(locale, "/privacy-policy")} />} />
+      <Route path="/pages/custom" element={<AliasRoute locale={locale} target={buildLocalizedPath(locale, "/pages/bespoke")} />} />
+      <Route path="*" element={<AliasRoute locale={locale} target={buildLocalizedPath(locale, "/")} />} />
     </Routes>
   );
 }
