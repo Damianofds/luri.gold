@@ -6,9 +6,9 @@
     "it": "Pagamento &amp; Spedizione"
   },
   "intro": {
-    "en": "Insured shipping in Europe is included.",
-    "de": "Der versicherte Versand innerhalb Europas ist inklusive.",
-    "it": "La spedizione assicurata è inclusa nei paesi dell'Unione Europea."
+    "en": "Insured shipping within the EU is included.",
+    "de": "Der versicherte Versand innerhalb der EU ist inklusive.",
+    "it": "La spedizione assicurata all’interno dell’UE è inclusa."
   },
   "heroImage": "pages/payment-shipping/hero.jpg",
   "heroSourceUrl": "https://luri.gold/cdn/shop/files/DSC1411.jpg?v=1760974860",
@@ -21,14 +21,14 @@
       },
       "body": [
         {
-          "en": "Insured shipping in Europe is included.",
-          "de": "Der versicherte Versand innerhalb Europas ist inklusive.",
-          "it": "La spedizione assicurata è inclusa nei paesi dell'Unione Europea."
+          "en": "Insured shipping within the EU is included.",
+          "de": "Der versicherte Versand innerhalb der EU ist inklusive.",
+          "it": "La spedizione assicurata all’interno dell’UE è inclusa."
         },
         {
-          "en": "If you wish your jewels being shipped anywhere else in the world, I will calculate your shipping rates accordingly, please reach out to me.",
-          "de": "Wenn du dein Schmuckstück an einen anderen Ort in der Welt schicken lassen möchtest, berechne ich die Versandkosten entsprechend. Schreib mir dafür bitte.",
-          "it": "Contattami per spedizioni fuori dall'UE, calcolerò i costi per te."
+          "en": "For delivery outside the EU, please contact us before ordering. Additional shipping costs may apply and will be calculated for your destination.",
+          "de": "Bitte kontaktiere uns vor der Bestellung, wenn die Lieferung außerhalb der EU erfolgen soll. Je nach Lieferziel können zusätzliche Versandkosten anfallen, die wir für dich berechnen.",
+          "it": "Per consegne fuori dall’UE, contattaci prima di ordinare. Potrebbero essere applicati costi di spedizione aggiuntivi, calcolati in base alla destinazione."
         },
         {
           "en": "I do not offer included returns service.",
@@ -48,6 +48,11 @@
           "en": "Payment is securely processed through PayPal.",
           "de": "Die Zahlung wird sicher über PayPal abgewickelt.",
           "it": "Il pagamento viene elaborato in modo sicuro tramite PayPal."
+        },
+        {
+          "en": "All payments are in EUR.",
+          "de": "Alle Zahlungen erfolgen ausschließlich in EUR.",
+          "it": "Tutti i pagamenti sono accettati esclusivamente in EUR."
         }
       ]
     }
