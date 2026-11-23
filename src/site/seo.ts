@@ -10,7 +10,7 @@ export const studioSummary: Record<Locale, string> = {
   it: "LURI crea in Italia gioielli artigianali in oro, ispirati a tesori antichi e realizzati con materiali preziosi e tracciabili."
 };
 
-function cleanText(text: string): string {
+export function cleanText(text: string): string {
   return text.replace(/&(amp|#39|quot|nbsp|#160);/g, (_, entity: string) =>
     ({ amp: "&", "#39": "'", quot: '"', nbsp: " ", "#160": " " })[entity] ?? ""
   ).replace(/\s+/g, " ").trim();

@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
+import { getStructuredData, serializeStructuredData } from "./structuredData";
 import { getPageMetadata } from "./seo";
 import type { ReactElement } from "react";
 import { AppRouter } from "./router";
@@ -8,6 +9,17 @@ export function App(): ReactElement {
   const { pathname } = useLocation();
   useEffect(() => {
     const metadata = getPageMetadata(pathname);
+    const structuredData = getStructuredData(pathname);
+    const previousData = document.head.querySelector("script[data-structured-data]");
+    if (structuredData) {
+      const script = previousData ?? document.createElement("script");
+      script.setAttribute("type", "application/ld+json");
+      script.setAttribute("data-structured-data", "");
+      script.textContent = serializeStructuredData(structuredData);
+      if (!previousData) document.head.append(script);
+    } else {
+      previousData?.remove();
+    }
     document.title = metadata.title;
     document.documentElement.lang = metadata.locale;
     document.head.querySelectorAll("link[data-page-seo]").forEach((link) => link.remove());

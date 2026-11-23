@@ -15,3 +15,4 @@ export function render(url: string): string {
 }
 
 export { absolutePageUrl, getPageMetadata } from "./site/seo";
+export { getStructuredData, serializeStructuredData } from "./site/structuredData";

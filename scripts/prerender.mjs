@@ -42,7 +42,7 @@ function escapeHtml(value) {
 
 async function main() {
   const template = await loadTemplate();
-  const { render, getPageMetadata, absolutePageUrl } = await loadRenderer();
+  const { render, getPageMetadata, absolutePageUrl, getStructuredData, serializeStructuredData } = await loadRenderer();
   const routes = JSON.parse(await fs.readFile(path.join(generatedDir, "routes.json"), "utf8"));
 
   const sitemap = [];
@@ -58,6 +58,10 @@ async function main() {
             `<link rel="alternate" data-page-seo hreflang="${language}" href="${escapeHtml(url)}" />`)
         ]
       : ['<meta name="robots" content="noindex" data-page-seo />'];
+    const structuredData = getStructuredData(route);
+    if (structuredData) {
+      links.push(`<script type="application/ld+json" data-structured-data>${serializeStructuredData(structuredData)}</script>`);
+    }
     const page = template
       .replace('<html lang="en">', `<html lang="${metadata.locale}">`)
       .replace("</head>", () => `  ${links.join("\n    ")}\n  </head>`)
