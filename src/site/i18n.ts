@@ -21,10 +21,11 @@ export function localizeValue(value: LocalizedString | undefined, locale: Locale
   return value[locale] ?? value[siteConfig.defaultLocale] ?? "";
 }
 
+export function unlocalizedPath(pathname: string): string {
+  return pathname.replace(/^\/(de|it)(?=\/|$)/, "") || "/";
+}
+
 export function buildLocalizedPath(locale: Locale, path: string): string {
-  const prefix = localePrefix(locale);
-  if (!path.startsWith("/")) {
-    return `${prefix}/${path}`;
-  }
-  return `${prefix}${path}` || "/";
+  const pathname = path.replace(/^\/+|\/+$/g, "");
+  return `${localePrefix(locale)}/${pathname ? `${pathname}/` : ""}`;
 }

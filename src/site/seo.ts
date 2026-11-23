@@ -1,6 +1,6 @@
 import { getCollectionBySlug, getPageBySlug, getProductBySlug } from "./catalog";
 import { siteConfig } from "./config";
-import { normalizeLocale } from "./i18n";
+import { buildLocalizedPath, normalizeLocale, unlocalizedPath } from "./i18n";
 import { t } from "./messages";
 import type { Locale } from "./types";
 
@@ -18,7 +18,7 @@ function cleanText(text: string): string {
 
 export function getPageMetadata(pathname: string) {
   const locale = normalizeLocale(pathname.split("/")[1]);
-  const path = pathname.replace(/^\/(de|it)(?=\/|$)/, "").replace(/\/$/, "") || "/";
+  const path = unlocalizedPath(pathname).replace(/\/$/, "") || "/";
   const [, section, slug] = path.split("/");
   const page = section === "pages" ? getPageBySlug(slug, locale) : null;
   const product = section === "products" ? getProductBySlug(slug, locale) : null;
@@ -32,8 +32,30 @@ export function getPageMetadata(pathname: string) {
     ? description.slice(0, 162).replace(/\s+\S*$/, "") + "…"
     : description;
 
+  const indexable = Boolean(page || product || collection)
+    || ["/", "/collections", "/collections/all", "/privacy-policy"].includes(path);
+  const englishDescription = product && cleanText(getProductBySlug(slug, "en")?.description ?? "");
+  const alternateLocales = siteConfig.locales.filter((entry) =>
+    !product || entry === "en" || cleanText(getProductBySlug(slug, entry)?.description ?? "") !== englishDescription
+  );
+  const alternates = indexable && alternateLocales.length > 1 && alternateLocales.includes(locale)
+    ? [
+        ...alternateLocales.map((entry) => ({ language: entry, url: absolutePageUrl(entry, path) })),
+        { language: "x-default", url: absolutePageUrl("en", path) }
+      ]
+    : [];
+
   return {
+    locale,
+    canonical: indexable ? absolutePageUrl(locale, path) : null,
+    alternates,
+    sitemap: indexable && alternateLocales.includes(locale),
     title: heading ? `${heading} | ${siteConfig.brandName}` : siteConfig.brandName,
     description: summary || (heading ? `${heading} — ${studioSummary[locale]}` : studioSummary[locale])
   };
+}
+
+
+export function absolutePageUrl(locale: Locale, path: string): string {
+  return `${siteConfig.canonicalHost}${siteConfig.basePath}${buildLocalizedPath(locale, path)}`;
 }

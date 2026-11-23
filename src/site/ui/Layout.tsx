@@ -2,7 +2,7 @@ import { useEffect, useState, type PropsWithChildren, type ReactElement } from "
 import { Link, NavLink, useLocation } from "react-router-dom";
 import { assetUrl } from "../assets";
 import { siteConfig } from "../config";
-import { buildLocalizedPath, localePrefix } from "../i18n";
+import { buildLocalizedPath, unlocalizedPath } from "../i18n";
 import { t } from "../messages";
 import type { Locale } from "../types";
 
@@ -30,7 +30,7 @@ export function Layout({ locale, children }: PropsWithChildren<{ locale: Locale 
               <span className="visually-hidden">{menuOpen ? t(locale, "navClose") : t(locale, "navMenu")}</span>
               <span className={`menu-toggle__icon ${menuOpen ? "is-open" : ""}`} aria-hidden="true" />
             </button>
-            <Link className="site-brand" to={locale === siteConfig.defaultLocale ? "/" : localePrefix(locale)}>
+            <Link className="site-brand" to={buildLocalizedPath(locale, "/")}>
               <img src={assetUrl("brand/logo-wordmark.png")} alt="LURI jewels" />
             </Link>
             <LocaleSwitcher locale={locale} />
@@ -73,7 +73,7 @@ export function Layout({ locale, children }: PropsWithChildren<{ locale: Locale 
 
 function LocaleSwitcher({ locale }: { locale: Locale }): ReactElement {
   const location = useLocation();
-  const normalizedPath = location.pathname.replace(/^\/(de|it)(?=\/|$)/, "") || "/";
+  const normalizedPath = unlocalizedPath(location.pathname);
 
   return (
     <nav className="site-nav site-nav--language" aria-label="Language">
@@ -81,7 +81,7 @@ function LocaleSwitcher({ locale }: { locale: Locale }): ReactElement {
         <NavLink
           key={entry}
           className={({ isActive }) => (entry === locale || isActive ? "is-active" : "")}
-          to={entry === "en" ? normalizedPath : `${localePrefix(entry)}${normalizedPath === "/" ? "" : normalizedPath}`}
+          to={buildLocalizedPath(entry, normalizedPath)}
         >
           {entry.toUpperCase()}
         </NavLink>

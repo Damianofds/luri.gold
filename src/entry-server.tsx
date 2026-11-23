@@ -14,4 +14,4 @@ export function render(url: string): string {
   );
 }
 
-export { getPageMetadata } from "./site/seo";
+export { absolutePageUrl, getPageMetadata } from "./site/seo";
