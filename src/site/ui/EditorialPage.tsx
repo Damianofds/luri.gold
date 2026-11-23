@@ -50,7 +50,7 @@ export function EditorialPage({ locale }: { locale: Locale }): ReactElement | nu
             {page.leadImages.map((image) => <img key={image} src={assetUrl(image)} alt="" />)}
           </div>
         ) : null}
-        {page.sections.map((section, index) => (
+        {page.sections.map((section, index) => (section.title || section.body.length || section.image || section.images?.length) ? (
           <section key={`${page.slug}:${index}`} className="editorial-section">
             {section.title ? <h2>{section.title}</h2> : null}
             <div className="editorial-section__body">
@@ -65,7 +65,7 @@ export function EditorialPage({ locale }: { locale: Locale }): ReactElement | nu
               </div>
             ) : null}
           </section>
-        ))}
+        ) : null)}
       </article>
       {page.slug === "contact" ? (
         <section className="band">

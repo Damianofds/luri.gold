@@ -55,7 +55,7 @@ export function HomeCarousel({ autoplaySeconds, locale, slides }: HomeCarouselPr
   }
 
   return (
-    <section className="home-carousel" aria-label={t(locale, "carouselLabel")} aria-roledescription="carousel">
+    <section className="home-carousel" aria-label={t(locale, "carouselLabel")} aria-roledescription={t(locale, "carouselRole")}>
       <div
         className="home-carousel__viewport"
         onPointerDown={handlePointerDown}
@@ -68,7 +68,7 @@ export function HomeCarousel({ autoplaySeconds, locale, slides }: HomeCarouselPr
               className="home-carousel__slide"
               aria-hidden={index !== activeIndex}
               aria-label={`${index + 1} / ${slides.length}`}
-              aria-roledescription="slide"
+              aria-roledescription={t(locale, "carouselSlideRole")}
             >
               <div className="home-carousel__media">
                 <img

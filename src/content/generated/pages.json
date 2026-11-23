@@ -142,7 +142,7 @@
           {
             "en": "Quite some years have passed since then, but this dream remained and evolved. Now I create unique pieces in precious materials to fit you and your beloved ones.",
             "de": "Das traditionelle Handwerk habe ich bei Meistergoldschmiedin Eva Nedza in Frankfurt am Main sowie an der Accademia delle Arti Orafe in Rom bei Maestro Antonio Antonelli gelernt.",
-            "it": "Quite some years have passed since then, but this dream remained and evolved. Now I create unique pieces in precious materials to fit you and your beloved ones."
+            "it": ""
           }
         ]
       },
@@ -155,8 +155,8 @@
         "body": [
           {
             "en": "With master goldsmith Eva Nedza in Frankfurt (Germany) and at the Accademia delle Arti Orafe in Rome (Italy), I learned the traditional skills of the patient art to make jewellery.",
-            "de": "With master goldsmith Eva Nedza in Frankfurt (Germany) and at the Accademia delle Arti Orafe in Rome (Italy), I learned the traditional skills of the patient art to make jewellery.",
-            "it": "With master goldsmith Eva Nedza in Frankfurt (Germany) and at the Accademia delle Arti Orafe in Rome (Italy), I learned the traditional skills of the patient art to make jewellery."
+            "de": "",
+            "it": ""
           }
         ]
       }
@@ -468,8 +468,8 @@
         "body": [
           {
             "en": "Please be aware that a heirloom transformation is available for gold jewellery (alloys 14 karat or higher) only. Half of the estimated price is due before I start working and cannot be reimbursed.",
-            "de": "Please be aware that a heirloom transformation is available for gold jewellery (alloys 14 karat or higher) only. Half of the estimated price is due before I start working and cannot be reimbursed.",
-            "it": "Please be aware that a heirloom transformation is available for gold jewellery (alloys 14 karat or higher) only. Half of the estimated price is due before I start working and cannot be reimbursed."
+            "de": "Ich biete die Umarbeitung von Erbstücken für Goldschmuck ab 14 Karat an. Die Hälfte des geschätzten Preises ist vor Arbeitsbeginn fällig und kann nicht erstattet werden.",
+            "it": "La trasformazione è riservata ai gioielli in oro di almeno 14 carati. Prima di iniziare il lavoro è dovuto un acconto pari alla metà del prezzo stimato. L’acconto non è rimborsabile."
           }
         ]
       }
@@ -539,13 +539,13 @@
     "slug": "zodiac-collection",
     "title": {
       "en": "LURI Jewels - Zodiac Collection",
-      "de": "LURI Jewels - Zodiac Collection",
-      "it": "LURI gioielli - Zodiac Collection"
+      "de": "LURI - Sternzeichen-Kollektion",
+      "it": "LURI - Collezione Zodiac"
     },
     "intro": {
       "en": "Every pendant of the LURI Zodiac Collection is crafted by hand and designed as a talisman to be worn around the neck, close to the heart. They are inspired by ancient coins and archeological findings of depictions of the star signs.",
-      "de": "Every pendant of the LURI Zodiac Collection is crafted by hand and designed as a talisman to be worn around the neck, close to the heart. They are inspired by ancient coins and archeological findings of depictions of the star signs.",
-      "it": "Every pendant of the LURI Zodiac Collection is crafted by hand and designed as a talisman to be worn around the neck, close to the heart. They are inspired by ancient coins and archeological findings of depictions of the star signs."
+      "de": "Jeder Anhänger aus der Sternzeichen-Kollektion von LURI wird von Hand gefertigt. Als Talisman kannst du ihn um den Hals tragen, ganz nah am Herzen. Die Entwürfe sind von antiken Münzen und archäologischen Funden mit Darstellungen der Sternzeichen inspiriert.",
+      "it": "Ogni ciondolo della Collezione Zodiac di LURI è realizzato a mano, come un talismano da portare al collo, vicino al cuore. I ciondoli si ispirano alle monete antiche e ai reperti archeologici che raffigurano i segni dello zodiaco."
     },
     "heroImage": "pages/zodiac-collection/hero.jpg",
     "heroSourceUrl": "https://luri.gold/cdn/shop/files/DSC1411.jpg?v=1760974860",
@@ -553,14 +553,14 @@
       {
         "title": {
           "en": "LURI Zodiac Collection",
-          "de": "LURI Zodiac Collection",
-          "it": "LURI Zodiac Collection"
+          "de": "Sternzeichen-Kollektion von LURI",
+          "it": "Collezione Zodiac di LURI"
         },
         "body": [
           {
             "en": "Every pendant of the LURI Zodiac Collection is crafted by hand and designed as a talisman to be worn around the neck, close to the heart. They are inspired by ancient coins and archeological findings of depictions of the star signs.",
-            "de": "Every pendant of the LURI Zodiac Collection is crafted by hand and designed as a talisman to be worn around the neck, close to the heart. They are inspired by ancient coins and archeological findings of depictions of the star signs.",
-            "it": "Every pendant of the LURI Zodiac Collection is crafted by hand and designed as a talisman to be worn around the neck, close to the heart. They are inspired by ancient coins and archeological findings of depictions of the star signs."
+            "de": "Jeder Anhänger aus der Sternzeichen-Kollektion von LURI wird von Hand gefertigt. Als Talisman kannst du ihn um den Hals tragen, ganz nah am Herzen. Die Entwürfe sind von antiken Münzen und archäologischen Funden mit Darstellungen der Sternzeichen inspiriert.",
+            "it": "Ogni ciondolo della Collezione Zodiac di LURI è realizzato a mano, come un talismano da portare al collo, vicino al cuore. I ciondoli si ispirano alle monete antiche e ai reperti archeologici che raffigurano i segni dello zodiaco."
           }
         ]
       },
@@ -573,8 +573,8 @@
         "body": [
           {
             "en": "Make it your own unique token with a personal engraving.",
-            "de": "Make it your own unique token with a personal engraving.",
-            "it": "Make it your own unique token with a personal engraving."
+            "de": "Mach deinen Anhänger mit einer persönlichen Gravur zu einem ganz eigenen Talisman.",
+            "it": "Rendi il tuo ciondolo unico con un’incisione personale."
           }
         ]
       },

@@ -103,7 +103,7 @@ export function getPageBySlug(slug: string, locale: Locale): EditorialPageView |
     intro: localizeValue(record.intro, resolvedLocale),
     sections: record.sections.map((section) => ({
       title: localizeValue(section.title, resolvedLocale),
-      body: section.body.map((paragraph) => localizeValue(paragraph, resolvedLocale)),
+      body: section.body.map((paragraph) => localizeValue(paragraph, resolvedLocale)).filter(Boolean),
       image: section.image,
       images: section.images,
       links: section.links?.map((link) => ({
@@ -139,10 +139,13 @@ export function getProductBySlug(slug: string, locale: Locale): ProductView | nu
     return null;
   }
   const resolvedLocale = normalizeLocale(locale);
+  const title = localizeValue(record.title, resolvedLocale);
+  const englishTitle = localizeValue(record.title, "en");
   return {
     ...record,
     locale: resolvedLocale,
-    title: localizeValue(record.title, resolvedLocale),
+    title,
+    images: record.images.map((image) => image.alt === englishTitle ? { ...image, alt: title } : image),
     description: localizeValue(record.description, resolvedLocale),
     shortDescription: localizeValue(record.shortDescription, resolvedLocale),
     longDescription: record.longDescription.map((paragraph) => localizeValue(paragraph, resolvedLocale)),

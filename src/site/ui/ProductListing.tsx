@@ -1,5 +1,5 @@
 import { useMemo, useState, type ReactElement } from "react";
-import type { ProductView } from "../catalog";
+import { getCollectionBySlug, type ProductView } from "../catalog";
 import { t } from "../messages";
 import type { Locale } from "../types";
 import { ProductCard } from "./ProductCard";
@@ -56,7 +56,9 @@ export function ProductListing({
               <span>{t(locale, "filterCollection")}</span>
               <select value={collection} onChange={(event) => setCollection(event.target.value)}>
                 <option value="all">{t(locale, "filterAll")}</option>
-                {collectionOptions.map((option) => <option key={option} value={option}>{option.replaceAll("-", " ")}</option>)}
+                {collectionOptions.map((slug) => (
+                  <option key={slug} value={slug}>{getCollectionBySlug(slug, locale)?.title ?? slug}</option>
+                ))}
               </select>
             </label>
           </div>
