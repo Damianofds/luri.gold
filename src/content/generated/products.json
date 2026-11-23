@@ -4413,8 +4413,10 @@
         "it": "A reminder to stay in movement, the pearl-swirl-studs are inspired by the ever flowing element water and by the cyclical nature of all things alive. They are crafted in gold 900 with fresh water pearls."
       }
     ],
-    "collectionLabel": "",
-    "collectionSlugs": [],
+    "collectionLabel": "earrings",
+    "collectionSlugs": [
+      "earrings"
+    ],
     "priceLabel": "EUR 590.00",
     "purchaseLabel": {
       "en": "Buy with PayPal",

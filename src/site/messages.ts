@@ -3,6 +3,8 @@ import type { Locale } from "./types";
 
 const messages = {
   navHome: { en: "Home", de: "Home", it: "Home" },
+  studioHeading: { en: "Handcrafted jewellery by LURI", de: "Handgefertigter Schmuck von LURI", it: "Gioielli artigianali di LURI" },
+  productBreadcrumbs: { en: "Product navigation", de: "Produktnavigation", it: "Navigazione del prodotto" },
   navCollection: { en: "Shop", de: "Shop", it: "Shop" },
   navMenu: { en: "Menu", de: "Menü", it: "Menu" },
   navClose: { en: "Close", de: "Schließen", it: "Chiudi" },

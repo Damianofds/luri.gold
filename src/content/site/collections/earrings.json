@@ -6,9 +6,9 @@
     "it": "Orecchini"
   },
   "description": {
-    "en": "",
-    "de": "",
-    "it": ""
+    "en": "Explore gold studs and drop earrings, from geometric forms made with granulation to designs with pearls, emeralds and imperial topaz.",
+    "de": "Entdecke Ohrstecker und Ohrringe aus Gold, von geometrischen Formen in Granulationstechnik bis zu Schmuckstücken mit Perlen, Smaragden und Imperialtopas.",
+    "it": "Scopri orecchini a lobo e pendenti in oro, dalle forme geometriche in granulazione ai gioielli con perle, smeraldi e topazio imperiale."
   },
   "heroImage": "collections/earrings/cover.jpg",
   "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC1906.jpg?v=1731603741",
@@ -17,6 +17,7 @@
     "granulated-emerald-studs",
     "granulated-studs",
     "pyramid-studs",
-    "tourmaline-and-pearl-earrings"
+    "tourmaline-and-pearl-earrings",
+    "pearl-swirl-studs"
   ]
 }

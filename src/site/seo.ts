@@ -4,7 +4,7 @@ import { buildLocalizedPath, normalizeLocale, unlocalizedPath } from "./i18n";
 import { t } from "./messages";
 import type { Locale } from "./types";
 
-const studioSummary: Record<Locale, string> = {
+export const studioSummary: Record<Locale, string> = {
   en: "LURI creates artisanal gold jewellery inspired by antique treasures, handmade in Italy with precious and traceable materials.",
   de: "LURI fertigt in Italien handgemachten Goldschmuck aus edlen, rückverfolgbaren Materialien, inspiriert von antiken Schätzen.",
   it: "LURI crea in Italia gioielli artigianali in oro, ispirati a tesori antichi e realizzati con materiali preziosi e tracciabili."
@@ -50,7 +50,7 @@ export function getPageMetadata(pathname: string) {
     canonical: indexable ? absolutePageUrl(locale, path) : null,
     alternates,
     sitemap: indexable && alternateLocales.includes(locale),
-    title: heading ? `${heading} | ${siteConfig.brandName}` : siteConfig.brandName,
+    title: heading ? `${heading} | ${siteConfig.brandName}` : path === "/" ? `${t(locale, "studioHeading")} | ${siteConfig.brandName}` : siteConfig.brandName,
     description: summary || (heading ? `${heading} — ${studioSummary[locale]}` : studioSummary[locale])
   };
 }

@@ -80,7 +80,7 @@ export function HomeCarousel({ autoplaySeconds, locale, slides }: HomeCarouselPr
               </div>
               <div className="home-carousel__content">
                 <div className="home-carousel__caption">
-                  <h1>{slide.title}</h1>
+                  <h2>{slide.title}</h2>
                   <p>{slide.description}</p>
                   <Link className="button" to={buildLocalizedPath(locale, slide.href)} tabIndex={index === activeIndex ? 0 : -1}>
                     {slide.ctaLabel}

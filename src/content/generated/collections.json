@@ -7,9 +7,9 @@
       "it": "Braccialetti"
     },
     "description": {
-      "en": "",
-      "de": "",
-      "it": ""
+      "en": "Discover the handwoven gold chain bracelet. Its interlocking links make the weave visible along the length of the piece.",
+      "de": "Entdecke das handgeflochtene Goldarmband. Die ineinandergreifenden Glieder machen das Flechtmuster über die gesamte Länge sichtbar.",
+      "it": "Scopri il bracciale a catena in oro intrecciato a mano. Le maglie intrecciate rendono visibile la trama lungo tutto il bracciale."
     },
     "heroImage": "collections/bracelets/cover.jpg",
     "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC1535_646330a2-3e8f-453f-af7c-d0e5d22eb2e3.jpg?v=1763117896",
@@ -25,9 +25,9 @@
       "it": "Orecchini"
     },
     "description": {
-      "en": "",
-      "de": "",
-      "it": ""
+      "en": "Explore gold studs and drop earrings, from geometric forms made with granulation to designs with pearls, emeralds and imperial topaz.",
+      "de": "Entdecke Ohrstecker und Ohrringe aus Gold, von geometrischen Formen in Granulationstechnik bis zu Schmuckstücken mit Perlen, Smaragden und Imperialtopas.",
+      "it": "Scopri orecchini a lobo e pendenti in oro, dalle forme geometriche in granulazione ai gioielli con perle, smeraldi e topazio imperiale."
     },
     "heroImage": "collections/earrings/cover.jpg",
     "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC1906.jpg?v=1731603741",
@@ -36,7 +36,8 @@
       "granulated-emerald-studs",
       "granulated-studs",
       "pyramid-studs",
-      "tourmaline-and-pearl-earrings"
+      "tourmaline-and-pearl-earrings",
+      "pearl-swirl-studs"
     ]
   },
   {
@@ -122,9 +123,9 @@
       "it": "Collane & Pendenti"
     },
     "description": {
-      "en": "",
-      "de": "",
-      "it": ""
+      "en": "Explore necklaces and pendants, including handmade gold chains, a golden heart and zodiac charms inspired by antique coins.",
+      "de": "Entdecke Halsketten und Anhänger, darunter handgefertigte Goldketten, ein goldenes Herz und von antiken Münzen inspirierte Sternzeichen-Anhänger.",
+      "it": "Scopri collane e pendenti, tra cui catene in oro fatte a mano, un cuore d’oro e ciondoli zodiacali ispirati a monete antiche."
     },
     "heroImage": "collections/pendants/cover.jpg",
     "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC1784.jpg?v=1763111512",
@@ -154,9 +155,9 @@
       "it": "Anelli"
     },
     "description": {
-      "en": "",
-      "de": "",
-      "it": ""
+      "en": "Discover gold rings from LURI, from hammered and granulated bands to signet rings and designs set with gemstones.",
+      "de": "Entdecke die Goldringe von LURI, von gehämmerten und granulierten Bandringen bis hin zu Siegelringen und Ringen mit Edelsteinen.",
+      "it": "Scopri gli anelli in oro di LURI, dalle fasce martellate e granulate agli anelli a sigillo e ai modelli con pietre preziose."
     },
     "heroImage": "collections/rings/cover.jpg",
     "heroSourceUrl": "https://luri.gold/cdn/shop/collections/DSC0843_22dde3da-4101-400b-b6a4-c14193987a3f.jpg?v=1770723894",

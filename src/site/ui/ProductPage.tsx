@@ -1,7 +1,8 @@
 import { useEffect, useRef, useState, type ReactElement, type UIEvent } from "react";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { assetUrl } from "../assets";
-import { getProductBySlug, getRelatedProducts, type ProductView } from "../catalog";
+import { getProductBreadcrumbs, getProductBySlug, getRelatedProducts, type ProductView } from "../catalog";
+import { buildLocalizedPath } from "../i18n";
 import { t } from "../messages";
 import type { Locale } from "../types";
 import { ProductCard } from "./ProductCard";
@@ -43,6 +44,7 @@ function ProductPageContent({ locale, slug }: { locale: Locale; slug: string }):
     return null;
   }
 
+  const breadcrumbs = getProductBreadcrumbs(product);
   const productImages = product.images;
   const relatedProducts = getRelatedProducts(product, locale);
   const normalizedDescription = product.description.replace(/\s+/g, " ").trim();
@@ -68,6 +70,14 @@ function ProductPageContent({ locale, slug }: { locale: Locale; slug: string }):
 
   return (
     <div className="product-page">
+      <nav className="product-breadcrumbs page-width" aria-label={t(locale, "productBreadcrumbs")}>
+        <ol>
+          {breadcrumbs.slice(0, -1).map(({ label, path }) => (
+            <li key={path}><Link to={buildLocalizedPath(locale, path)}>{label}</Link> <span aria-hidden="true">›</span></li>
+          ))}
+          <li aria-current="page">{product.title}</li>
+        </ol>
+      </nav>
       <section className="product-layout">
         <div className="product-gallery">
           <div className="product-gallery__desktop">

@@ -4,6 +4,8 @@ import { assetUrl } from "../assets";
 import { getHomePage } from "../catalog";
 import { buildLocalizedPath } from "../i18n";
 import type { Locale } from "../types";
+import { studioSummary } from "../seo";
+import { t } from "../messages";
 import { HomeCarousel } from "./HomeCarousel";
 
 export function HomePage({ locale }: { locale: Locale }): ReactElement {
@@ -12,6 +14,10 @@ export function HomePage({ locale }: { locale: Locale }): ReactElement {
   return (
     <div className="home-page">
       <HomeCarousel autoplaySeconds={home.autoplaySeconds} locale={locale} slides={home.slides} />
+      <section className="studio-intro page-width">
+        <h1>{t(locale, "studioHeading")}</h1>
+        <p>{studioSummary[locale]}</p>
+      </section>
       {home.sections.map((section, index) => (
         <section
           key={`${section.title}:${index}`}
