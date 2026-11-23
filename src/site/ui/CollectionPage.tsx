@@ -1,6 +1,6 @@
 import type { ReactElement } from "react";
 import { Link, useParams } from "react-router-dom";
-import { assetUrl } from "../assets";
+import { CardImage } from "./CardImage";
 import { getCollectionBySlug, getCollections } from "../catalog";
 import { buildLocalizedPath } from "../i18n";
 import { t } from "../messages";
@@ -41,9 +41,9 @@ export function CollectionPage({
       {overview ? (
         <section className="band">
           <div className="collection-grid">
-            {allCollections.map((entry) => (
+            {allCollections.map((entry, index) => (
               <Link key={entry.slug} className="collection-card" to={buildLocalizedPath(locale, `/collections/${entry.slug}`)}>
-                <img src={assetUrl(entry.heroImage)} alt={entry.title} />
+                <CardImage path={entry.heroImage} alt={entry.title} eager={index === 0} />
                 <div className="collection-card__body">
                   <h3>
                     <span>{entry.title}</span>

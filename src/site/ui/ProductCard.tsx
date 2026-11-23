@@ -1,6 +1,6 @@
 import type { ReactElement } from "react";
 import { Link } from "react-router-dom";
-import { assetUrl } from "../assets";
+import { CardImage } from "./CardImage";
 import type { ProductView } from "../catalog";
 import { buildLocalizedPath } from "../i18n";
 import type { Locale } from "../types";
@@ -12,8 +12,8 @@ export function ProductCard({ locale, product }: { locale: Locale; product: Prod
   return (
     <Link className="product-card" to={buildLocalizedPath(locale, `/products/${product.slug}`)}>
       <div className="product-card__media">
-        {primaryImage ? <img className="product-card__image" src={assetUrl(primaryImage.path)} alt={primaryImage.alt || product.title} /> : null}
-        {hoverImage ? <img className="product-card__image product-card__image--hover" src={assetUrl(hoverImage.path)} alt="" loading="lazy" /> : null}
+        {primaryImage ? <CardImage className="product-card__image" path={primaryImage.path} alt={primaryImage.alt || product.title} /> : null}
+        {hoverImage ? <CardImage className="product-card__image product-card__image--hover" path={hoverImage.path} alt="" /> : null}
       </div>
       <div className="product-card__body">
         <h3>{product.title}</h3>

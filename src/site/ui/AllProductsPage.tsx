@@ -1,5 +1,5 @@
 import type { ReactElement } from "react";
-import { assetUrl } from "../assets";
+import { CardImage } from "./CardImage";
 import { getCollections, getProducts } from "../catalog";
 import { buildLocalizedPath } from "../i18n";
 import { t } from "../messages";
@@ -16,9 +16,9 @@ export function AllProductsPage({ locale }: { locale: Locale }): ReactElement {
       <section className="collection-list-section page-width section-padding">
         <h1>{t(locale, "collectionsTitle")}</h1>
         <div className="collection-grid">
-          {collections.map((collection) => (
+          {collections.map((collection, index) => (
             <Link key={collection.slug} className="collection-card" to={buildLocalizedPath(locale, `/collections/${collection.slug}`)}>
-              <img src={assetUrl(collection.heroImage)} alt={collection.title} />
+              <CardImage path={collection.heroImage} alt={collection.title} eager={index === 0} />
               <h2>{collection.title}</h2>
             </Link>
           ))}
