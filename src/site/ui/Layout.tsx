@@ -34,7 +34,7 @@ export function Layout({ locale, children }: PropsWithChildren<{ locale: Locale 
               <img src={assetUrl("brand/logo-wordmark.png")} alt="LURI jewels" />
             </Link>
             <LocaleSwitcher locale={locale} />
-            <nav id="site-primary-nav" className={`site-nav site-nav--primary ${menuOpen ? "is-open" : ""}`} aria-label="Primary">
+            <nav id="site-primary-nav" className={`site-nav site-nav--primary ${menuOpen ? "is-open" : ""}`} aria-label={t(locale, "navPrimaryLabel")}>
               <NavLink end to={buildLocalizedPath(locale, "/")} className={({ isActive }) => (isActive ? "is-active" : "")}>{t(locale, "navHome")}</NavLink>
               <NavLink to={buildLocalizedPath(locale, "/collections/all")} className={({ isActive }) => (isActive ? "is-active" : "")}>{t(locale, "navCollection")}</NavLink>
               <NavLink to={buildLocalizedPath(locale, "/pages/about")} className={({ isActive }) => (isActive ? "is-active" : "")}>{t(locale, "navAbout")}</NavLink>
@@ -84,7 +84,7 @@ function LocaleSwitcher({ locale }: { locale: Locale }): ReactElement {
   const normalizedPath = unlocalizedPath(location.pathname);
 
   return (
-    <nav className="site-nav site-nav--language" aria-label="Language">
+    <nav className="site-nav site-nav--language" aria-label={t(locale, "navLanguageLabel")}>
       {siteConfig.locales.map((entry) => (
         <NavLink
           key={entry}

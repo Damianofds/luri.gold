@@ -2,24 +2,24 @@
   "slug": "paperclip-chain",
   "title": {
     "en": "Handmade Paperclip Chain",
-    "de": "Handmade Paperclip Chain",
-    "it": "Handmade Paperclip Chain"
+    "de": "Handgefertigte Büroklammerkette",
+    "it": "Collana a maglie allungate fatta a mano"
   },
   "description": {
     "en": "A handmade, 18 karat gold necklace. Worn on its own it adds a touch of minimalistic elegance to any outfit. In combination with your favourite pendants it becomes the expression of your personal style and your story.  As all LURI pieces, this necklace is crafted entirely by hand.",
-    "de": "A handmade, 18 karat gold necklace. Worn on its own it adds a touch of minimalistic elegance to any outfit. In combination with your favourite pendants it becomes the expression of your personal style and your story.  As all LURI pieces, this necklace is crafted entirely by hand.",
-    "it": "A handmade, 18 karat gold necklace. Worn on its own it adds a touch of minimalistic elegance to any outfit. In combination with your favourite pendants it becomes the expression of your personal style and your story.  As all LURI pieces, this necklace is crafted entirely by hand."
+    "de": "Eine handgefertigte Halskette aus 18-karätigem Gold. Solo getragen verleiht sie jedem Outfit eine schlichte Eleganz. Mit deinen Lieblingsanhängern erzählt sie deine eigene Geschichte. Wie alle Schmuckstücke von LURI ist die Kette vollständig von Hand gefertigt.",
+    "it": "Una collana in oro a 18 carati, realizzata a mano. Indossata da sola aggiunge un tocco di eleganza essenziale. Con i tuoi ciondoli preferiti racconta il tuo stile e la tua storia. Come tutti i gioielli LURI, è realizzata interamente a mano."
   },
   "shortDescription": {
     "en": "A handmade, 18 karat gold necklace. Worn on its own it adds a touch of minimalistic elegance to any outfit. In combination with your favourite pendants it becom",
-    "de": "A handmade, 18 karat gold necklace. Worn on its own it adds a touch of minimalistic elegance to any outfit. In combination with your favourite pendants it becomes the expression of your personal style and your story.  As all LURI pieces, this necklace is crafted entirely by hand.",
-    "it": "A handmade, 18 karat gold necklace. Worn on its own it adds a touch of minimalistic elegance to any outfit. In combination with your favourite pendants it becomes the expression of your personal style and your story.  As all LURI pieces, this necklace is crafted entirely by hand."
+    "de": "Eine handgefertigte Halskette aus 18-karätigem Gold.",
+    "it": "Una collana in oro a 18 carati, realizzata a mano."
   },
   "longDescription": [
     {
       "en": "A handmade, 18 karat gold necklace. Worn on its own it adds a touch of minimalistic elegance to any outfit. In combination with your favourite pendants it becomes the expression of your personal style and your story. As all LURI pieces, this necklace is crafted entirely by hand.",
-      "de": "A handmade, 18 karat gold necklace. Worn on its own it adds a touch of minimalistic elegance to any outfit. In combination with your favourite pendants it becomes the expression of your personal style and your story.  As all LURI pieces, this necklace is crafted entirely by hand.",
-      "it": "A handmade, 18 karat gold necklace. Worn on its own it adds a touch of minimalistic elegance to any outfit. In combination with your favourite pendants it becomes the expression of your personal style and your story.  As all LURI pieces, this necklace is crafted entirely by hand."
+      "de": "Eine handgefertigte Halskette aus 18-karätigem Gold. Solo getragen verleiht sie jedem Outfit eine schlichte Eleganz. Mit deinen Lieblingsanhängern erzählt sie deine eigene Geschichte. Wie alle Schmuckstücke von LURI ist die Kette vollständig von Hand gefertigt.",
+      "it": "Una collana in oro a 18 carati, realizzata a mano. Indossata da sola aggiunge un tocco di eleganza essenziale. Con i tuoi ciondoli preferiti racconta il tuo stile e la tua storia. Come tutti i gioielli LURI, è realizzata interamente a mano."
     }
   ],
   "collectionLabel": "frontpage / pendants",
@@ -42,8 +42,8 @@
   "optionLabels": {
     "Length": {
       "en": "Length",
-      "de": "Length",
-      "it": "Length"
+      "de": "Länge",
+      "it": "Lunghezza"
     }
   },
   "options": [

@@ -2,24 +2,24 @@
   "slug": "libra-charm",
   "title": {
     "en": "Libra Charm",
-    "de": "Libra Charm",
-    "it": "Libra Charm"
+    "de": "Waage-Anhänger",
+    "it": "Ciondolo Bilancia"
   },
   "description": {
     "en": "Open to all opinions, a libra seeks truth, justice and harmony while never forgetting about the value of beauty, fun and pleasure. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
-    "de": "Open to all opinions, a libra seeks truth, justice and harmony while never forgetting about the value of beauty, fun and pleasure. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
-    "it": "Open to all opinions, a libra seeks truth, justice and harmony while never forgetting about the value of beauty, fun and pleasure. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm."
+    "de": "Die Waage hört sich unterschiedliche Meinungen an und sucht nach Wahrheit, Gerechtigkeit und Harmonie. Dabei behält sie ihren Sinn für Schönheit, Freude und Vergnügen. Diesen Anhänger gibt es in 18-karätigem Gold und Sterlingsilber. Maße: ca. 21 × 15 × 2 mm.",
+    "it": "Aperta a opinioni diverse, la Bilancia cerca la verità, la giustizia e l’armonia, senza perdere il gusto per la bellezza, il divertimento e il piacere. Il ciondolo è disponibile in oro a 18 carati e argento sterling. Dimensioni: circa 21 × 15 × 2 mm."
   },
   "shortDescription": {
     "en": "Open to all opinions, a libra seeks truth, justice and harmony while never forgetting about the value of beauty, fun and pleasure. This pendant is available in ",
-    "de": "Open to all opinions, a libra seeks truth, justice and harmony while never forgetting about the value of beauty, fun and pleasure. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
-    "it": "Open to all opinions, a libra seeks truth, justice and harmony while never forgetting about the value of beauty, fun and pleasure. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm."
+    "de": "Die Waage hört sich unterschiedliche Meinungen an und sucht nach Wahrheit, Gerechtigkeit und Harmonie.",
+    "it": "Aperta a opinioni diverse, la Bilancia cerca la verità, la giustizia e l’armonia, senza perdere il gusto per la bellezza, il divertimento e il piacere."
   },
   "longDescription": [
     {
       "en": "Open to all opinions, a libra seeks truth, justice and harmony while never forgetting about the value of beauty, fun and pleasure. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
-      "de": "Open to all opinions, a libra seeks truth, justice and harmony while never forgetting about the value of beauty, fun and pleasure. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm.",
-      "it": "Open to all opinions, a libra seeks truth, justice and harmony while never forgetting about the value of beauty, fun and pleasure. This pendant is available in 18 karat gold and sterling silver. Dimensions: approximately 21 x 15 x 2 mm."
+      "de": "Die Waage hört sich unterschiedliche Meinungen an und sucht nach Wahrheit, Gerechtigkeit und Harmonie. Dabei behält sie ihren Sinn für Schönheit, Freude und Vergnügen. Diesen Anhänger gibt es in 18-karätigem Gold und Sterlingsilber. Maße: ca. 21 × 15 × 2 mm.",
+      "it": "Aperta a opinioni diverse, la Bilancia cerca la verità, la giustizia e l’armonia, senza perdere il gusto per la bellezza, il divertimento e il piacere. Il ciondolo è disponibile in oro a 18 carati e argento sterling. Dimensioni: circa 21 × 15 × 2 mm."
     }
   ],
   "collectionLabel": "frontpage / pendants",
@@ -42,8 +42,8 @@
   "optionLabels": {
     "Gold/Silver": {
       "en": "Gold/Silver",
-      "de": "Gold/Silver",
-      "it": "Gold/Silver"
+      "de": "Gold/Silber",
+      "it": "Oro/argento"
     }
   },
   "options": [

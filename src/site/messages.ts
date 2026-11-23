@@ -2,16 +2,20 @@ import { localizeValue } from "./i18n";
 import type { Locale } from "./types";
 
 const messages = {
-  navHome: { en: "Home", de: "Home", it: "Home" },
+  navHome: { en: "Home", de: "Startseite", it: "Inizio" },
+  navPrimaryLabel: { en: "Main navigation", de: "Hauptnavigation", it: "Navigazione principale" },
+  navLanguageLabel: { en: "Language", de: "Sprache", it: "Lingua" },
   studioHeading: { en: "Handcrafted jewellery by LURI", de: "Handgefertigter Schmuck von LURI", it: "Gioielli artigianali di LURI" },
   productBreadcrumbs: { en: "Product navigation", de: "Produktnavigation", it: "Navigazione del prodotto" },
-  navCollection: { en: "Shop", de: "Shop", it: "Shop" },
+  navCollection: { en: "Shop", de: "Schmuck", it: "Gioielli" },
   navMenu: { en: "Menu", de: "Menü", it: "Menu" },
   navClose: { en: "Close", de: "Schließen", it: "Chiudi" },
   navAbout: { en: "About", de: "Über LURI", it: "L'Atelier" },
   navBespoke: { en: "Bespoke", de: "Maßanfertigung", it: "Su misura" },
   navHeirloom: { en: "Heirloom Transformation", de: "Erbstück-Verwandlung", it: "Trasformazione di cimeli" },
   carouselLabel: { en: "Slideshow about our brand", de: "Slideshow über unsere Marke", it: "Presentazione del nostro marchio" },
+  carouselRole: { en: "carousel", de: "Karussell", it: "carosello" },
+  carouselSlideRole: { en: "slide", de: "Folie", it: "diapositiva" },
   carouselPrevious: { en: "Previous slide", de: "Vorherige Folie", it: "Slide precedente" },
   carouselNext: { en: "Next slide", de: "Nächste Folie", it: "Slide successiva" },
   carouselPause: { en: "Pause slideshow", de: "Slideshow pausieren", it: "Metti in pausa" },
@@ -29,7 +33,7 @@ const messages = {
     de: "Direkter Kontakt fuer Massanfertigungen, Erbstueck-Verwandlungen und Produktanfragen.",
     it: "Contatto diretto per creazioni su misura, trasformazioni di cimeli e richieste sui prodotti."
   },
-  footerPrivacy: { en: "Privacy policy", de: "Datenschutz", it: "Privacy" },
+  footerPrivacy: { en: "Privacy policy", de: "Datenschutz", it: "Informativa sulla privacy" },
   footerShipping: { en: "Payment & Shipping", de: "Zahlung & Versand", it: "Pagamento e spedizione" },
   footerEuroOnly: { en: "EUR only", de: "Nur EUR", it: "Solo EUR" },
   footerVatNumber: { en: "VAT number", de: "USt-IdNr.", it: "Partita IVA" },
@@ -70,6 +74,10 @@ const messages = {
   productImageOpen: { en: "Open full image", de: "Vollständiges Bild öffnen", it: "Apri l'immagine completa" },
   productImageClose: { en: "Close image", de: "Bild schließen", it: "Chiudi l'immagine" },
   productTaxes: { en: "Taxes included.", de: "Steuern inklusive.", it: "Imposte incluse." },
+  productGold18K: { en: "18 karat Gold", de: "18-karätiges Gold", it: "Oro a 18 carati" },
+  productSterlingSilver: { en: "Sterling Silver", de: "Sterlingsilber", it: "Argento sterling" },
+  productGold750: { en: "Gold 750", de: "750er Gold", it: "Oro 750" },
+  productGold900: { en: "Gold 900", de: "900er Gold", it: "Oro 900" },
   productPurchaseContactTitle: { en: "Contact me to purchase", de: "Kontakt zum Kauf", it: "Contattami per acquistare" },
   productPurchaseContactBody: {
     en: "To purchase this jewel, contact me directly via WhatsApp or email.",
@@ -119,7 +127,7 @@ const messages = {
     it: "Questo percorso e stato normalizzato nella ricostruzione statica. Continua su"
   },
   privacyEyebrow: { en: "Privacy", de: "Datenschutz", it: "Privacy" },
-  privacyTitle: { en: "Privacy policy", de: "Datenschutz", it: "Privacy" },
+  privacyTitle: { en: "Privacy policy", de: "Datenschutz", it: "Informativa sulla privacy" },
   privacyBodyOne: {
     en: "You can browse the luri.gold website without creating an account. LURI receives personal information only when you choose to get in touch by WhatsApp or email, or when you complete a payment through PayPal. The information you share is used to answer your request and coordinate your order or bespoke work.",
     de: "Du kannst die Website luri.gold ohne Benutzerkonto besuchen. LURI erhält persönliche Angaben nur, wenn du über WhatsApp oder E-Mail Kontakt aufnimmst oder eine Zahlung über PayPal abschließt. Deine Angaben werden verwendet, um deine Anfrage zu beantworten und deine Bestellung oder Maßanfertigung abzustimmen.",
