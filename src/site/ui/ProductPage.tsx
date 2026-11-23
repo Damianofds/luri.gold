@@ -4,6 +4,7 @@ import { assetUrl } from "../assets";
 import { getProductBreadcrumbs, getProductBySlug, getRelatedProducts, type ProductView } from "../catalog";
 import { buildLocalizedPath } from "../i18n";
 import { t } from "../messages";
+import { cleanText } from "../seo";
 import type { Locale } from "../types";
 import { ProductCard } from "./ProductCard";
 import { ProductPrice } from "./ProductPrice";
@@ -47,11 +48,12 @@ function ProductPageContent({ locale, slug }: { locale: Locale; slug: string }):
   const breadcrumbs = getProductBreadcrumbs(product);
   const productImages = product.images;
   const relatedProducts = getRelatedProducts(product, locale);
-  const normalizedDescription = product.description.replace(/\s+/g, " ").trim();
-  const longDescription = product.longDescription.filter(
-    (paragraph, index, paragraphs) => paragraph.replace(/\s+/g, " ").trim() !== normalizedDescription
-      && paragraphs.indexOf(paragraph) === index
-  );
+  const description = cleanText(product.description);
+  const longDescription = [...new Set(product.longDescription.map(cleanText).filter(Boolean))];
+  // The Shopify import sometimes used a shortened copy of the body as the summary.
+  const paragraphs = !description || longDescription.some((paragraph) => paragraph.startsWith(description))
+    ? longDescription
+    : [description, ...longDescription];
 
   function moveMobileGallery(index: number): void {
     const normalizedIndex = Math.max(0, Math.min(productImages.length - 1, index));
@@ -143,8 +145,9 @@ function ProductPageContent({ locale, slug }: { locale: Locale; slug: string }):
         <div className="product-summary">
           <h1>{product.title}</h1>
           <div className="product-summary__section product-summary__description">
-            <p className="product-description">{product.description}</p>
-            {longDescription.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+            {paragraphs.map((paragraph, index) => (
+              <p key={paragraph} className={index === 0 ? "product-description" : undefined}>{paragraph}</p>
+            ))}
           </div>
           <ProductPrice key={product.slug} locale={locale} product={product} />
           <div className="product-summary__section product-summary__section--purchase">

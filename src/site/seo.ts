@@ -13,7 +13,7 @@ export const studioSummary: Record<Locale, string> = {
 export function cleanText(text: string): string {
   return text.replace(/&(amp|#39|quot|nbsp|#160);/g, (_, entity: string) =>
     ({ amp: "&", "#39": "'", quot: '"', nbsp: " ", "#160": " " })[entity] ?? ""
-  ).replace(/\s+/g, " ").trim();
+  ).replace(/\s+/g, " ").replace(/ (?=[.,!?])/g, "").trim();
 }
 
 export function getPageMetadata(pathname: string) {
