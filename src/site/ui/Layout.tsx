@@ -63,7 +63,12 @@ export function Layout({ locale, children }: PropsWithChildren<{ locale: Locale 
             </ul>
           </div>
           <div className="site-footer__localization"><LocaleSwitcher locale={locale} /></div>
-          <div className="site-footer__payment"><span>{t(locale, "footerPayment")}</span><strong>PayPal</strong><small>{t(locale, "footerEuroOnly")}</small></div>
+          <div className="site-footer__payment">
+            <span>{t(locale, "footerPayment")}</span>
+            <strong>{t(locale, "footerSepaTransfer")}</strong>
+            <strong>PayPal</strong>
+            <small>{t(locale, "footerEuroOnly")}</small>
+          </div>
           <small className="site-footer__copyright">© 2026, LURI jewels</small>
         </div>
       </footer>

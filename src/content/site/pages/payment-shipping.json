@@ -45,9 +45,9 @@
       },
       "body": [
         {
-          "en": "Payment is securely processed through PayPal.",
-          "de": "Die Zahlung wird sicher über PayPal abgewickelt.",
-          "it": "Il pagamento viene elaborato in modo sicuro tramite PayPal."
+          "en": "You can pay by direct bank transfer to a SEPA bank account or via PayPal.",
+          "de": "Du kannst per Direktüberweisung auf ein SEPA-Bankkonto oder über PayPal bezahlen.",
+          "it": "Puoi pagare con bonifico diretto su un conto bancario SEPA o tramite PayPal."
         },
         {
           "en": "All payments are in EUR.",

@@ -22,6 +22,7 @@ const messages = {
   footerPages: { en: "Pages", de: "Seiten", it: "Pagine" },
   footerContact: { en: "Contact", de: "Kontakt", it: "Contatti" },
   footerPayment: { en: "Payment", de: "Zahlung", it: "Pagamento" },
+  footerSepaTransfer: { en: "SEPA bank transfer", de: "SEPA-Banküberweisung", it: "Bonifico SEPA" },
   footerFollow: { en: "Follow", de: "Folgen", it: "Segui" },
   footerContactIntro: {
     en: "Reach out directly for bespoke commissions, heirloom transformation, and product enquiries.",
