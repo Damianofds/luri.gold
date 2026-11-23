@@ -35,15 +35,25 @@ async function ensureDir(filePath) {
   await fs.mkdir(path.dirname(filePath), { recursive: true });
 }
 
+function escapeHtml(value) {
+  return value.replaceAll("&", "&amp;").replaceAll('"', "&quot;")
+    .replaceAll("<", "&lt;").replaceAll(">", "&gt;");
+}
+
 async function main() {
   const template = await loadTemplate();
-  const { render } = await loadRenderer();
+  const { render, getPageMetadata } = await loadRenderer();
   const routes = JSON.parse(await fs.readFile(path.join(generatedDir, "routes.json"), "utf8"));
 
   for (const route of routes) {
     const html = render(`${basePath}${route || "/"}` || "/");
     const outFile = routeToOutputPath(route);
-    const page = template.replace('<div id="root"></div>', `<div id="root">${html}</div>`);
+    const metadata = getPageMetadata(route);
+    const page = template
+      .replace(/<title>.*?<\/title>/, () => `<title>${escapeHtml(metadata.title)}</title>`)
+      .replace(/<meta name="description"[^>]*>/, () =>
+        `<meta name="description" content="${escapeHtml(metadata.description)}" />`)
+      .replace('<div id="root"></div>', `<div id="root">${html}</div>`);
     await ensureDir(outFile);
     await fs.writeFile(outFile, page, "utf8");
   }

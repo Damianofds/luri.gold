@@ -13,3 +13,5 @@ export function render(url: string): string {
     </React.StrictMode>
   );
 }
+
+export { getPageMetadata } from "./site/seo";
